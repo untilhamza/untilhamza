@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A passionate frontend developer living and studying in South Korea</h3>
-# My Portfolio 🔥
+
+## My Portfolio 🔥
 
 > https://untilhamza.github.io/
+
+## My Resume 🗞
+
+> https://untilhamza.github.io/assets/resume/Hamza_Kyamanywa_-_Full_Stack_Software_Engineer.pdf
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=untilhamza&row=2&column=-1" alt="untilhamza" /></a> </p>
 
