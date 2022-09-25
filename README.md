@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A passionate frontend developer living and studying in South Korea</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=untilhamza" alt="untilhamza" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=untilhamza&row=2&column=4" alt="untilhamza" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/untilhamza" target="blank"><img src="https://img.shields.io/twitter/follow/untilhamza?logo=twitter&style=for-the-badge" alt="untilhamza" /></a> </p>
 
