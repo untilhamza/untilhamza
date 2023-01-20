@@ -1,18 +1,19 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hamza
+# Hi, My name is Hamza ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ## Sofware Engineer
 
 <!-- I'm a self-taught and driven software engineer with a passion for building and a background in electrical engineering. Graduated magna cum laude from Korea University. A Ugandan national and now based in South Korea, using my skills to deliver innovative solutions every day. Continuously learning and improving to push boundaries. -->
 
-I'm a self-taught and passionate ugandan software engineer based in Seoul.
+I'm a self-taught and passionate Ugandan Software engineer based in Seoul. I gradudated **magna cum laude** from Electrical Engineering at [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do). My passion for software far exceeded my love for electrical engineering and I haven't stopped coding since I picked up that C-langauge book.
 
 - 🌍  I'm based in Seoul, South Korea
+- 📄 [My Resume](https://untilhamza.github.io/assets/resume/Hamza_Kyamanywa_-_Full_Stack_Software_Engineer.pdf)
 - 🖥️  See my portfolio at [here](http://untilhamza.github.io/)
-- ✉️  You can contact me at [untilhamza@gmail.com](mailto:untilhamza@gmail.com)
+- 📫 How to reach me [untilhamza@gmail.com](mailto:untilhamza@gmail.com)
 - 🚀  I'm currently working on [empowering life long learners with @slid_team](http://www.slid.cc)
 - 🧠  I'm learning Django
-- 🤝  I'm open to collaborating on any interesting project ideas you may have. (Something ambitious )
-- ⚡  I speak a language from every continent 🌎
+- 🤝  I’m looking to collaborate on [editorJs](https://github.com/editor-js)
+- ⚡ Fun fact **I speak a language from every continent!** 🌎
 
 <a href="https://www.github.com/untilhamza" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
