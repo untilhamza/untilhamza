@@ -2,7 +2,9 @@
 
 ## Sofware Engineer
 
-Self-taught and driven software engineer with a passion for building and a background in electrical engineering. Graduated magna cum laude from Korea University. A Ugandan national and now based in South Korea, using my skills to deliver innovative solutions every day. Continuously learning and improving to push boundaries.
+<!-- I'm a self-taught and driven software engineer with a passion for building and a background in electrical engineering. Graduated magna cum laude from Korea University. A Ugandan national and now based in South Korea, using my skills to deliver innovative solutions every day. Continuously learning and improving to push boundaries. -->
+
+I'm a self-taught and passionate ugandan software engineer based in Seoul.
 
 - 🌍  I'm based in Seoul, South Korea
 - 🖥️  See my portfolio at [here](http://untilhamza.github.io/)
