@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2.3.4
-      - uses: workflows/recent-activity@master
+      - uses: workflows/recent-activity
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
