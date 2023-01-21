@@ -66,6 +66,17 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!-- <a href="https://github.com/untilhamza" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=untilhamza&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=untilhamza&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=untilhamza&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=untilhamza&theme=dracula)
+
 <!-- <b>Top Repositories</b> -->
 <!--
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br /> -->
+
+<br>
+Currently Coding & Listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31zhkmixlf3hxgj3c23tlvr7neya)
