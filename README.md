@@ -69,7 +69,6 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=untilhamza&theme=dracula)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=untilhamza&theme=dracula)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=untilhamza&theme=dracula)
 
 <!-- <b>Top Repositories</b> -->
