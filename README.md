@@ -65,7 +65,7 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 <!-- <b>My Recent GitHub Activity</b> -->
 
 <!--START_SECTION:activity-->
-
+<!--RECENT_ACTIVITY:start-->
 <!--END_SECTION:activity-->
 
 <!--//TODO: Put back later after they fix error -->
