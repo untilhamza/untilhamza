@@ -62,9 +62,10 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <a href="http://www.github.com/untilhamza"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=untilhamza&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<b>My Recent GitHub Activity</b>
+<!-- <b>My Recent GitHub Activity</b> -->
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 <!--//TODO: Put back later after they fix error -->
