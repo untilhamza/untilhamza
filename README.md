@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ciderapp/Cider](https://github.com/ciderapp/Cider)<br>
-2. ⭐ Starred [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower)<br>
-3. ⬆️ Pushed 1 commit(s) to [untilhamza/desktop-stt](https://github.com/untilhamza/desktop-stt)<br>
-4. 📔 Created new repository [untilhamza/desktop-stt](https://github.com/untilhamza/desktop-stt)<br>
-5. ⭐ Starred [hokein/electron-sample-apps](https://github.com/hokein/electron-sample-apps)<br>
+1. ⭐ Starred [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)<br>
+2. ⭐ Starred [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole)<br>
+3. ⭐ Starred [ciderapp/Cider](https://github.com/ciderapp/Cider)<br>
+4. ⭐ Starred [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower)<br>
+5. ⬆️ Pushed 1 commit(s) to [untilhamza/desktop-stt](https://github.com/untilhamza/desktop-stt)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
