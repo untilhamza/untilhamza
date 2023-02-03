@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [untilhamza/desktop-stt](https://github.com/untilhamza/desktop-stt)<br>
-2. 📔 Created new repository [untilhamza/desktop-stt](https://github.com/untilhamza/desktop-stt)<br>
-3. ⭐ Starred [hokein/electron-sample-apps](https://github.com/hokein/electron-sample-apps)<br>
-4. 💬 Commented on [#4044](https://github.com/aws-amplify/amplify-js/issues/4044#issuecomment-1408687950) in [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js)<br>
-5. ⭐ Starred [ferlobo1985/NEXT-Auth](https://github.com/ferlobo1985/NEXT-Auth)<br>
+1. ⭐ Starred [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower)<br>
+2. ⬆️ Pushed 1 commit(s) to [untilhamza/desktop-stt](https://github.com/untilhamza/desktop-stt)<br>
+3. 📔 Created new repository [untilhamza/desktop-stt](https://github.com/untilhamza/desktop-stt)<br>
+4. ⭐ Starred [hokein/electron-sample-apps](https://github.com/hokein/electron-sample-apps)<br>
+5. 💬 Commented on [#4044](https://github.com/aws-amplify/amplify-js/issues/4044#issuecomment-1408687950) in [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
