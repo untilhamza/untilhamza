@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Kyuunex/electron-screen-capture-test](https://github.com/Kyuunex/electron-screen-capture-test)<br>
-2. ⭐ Starred [AudioNet/node-core-audio](https://github.com/AudioNet/node-core-audio)<br>
-3. 🔱 Forked [untilhamza/stream-handbook](https://github.com/untilhamza/stream-handbook) from [maxogden/stream-handbook](https://github.com/maxogden/stream-handbook)<br>
-4. ⭐ Starred [maxogden/stream-handbook](https://github.com/maxogden/stream-handbook)<br>
-5. ⭐ Starred [bcomnes/audio-stream](https://github.com/bcomnes/audio-stream)<br>
+1. 🔱 Forked [untilhamza/coding-interview-university](https://github.com/untilhamza/coding-interview-university) from [silicon-mountain/coding-interview-university](https://github.com/silicon-mountain/coding-interview-university)<br>
+2. ⭐ Starred [silicon-mountain/coding-interview-university](https://github.com/silicon-mountain/coding-interview-university)<br>
+3. ⭐ Starred [Kyuunex/electron-screen-capture-test](https://github.com/Kyuunex/electron-screen-capture-test)<br>
+4. ⭐ Starred [AudioNet/node-core-audio](https://github.com/AudioNet/node-core-audio)<br>
+5. 🔱 Forked [untilhamza/stream-handbook](https://github.com/untilhamza/stream-handbook) from [maxogden/stream-handbook](https://github.com/maxogden/stream-handbook)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
