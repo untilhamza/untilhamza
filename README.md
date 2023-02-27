@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [untilhamza/desktop-stt](https://github.com/untilhamza/desktop-stt)<br>
-2. ⭐ Starred [mdn/dom-examples](https://github.com/mdn/dom-examples)<br>
-3. ⭐ Starred [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)<br>
-4. ⭐ Starred [sohamkamani/javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)<br>
-5. ⭐ Starred [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)<br>
+1. ⬆️ Pushed 4 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+2. ⬆️ Pushed 1 commit(s) to [untilhamza/desktop-stt](https://github.com/untilhamza/desktop-stt)<br>
+3. ⭐ Starred [mdn/dom-examples](https://github.com/mdn/dom-examples)<br>
+4. ⭐ Starred [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)<br>
+5. ⭐ Starred [sohamkamani/javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
