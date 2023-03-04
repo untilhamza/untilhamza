@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 6 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
-2. ⬆️ Pushed 4 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
-3. ⬆️ Pushed 1 commit(s) to [untilhamza/desktop-stt](https://github.com/untilhamza/desktop-stt)<br>
-4. ⭐ Starred [mdn/dom-examples](https://github.com/mdn/dom-examples)<br>
-5. ⭐ Starred [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)<br>
+1. ⬆️ Pushed 1 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+2. ⬆️ Pushed 17 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+3. ⬆️ Pushed 6 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+4. ⬆️ Pushed 4 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+5. ⬆️ Pushed 1 commit(s) to [untilhamza/desktop-stt](https://github.com/untilhamza/desktop-stt)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
