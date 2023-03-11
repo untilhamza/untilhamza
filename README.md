@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.3.2](https://github.com/untilhamza/Booking-Web-App/releases/tag/v1.3.2) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-2. ⬆️ Pushed 1 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-3. ⬆️ Pushed 3 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-4. ⬆️ Pushed 1 commit(s) to [untilhamza/next-js-sample-booking-web-app](https://github.com/untilhamza/next-js-sample-booking-web-app)<br>
-5. 📔 Created new repository [untilhamza/next-js-sample-booking-web-app](https://github.com/untilhamza/next-js-sample-booking-web-app)<br>
+1. ⬆️ Pushed 7 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+2. ✌️ Released [v1.3.2](https://github.com/untilhamza/Booking-Web-App/releases/tag/v1.3.2) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+3. ⬆️ Pushed 1 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+4. ⬆️ Pushed 3 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+5. ⬆️ Pushed 1 commit(s) to [untilhamza/next-js-sample-booking-web-app](https://github.com/untilhamza/next-js-sample-booking-web-app)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
