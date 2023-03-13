@@ -67,10 +67,10 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
-2. ⬆️ Pushed 6 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
-3. ⬆️ Pushed 1 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
-4. ⬆️ Pushed 6 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
-5. ⬆️ Pushed 6 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+2. ⬆️ Pushed 1 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+3. ⬆️ Pushed 2 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+4. ⬆️ Pushed 1 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+5. ⬆️ Pushed 6 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
