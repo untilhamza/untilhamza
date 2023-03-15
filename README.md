@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#43](https://github.com/untilhamza/Booking-Web-App/pull/43#discussion_r1136522333) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-2. 👍 Approved [#43](https://github.com/untilhamza/Booking-Web-App/pull/43#pullrequestreview-1340632861) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+1. 👍 Approved [#44](https://github.com/untilhamza/Booking-Web-App/pull/44#pullrequestreview-1340662465) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+2. 💬 Commented on [#43](https://github.com/untilhamza/Booking-Web-App/pull/43#discussion_r1136522333) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
 3. 👍 Approved [#43](https://github.com/untilhamza/Booking-Web-App/pull/43#pullrequestreview-1340632861) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-4. 💬 Commented on [#43](https://github.com/untilhamza/Booking-Web-App/pull/43#discussion_r1136512128) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-5. 💬 Commented on [#43](https://github.com/untilhamza/Booking-Web-App/pull/43#discussion_r1136512330) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+4. 👍 Approved [#43](https://github.com/untilhamza/Booking-Web-App/pull/43#pullrequestreview-1340632861) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+5. 💬 Commented on [#43](https://github.com/untilhamza/Booking-Web-App/pull/43#discussion_r1136512128) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
