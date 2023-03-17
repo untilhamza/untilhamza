@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [untilhamza/slid-co-pilot](https://github.com/untilhamza/slid-co-pilot)<br>
-2. ⬆️ Pushed 1 commit(s) to [untilhamza/Slid-co-pilot-play-ground](https://github.com/untilhamza/Slid-co-pilot-play-ground)<br>
-3. 📔 Created new repository [untilhamza/Slid-co-pilot-play-ground](https://github.com/untilhamza/Slid-co-pilot-play-ground)<br>
-4. ⭐ Starred [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)<br>
-5. ⬆️ Pushed 8 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+1. ⬆️ Pushed 3 commit(s) to [untilhamza/slid-co-pilot](https://github.com/untilhamza/slid-co-pilot)<br>
+2. 📔 Created new repository [untilhamza/slid-co-pilot](https://github.com/untilhamza/slid-co-pilot)<br>
+3. ⬆️ Pushed 1 commit(s) to [untilhamza/Slid-co-pilot-play-ground](https://github.com/untilhamza/Slid-co-pilot-play-ground)<br>
+4. 📔 Created new repository [untilhamza/Slid-co-pilot-play-ground](https://github.com/untilhamza/Slid-co-pilot-play-ground)<br>
+5. ⭐ Starred [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
