@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [qdrant/qdrant](https://github.com/qdrant/qdrant)<br>
-2. ⬆️ Pushed 6 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-3. 🎉 Merged PR [#59](https://github.com/untilhamza/Booking-Web-App/pull/59) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-4. 💪 Opened PR [#59](https://github.com/untilhamza/Booking-Web-App/pull/59) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-5. ⬆️ Pushed 13 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+1. 🔱 Forked [untilhamza/qdrant](https://github.com/untilhamza/qdrant) from [qdrant/qdrant](https://github.com/qdrant/qdrant)<br>
+2. ⭐ Starred [qdrant/qdrant](https://github.com/qdrant/qdrant)<br>
+3. ⬆️ Pushed 6 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+4. 🎉 Merged PR [#59](https://github.com/untilhamza/Booking-Web-App/pull/59) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+5. 💪 Opened PR [#59](https://github.com/untilhamza/Booking-Web-App/pull/59) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
