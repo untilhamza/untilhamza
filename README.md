@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [untilhamza/slid-co-pilot](https://github.com/untilhamza/slid-co-pilot)<br>
-2. 🔱 Forked [untilhamza/qdrant](https://github.com/untilhamza/qdrant) from [qdrant/qdrant](https://github.com/qdrant/qdrant)<br>
-3. ⭐ Starred [qdrant/qdrant](https://github.com/qdrant/qdrant)<br>
-4. ⬆️ Pushed 6 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-5. 🎉 Merged PR [#59](https://github.com/untilhamza/Booking-Web-App/pull/59) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+1. ✌️ Released [v3.1.2](https://github.com/Slid-Team/slid-desktop-builds/releases/tag/v3.1.2) in [Slid-Team/slid-desktop-builds](https://github.com/Slid-Team/slid-desktop-builds)<br>
+2. ⬆️ Pushed 1 commit(s) to [untilhamza/slid-co-pilot](https://github.com/untilhamza/slid-co-pilot)<br>
+3. 🔱 Forked [untilhamza/qdrant](https://github.com/untilhamza/qdrant) from [qdrant/qdrant](https://github.com/qdrant/qdrant)<br>
+4. ⭐ Starred [qdrant/qdrant](https://github.com/qdrant/qdrant)<br>
+5. ⬆️ Pushed 6 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
