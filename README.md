@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 7 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-2. 🎉 Merged PR [#60](https://github.com/untilhamza/Booking-Web-App/pull/60) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-3. 💪 Opened PR [#60](https://github.com/untilhamza/Booking-Web-App/pull/60) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-4. ✌️ Released [v3.1.2](https://github.com/Slid-Team/slid-desktop-builds-v2/releases/tag/v3.1.2) in [Slid-Team/slid-desktop-builds-v2](https://github.com/Slid-Team/slid-desktop-builds-v2)<br>
-5. ✌️ Released [v3.1.2](https://github.com/Slid-Team/slid-desktop-builds/releases/tag/v3.1.2) in [Slid-Team/slid-desktop-builds](https://github.com/Slid-Team/slid-desktop-builds)<br>
+1. ⭐ Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)<br>
+2. ⬆️ Pushed 3 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+3. 🎉 Merged PR [#61](https://github.com/untilhamza/Booking-Web-App/pull/61) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+4. 💪 Opened PR [#61](https://github.com/untilhamza/Booking-Web-App/pull/61) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+5. ⬆️ Pushed 7 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
