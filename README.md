@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)<br>
-2. ⬆️ Pushed 3 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-3. 🎉 Merged PR [#61](https://github.com/untilhamza/Booking-Web-App/pull/61) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-4. 💪 Opened PR [#61](https://github.com/untilhamza/Booking-Web-App/pull/61) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-5. ⬆️ Pushed 7 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+1. ⭐ Starred [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index)<br>
+2. ⭐ Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)<br>
+3. ⬆️ Pushed 3 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+4. 🎉 Merged PR [#61](https://github.com/untilhamza/Booking-Web-App/pull/61) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+5. 💪 Opened PR [#61](https://github.com/untilhamza/Booking-Web-App/pull/61) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
