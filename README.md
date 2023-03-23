@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 6 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-2. 🎉 Merged PR [#64](https://github.com/untilhamza/Booking-Web-App/pull/64) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-3. 💪 Opened PR [#64](https://github.com/untilhamza/Booking-Web-App/pull/64) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-4. ⬆️ Pushed 6 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-5. 🎉 Merged PR [#63](https://github.com/untilhamza/Booking-Web-App/pull/63) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+1. ✌️ Released [v1.14.0](https://github.com/untilhamza/Booking-Web-App/releases/tag/v1.14.0) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+2. ⬆️ Pushed 6 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+3. 🎉 Merged PR [#64](https://github.com/untilhamza/Booking-Web-App/pull/64) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+4. 💪 Opened PR [#64](https://github.com/untilhamza/Booking-Web-App/pull/64) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+5. ⬆️ Pushed 6 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
