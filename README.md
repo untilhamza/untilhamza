@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [chris-chris/ml-engineer-roadmap](https://github.com/chris-chris/ml-engineer-roadmap)<br>
-2. ⭐ Starred [saharmor/whisper-playground](https://github.com/saharmor/whisper-playground)<br>
-3. ✌️ Released [v1.14.0](https://github.com/untilhamza/Booking-Web-App/releases/tag/v1.14.0) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-4. ⬆️ Pushed 6 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-5. 🎉 Merged PR [#64](https://github.com/untilhamza/Booking-Web-App/pull/64) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+1. ⭐ Starred [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>
+2. ⭐ Starred [chris-chris/ml-engineer-roadmap](https://github.com/chris-chris/ml-engineer-roadmap)<br>
+3. ⭐ Starred [saharmor/whisper-playground](https://github.com/saharmor/whisper-playground)<br>
+4. ✌️ Released [v1.14.0](https://github.com/untilhamza/Booking-Web-App/releases/tag/v1.14.0) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+5. ⬆️ Pushed 6 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
