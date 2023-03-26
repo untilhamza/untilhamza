@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 6 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
-2. ⬆️ Pushed 1 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-3. 👍 Approved [#65](https://github.com/untilhamza/Booking-Web-App/pull/65#pullrequestreview-1357803805) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-4. ⭐ Starred [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>
-5. ⭐ Starred [chris-chris/ml-engineer-roadmap](https://github.com/chris-chris/ml-engineer-roadmap)<br>
+1. ⬆️ Pushed 7 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+2. 🎉 Merged PR [#1](https://github.com/untilhamza/gochul/pull/1) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+3. 💪 Opened PR [#1](https://github.com/untilhamza/gochul/pull/1) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+4. ⬆️ Pushed 6 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+5. ⬆️ Pushed 6 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
