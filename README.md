@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#69](https://github.com/untilhamza/Booking-Web-App/pull/69#pullrequestreview-1367816144) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-2. 👍 Approved [#67](https://github.com/untilhamza/Booking-Web-App/pull/67#pullrequestreview-1367815322) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-3. 👍 Approved [#68](https://github.com/untilhamza/Booking-Web-App/pull/68#pullrequestreview-1367814994) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-4. 💬 Commented on [#67](https://github.com/untilhamza/Booking-Web-App/pull/67#discussion_r1155060101) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-5. 💬 Commented on [#67](https://github.com/untilhamza/Booking-Web-App/pull/67#discussion_r1155060055) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+1. 👍 Approved [#70](https://github.com/untilhamza/Booking-Web-App/pull/70#pullrequestreview-1367816597) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+2. 👍 Approved [#69](https://github.com/untilhamza/Booking-Web-App/pull/69#pullrequestreview-1367816144) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+3. 👍 Approved [#67](https://github.com/untilhamza/Booking-Web-App/pull/67#pullrequestreview-1367815322) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+4. 👍 Approved [#68](https://github.com/untilhamza/Booking-Web-App/pull/68#pullrequestreview-1367814994) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+5. 💬 Commented on [#67](https://github.com/untilhamza/Booking-Web-App/pull/67#discussion_r1155060101) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
