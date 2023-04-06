@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [qdrant/qdrant_demo](https://github.com/qdrant/qdrant_demo)<br>
-2. 💬 Commented on [#4044](https://github.com/aws-amplify/amplify-js/issues/4044#issuecomment-1498386550) in [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js)<br>
-3. 💪 Opened PR [#3](https://github.com/untilhamza/gochul/pull/3) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
-4. ⬆️ Pushed 1 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
-5. ⬆️ Pushed 10 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+1. ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase)<br>
+2. ⭐ Starred [qdrant/qdrant_demo](https://github.com/qdrant/qdrant_demo)<br>
+3. 💬 Commented on [#4044](https://github.com/aws-amplify/amplify-js/issues/4044#issuecomment-1498386550) in [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js)<br>
+4. 💪 Opened PR [#3](https://github.com/untilhamza/gochul/pull/3) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+5. ⬆️ Pushed 1 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
