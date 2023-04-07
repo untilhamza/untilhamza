@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)<br>
-2. ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase)<br>
-3. ⭐ Starred [qdrant/qdrant_demo](https://github.com/qdrant/qdrant_demo)<br>
-4. 💬 Commented on [#4044](https://github.com/aws-amplify/amplify-js/issues/4044#issuecomment-1498386550) in [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js)<br>
-5. 💪 Opened PR [#3](https://github.com/untilhamza/gochul/pull/3) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+1. ⭐ Starred [gkamradt/langchain-tutorials](https://github.com/gkamradt/langchain-tutorials)<br>
+2. ⭐ Starred [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)<br>
+3. ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase)<br>
+4. ⭐ Starred [qdrant/qdrant_demo](https://github.com/qdrant/qdrant_demo)<br>
+5. 💬 Commented on [#4044](https://github.com/aws-amplify/amplify-js/issues/4044#issuecomment-1498386550) in [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
