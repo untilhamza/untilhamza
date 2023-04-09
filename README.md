@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
-2. 🎉 Merged PR [#3](https://github.com/untilhamza/gochul/pull/3) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
-3. 💪 Opened PR [#2529](https://github.com/hwchase17/langchain/pull/2529) in [hwchase17/langchain](https://github.com/hwchase17/langchain)<br>
-4. 🔱 Forked [untilhamza/langchain](https://github.com/untilhamza/langchain) from [hwchase17/langchain](https://github.com/hwchase17/langchain)<br>
-5. ⭐ Starred [gkamradt/langchain-tutorials](https://github.com/gkamradt/langchain-tutorials)<br>
+1. 🎉 Merged PR [#5](https://github.com/untilhamza/gochul/pull/5) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+2. ⬆️ Pushed 2 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+3. 💪 Opened PR [#5](https://github.com/untilhamza/gochul/pull/5) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+4. ⬆️ Pushed 18 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+5. 🎉 Merged PR [#4](https://github.com/untilhamza/gochul/pull/4) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
