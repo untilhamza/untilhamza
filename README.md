@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [timothymugayi/mychatbot](https://github.com/timothymugayi/mychatbot)<br>
-2. ⭐ Starred [hwchase17/langchain](https://github.com/hwchase17/langchain)<br>
-3. ⭐ Starred [facebookresearch/faiss](https://github.com/facebookresearch/faiss)<br>
-4. ⬆️ Pushed 2 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
-5. 🎉 Merged PR [#5](https://github.com/untilhamza/gochul/pull/5) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+1. 💪 Opened PR [#3070](https://github.com/hwchase17/langchain/pull/3070) in [hwchase17/langchain](https://github.com/hwchase17/langchain)<br>
+2. ⬆️ Pushed 225 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
+3. ⭐ Starred [timothymugayi/mychatbot](https://github.com/timothymugayi/mychatbot)<br>
+4. ⭐ Starred [hwchase17/langchain](https://github.com/hwchase17/langchain)<br>
+5. ⭐ Starred [facebookresearch/faiss](https://github.com/facebookresearch/faiss)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
