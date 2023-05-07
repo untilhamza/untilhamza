@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](https://github.com/Mtavya420/booking-App/pull/2) in [Mtavya420/booking-App](https://github.com/Mtavya420/booking-App)<br>
-2. 💪 Opened PR [#1](https://github.com/Mtavya420/booking-App/pull/1) in [Mtavya420/booking-App](https://github.com/Mtavya420/booking-App)<br>
-3. 💪 Opened PR [#3070](https://github.com/hwchase17/langchain/pull/3070) in [hwchase17/langchain](https://github.com/hwchase17/langchain)<br>
-4. ⬆️ Pushed 225 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
-5. ⭐ Starred [timothymugayi/mychatbot](https://github.com/timothymugayi/mychatbot)<br>
+1. 💪 Opened PR [#1](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API/pull/1) in [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
+2. ⬆️ Pushed 2 commit(s) to [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
+3. 💪 Opened PR [#2](https://github.com/Mtavya420/booking-App/pull/2) in [Mtavya420/booking-App](https://github.com/Mtavya420/booking-App)<br>
+4. 💪 Opened PR [#1](https://github.com/Mtavya420/booking-App/pull/1) in [Mtavya420/booking-App](https://github.com/Mtavya420/booking-App)<br>
+5. 💪 Opened PR [#3070](https://github.com/hwchase17/langchain/pull/3070) in [hwchase17/langchain](https://github.com/hwchase17/langchain)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
