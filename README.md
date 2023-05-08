@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
-2. 🎉 Merged PR [#2](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API/pull/2) in [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
-3. 💪 Opened PR [#2](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API/pull/2) in [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
-4. ⬆️ Pushed 3 commit(s) to [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
-5. 🎉 Merged PR [#1](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API/pull/1) in [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
+1. ⭐ Starred [fluentpython/example-code](https://github.com/fluentpython/example-code)<br>
+2. ⬆️ Pushed 2 commit(s) to [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
+3. 🎉 Merged PR [#2](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API/pull/2) in [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
+4. 💪 Opened PR [#2](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API/pull/2) in [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
+5. ⬆️ Pushed 3 commit(s) to [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
