@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [stephensanwo/fullstack-ai-chatbot](https://github.com/stephensanwo/fullstack-ai-chatbot)<br>
-2. ⭐ Starred [fluentpython/example-code](https://github.com/fluentpython/example-code)<br>
-3. ⬆️ Pushed 2 commit(s) to [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
-4. 🎉 Merged PR [#2](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API/pull/2) in [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
-5. 💪 Opened PR [#2](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API/pull/2) in [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
+1. ⬆️ Pushed 2 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+2. 🎉 Merged PR [#8](https://github.com/untilhamza/gochul/pull/8) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+3. 💪 Opened PR [#8](https://github.com/untilhamza/gochul/pull/8) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+4. ❌ Closed PR [#7](https://github.com/untilhamza/gochul/pull/7) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+5. 💪 Opened PR [#7](https://github.com/untilhamza/gochul/pull/7) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
