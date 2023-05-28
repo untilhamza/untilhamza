@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#12](https://github.com/untilhamza/gochul/pull/12) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
-2. ⬆️ Pushed 19 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
-3. 🎉 Merged PR [#13](https://github.com/untilhamza/gochul/pull/13) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
-4. 💪 Opened PR [#13](https://github.com/untilhamza/gochul/pull/13) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
-5. 💪 Opened PR [#12](https://github.com/untilhamza/gochul/pull/12) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+1. ⬆️ Pushed 1 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+2. ⬆️ Pushed 1 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+3. 🎉 Merged PR [#12](https://github.com/untilhamza/gochul/pull/12) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+4. ⬆️ Pushed 19 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+5. 🎉 Merged PR [#13](https://github.com/untilhamza/gochul/pull/13) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
