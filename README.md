@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [trawhq/traw](https://github.com/trawhq/traw)<br>
-2. ⭐ Starred [hyeshik/auto-lecture-note](https://github.com/hyeshik/auto-lecture-note)<br>
-3. ⭐ Starred [vercel/examples](https://github.com/vercel/examples)<br>
-4. 🔱 Forked [untilhamza/Complete-Auth-system-with-TypeScript](https://github.com/untilhamza/Complete-Auth-system-with-TypeScript) from [hyeda1103/Complete-Auth-system-with-TypeScript](https://github.com/hyeda1103/Complete-Auth-system-with-TypeScript)<br>
-5. ⭐ Starred [SevaSk/ecoute](https://github.com/SevaSk/ecoute)<br>
+1. ⬆️ Pushed 2 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+2. 🎉 Merged PR [#16](https://github.com/untilhamza/gochul/pull/16) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+3. 💪 Opened PR [#16](https://github.com/untilhamza/gochul/pull/16) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+4. ⭐ Starred [trawhq/traw](https://github.com/trawhq/traw)<br>
+5. ⭐ Starred [hyeshik/auto-lecture-note](https://github.com/hyeshik/auto-lecture-note)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
