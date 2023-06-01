@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
-2. 🎉 Merged PR [#16](https://github.com/untilhamza/gochul/pull/16) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
-3. 💪 Opened PR [#16](https://github.com/untilhamza/gochul/pull/16) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
-4. ⭐ Starred [trawhq/traw](https://github.com/trawhq/traw)<br>
-5. ⭐ Starred [hyeshik/auto-lecture-note](https://github.com/hyeshik/auto-lecture-note)<br>
+1. ⬆️ Pushed 9 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+2. 🎉 Merged PR [#17](https://github.com/untilhamza/gochul/pull/17) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+3. 💪 Opened PR [#17](https://github.com/untilhamza/gochul/pull/17) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+4. ⬆️ Pushed 2 commit(s) to [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+5. 🎉 Merged PR [#16](https://github.com/untilhamza/gochul/pull/16) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
