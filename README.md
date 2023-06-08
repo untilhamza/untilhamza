@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/whisper_real_time](https://github.com/untilhamza/whisper_real_time) from [davabase/whisper_real_time](https://github.com/davabase/whisper_real_time)<br>
-2. 🔱 Forked [untilhamza/transcriber_app_with_gui](https://github.com/untilhamza/transcriber_app_with_gui) from [davabase/transcriber_app](https://github.com/davabase/transcriber_app)<br>
-3. ⭐ Starred [davabase/transcriber_app](https://github.com/davabase/transcriber_app)<br>
-4. ⭐ Starred [davabase/whisper_real_time](https://github.com/davabase/whisper_real_time)<br>
-5. 🎉 Merged PR [#18](https://github.com/untilhamza/gochul/pull/18) in [untilhamza/gochul](https://github.com/untilhamza/gochul)<br>
+1. ⭐ Starred [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)<br>
+2. ⭐ Starred [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)<br>
+3. 🔱 Forked [untilhamza/whisper_real_time](https://github.com/untilhamza/whisper_real_time) from [davabase/whisper_real_time](https://github.com/davabase/whisper_real_time)<br>
+4. 🔱 Forked [untilhamza/transcriber_app_with_gui](https://github.com/untilhamza/transcriber_app_with_gui) from [davabase/transcriber_app](https://github.com/davabase/transcriber_app)<br>
+5. ⭐ Starred [davabase/transcriber_app](https://github.com/davabase/transcriber_app)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
