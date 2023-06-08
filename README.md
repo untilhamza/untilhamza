@@ -66,10 +66,10 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)<br>
-2. ⭐ Starred [node-ffi/node-ffi](https://github.com/node-ffi/node-ffi)<br>
-3. ⭐ Starred [gchilds/LoomBackgroundMusic](https://github.com/gchilds/LoomBackgroundMusic)<br>
-4. ⭐ Starred [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)<br>
+1. ⭐ Starred [fardog/node-osx-audio](https://github.com/fardog/node-osx-audio)<br>
+2. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)<br>
+3. ⭐ Starred [node-ffi/node-ffi](https://github.com/node-ffi/node-ffi)<br>
+4. ⭐ Starred [gchilds/LoomBackgroundMusic](https://github.com/gchilds/LoomBackgroundMusic)<br>
 5. ⭐ Starred [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
