@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/BackgroundMusic](https://github.com/untilhamza/BackgroundMusic) from [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)<br>
-2. ⭐ Starred [gchilds/BackgroundMusic](https://github.com/gchilds/BackgroundMusic)<br>
-3. ⭐ Starred [fardog/node-osx-audio](https://github.com/fardog/node-osx-audio)<br>
-4. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)<br>
-5. ⭐ Starred [node-ffi/node-ffi](https://github.com/node-ffi/node-ffi)<br>
+1. ⭐ Starred [AudioNet/node-core-audio](https://github.com/AudioNet/node-core-audio)<br>
+2. 🔱 Forked [untilhamza/BackgroundMusic](https://github.com/untilhamza/BackgroundMusic) from [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)<br>
+3. ⭐ Starred [gchilds/BackgroundMusic](https://github.com/gchilds/BackgroundMusic)<br>
+4. ⭐ Starred [fardog/node-osx-audio](https://github.com/fardog/node-osx-audio)<br>
+5. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
