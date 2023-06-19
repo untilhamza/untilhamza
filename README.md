@@ -68,9 +68,9 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [untilhamza/my-open-ai-backend](https://github.com/untilhamza/my-open-ai-backend)<br>
 2. ⬆️ Pushed 1 commit(s) to [untilhamza/my-open-ai-backend](https://github.com/untilhamza/my-open-ai-backend)<br>
-3. ⬆️ Pushed 3 commit(s) to [untilhamza/my-open-ai-backend](https://github.com/untilhamza/my-open-ai-backend)<br>
-4. 🎉 Merged PR [#1](https://github.com/untilhamza/my-open-ai-backend/pull/1) in [untilhamza/my-open-ai-backend](https://github.com/untilhamza/my-open-ai-backend)<br>
-5. 💪 Opened PR [#1](https://github.com/untilhamza/my-open-ai-backend/pull/1) in [untilhamza/my-open-ai-backend](https://github.com/untilhamza/my-open-ai-backend)<br>
+3. ⬆️ Pushed 1 commit(s) to [untilhamza/my-open-ai-backend](https://github.com/untilhamza/my-open-ai-backend)<br>
+4. ⬆️ Pushed 3 commit(s) to [untilhamza/my-open-ai-backend](https://github.com/untilhamza/my-open-ai-backend)<br>
+5. 🎉 Merged PR [#1](https://github.com/untilhamza/my-open-ai-backend/pull/1) in [untilhamza/my-open-ai-backend](https://github.com/untilhamza/my-open-ai-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
