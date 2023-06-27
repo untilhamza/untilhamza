@@ -66,7 +66,7 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [untilhamza/my-open-ai-backend](https://github.com/untilhamza/my-open-ai-backend)<br>
+1. ⭐ Starred [thamsuppp/llm_summary_medium](https://github.com/thamsuppp/llm_summary_medium)<br>
 2. ⬆️ Pushed 1 commit(s) to [untilhamza/my-open-ai-backend](https://github.com/untilhamza/my-open-ai-backend)<br>
 3. ⬆️ Pushed 1 commit(s) to [untilhamza/my-open-ai-backend](https://github.com/untilhamza/my-open-ai-backend)<br>
 4. ⬆️ Pushed 1 commit(s) to [untilhamza/my-open-ai-backend](https://github.com/untilhamza/my-open-ai-backend)<br>
