@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [get-pytube/pytube3](https://github.com/get-pytube/pytube3)<br>
-2. 💪 Opened PR [#1731](https://github.com/pytube/pytube/pull/1731) in [pytube/pytube](https://github.com/pytube/pytube)<br>
-3. ⬆️ Pushed 1 commit(s) to [untilhamza/pytube](https://github.com/untilhamza/pytube)<br>
-4. 🔱 Forked [untilhamza/pytube](https://github.com/untilhamza/pytube) from [pytube/pytube](https://github.com/pytube/pytube)<br>
-5. 💬 Commented on [#1728](https://github.com/pytube/pytube/issues/1728#issuecomment-1641396749) in [pytube/pytube](https://github.com/pytube/pytube)<br>
+1. ⭐ Starred [pytube/pytube](https://github.com/pytube/pytube)<br>
+2. ⭐ Starred [get-pytube/pytube3](https://github.com/get-pytube/pytube3)<br>
+3. 💪 Opened PR [#1731](https://github.com/pytube/pytube/pull/1731) in [pytube/pytube](https://github.com/pytube/pytube)<br>
+4. ⬆️ Pushed 1 commit(s) to [untilhamza/pytube](https://github.com/untilhamza/pytube)<br>
+5. 🔱 Forked [untilhamza/pytube](https://github.com/untilhamza/pytube) from [pytube/pytube](https://github.com/pytube/pytube)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
