@@ -67,9 +67,9 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [untilhamza/nkola-market](https://github.com/untilhamza/nkola-market)<br>
-2. 📔 Created new repository [untilhamza/nkola-market](https://github.com/untilhamza/nkola-market)<br>
-3. ⭐ Starred [alnixon/youtube-dl-podcast](https://github.com/alnixon/youtube-dl-podcast)<br>
-4. ⬆️ Pushed 1 commit(s) to [untilhamza/Test-youtube-dl-in-AWS-lambda](https://github.com/untilhamza/Test-youtube-dl-in-AWS-lambda)<br>
+2. ⬆️ Pushed 1 commit(s) to [untilhamza/nkola-market](https://github.com/untilhamza/nkola-market)<br>
+3. 📔 Created new repository [untilhamza/nkola-market](https://github.com/untilhamza/nkola-market)<br>
+4. ⭐ Starred [alnixon/youtube-dl-podcast](https://github.com/alnixon/youtube-dl-podcast)<br>
 5. ⬆️ Pushed 1 commit(s) to [untilhamza/Test-youtube-dl-in-AWS-lambda](https://github.com/untilhamza/Test-youtube-dl-in-AWS-lambda)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
