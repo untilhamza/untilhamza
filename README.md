@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto)<br>
-2. ⬆️ Pushed 1 commit(s) to [untilhamza/nkola-market](https://github.com/untilhamza/nkola-market)<br>
-3. ⬆️ Pushed 1 commit(s) to [untilhamza/nkola-market](https://github.com/untilhamza/nkola-market)<br>
-4. 📔 Created new repository [untilhamza/nkola-market](https://github.com/untilhamza/nkola-market)<br>
-5. ⭐ Starred [alnixon/youtube-dl-podcast](https://github.com/alnixon/youtube-dl-podcast)<br>
+1. ⭐ Starred [bluesky-social/social-app](https://github.com/bluesky-social/social-app)<br>
+2. ⭐ Starred [dailyrandomphoto/dailyrandomphoto](https://github.com/dailyrandomphoto/dailyrandomphoto)<br>
+3. ⭐ Starred [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto)<br>
+4. ⬆️ Pushed 1 commit(s) to [untilhamza/nkola-market](https://github.com/untilhamza/nkola-market)<br>
+5. ⬆️ Pushed 1 commit(s) to [untilhamza/nkola-market](https://github.com/untilhamza/nkola-market)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
