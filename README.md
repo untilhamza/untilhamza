@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bluesky-social/social-app](https://github.com/bluesky-social/social-app)<br>
-2. ⭐ Starred [dailyrandomphoto/dailyrandomphoto](https://github.com/dailyrandomphoto/dailyrandomphoto)<br>
-3. ⭐ Starred [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto)<br>
-4. ⬆️ Pushed 1 commit(s) to [untilhamza/nkola-market](https://github.com/untilhamza/nkola-market)<br>
-5. ⬆️ Pushed 1 commit(s) to [untilhamza/nkola-market](https://github.com/untilhamza/nkola-market)<br>
+1. ⭐ Starred [openai/gpt-2](https://github.com/openai/gpt-2)<br>
+2. ⭐ Starred [latitudegames/GPT-3-Encoder](https://github.com/latitudegames/GPT-3-Encoder)<br>
+3. ⭐ Starred [bluesky-social/social-app](https://github.com/bluesky-social/social-app)<br>
+4. ⭐ Starred [dailyrandomphoto/dailyrandomphoto](https://github.com/dailyrandomphoto/dailyrandomphoto)<br>
+5. ⭐ Starred [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
