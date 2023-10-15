@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax)<br>
-2. ⭐ Starred [openai/gpt-2](https://github.com/openai/gpt-2)<br>
-3. ⭐ Starred [latitudegames/GPT-3-Encoder](https://github.com/latitudegames/GPT-3-Encoder)<br>
-4. ⭐ Starred [bluesky-social/social-app](https://github.com/bluesky-social/social-app)<br>
-5. ⭐ Starred [dailyrandomphoto/dailyrandomphoto](https://github.com/dailyrandomphoto/dailyrandomphoto)<br>
+1. ⭐ Starred [langchain-ai/langserve](https://github.com/langchain-ai/langserve)<br>
+2. ⭐ Starred [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax)<br>
+3. ⭐ Starred [openai/gpt-2](https://github.com/openai/gpt-2)<br>
+4. ⭐ Starred [latitudegames/GPT-3-Encoder](https://github.com/latitudegames/GPT-3-Encoder)<br>
+5. ⭐ Starred [bluesky-social/social-app](https://github.com/bluesky-social/social-app)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
