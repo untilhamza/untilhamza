@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/lrp_toolbox](https://github.com/untilhamza/lrp_toolbox) from [sebastian-lapuschkin/lrp_toolbox](https://github.com/sebastian-lapuschkin/lrp_toolbox)<br>
-2. ⭐ Starred [sebastian-lapuschkin/lrp_toolbox](https://github.com/sebastian-lapuschkin/lrp_toolbox)<br>
-3. ⭐ Starred [taniarascia/react-advanced-form](https://github.com/taniarascia/react-advanced-form)<br>
-4. ⭐ Starred [taniarascia/chat](https://github.com/taniarascia/chat)<br>
-5. ⭐ Starred [taniarascia/takenote](https://github.com/taniarascia/takenote)<br>
+1. 🤝 Became collaborator on [untilhamza/lrp_toolbox](https://github.com/untilhamza/lrp_toolbox)<br>
+2. 🔱 Forked [untilhamza/lrp_toolbox](https://github.com/untilhamza/lrp_toolbox) from [sebastian-lapuschkin/lrp_toolbox](https://github.com/sebastian-lapuschkin/lrp_toolbox)<br>
+3. ⭐ Starred [sebastian-lapuschkin/lrp_toolbox](https://github.com/sebastian-lapuschkin/lrp_toolbox)<br>
+4. ⭐ Starred [taniarascia/react-advanced-form](https://github.com/taniarascia/react-advanced-form)<br>
+5. ⭐ Starred [taniarascia/chat](https://github.com/taniarascia/chat)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
