@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [alexpunct/chatgpt-journal](https://github.com/alexpunct/chatgpt-journal)<br>
-2. 🤝 Became collaborator on [untilhamza/lrp_toolbox](https://github.com/untilhamza/lrp_toolbox)<br>
-3. 🔱 Forked [untilhamza/lrp_toolbox](https://github.com/untilhamza/lrp_toolbox) from [sebastian-lapuschkin/lrp_toolbox](https://github.com/sebastian-lapuschkin/lrp_toolbox)<br>
-4. ⭐ Starred [sebastian-lapuschkin/lrp_toolbox](https://github.com/sebastian-lapuschkin/lrp_toolbox)<br>
-5. ⭐ Starred [taniarascia/react-advanced-form](https://github.com/taniarascia/react-advanced-form)<br>
+1. ⭐ Starred [mayooear/langchain-supabase-website-chatbot](https://github.com/mayooear/langchain-supabase-website-chatbot)<br>
+2. ⭐ Starred [mayooear/notion-chat-langchain](https://github.com/mayooear/notion-chat-langchain)<br>
+3. ⭐ Starred [josh-may/journal-gpt](https://github.com/josh-may/journal-gpt)<br>
+4. ⭐ Starred [alexpunct/chatgpt-journal](https://github.com/alexpunct/chatgpt-journal)<br>
+5. 🤝 Became collaborator on [untilhamza/lrp_toolbox](https://github.com/untilhamza/lrp_toolbox)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
