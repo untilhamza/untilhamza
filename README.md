@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/iA-Fonts](https://github.com/untilhamza/iA-Fonts) from [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts)<br>
-2. ⭐ Starred [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts)<br>
-3. ⭐ Starred [mayooear/langchain-supabase-website-chatbot](https://github.com/mayooear/langchain-supabase-website-chatbot)<br>
-4. ⭐ Starred [mayooear/notion-chat-langchain](https://github.com/mayooear/notion-chat-langchain)<br>
-5. ⭐ Starred [josh-may/journal-gpt](https://github.com/josh-may/journal-gpt)<br>
+1. ⭐ Starred [cpacker/MemGPT](https://github.com/cpacker/MemGPT)<br>
+2. 🔱 Forked [untilhamza/iA-Fonts](https://github.com/untilhamza/iA-Fonts) from [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts)<br>
+3. ⭐ Starred [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts)<br>
+4. ⭐ Starred [mayooear/langchain-supabase-website-chatbot](https://github.com/mayooear/langchain-supabase-website-chatbot)<br>
+5. ⭐ Starred [mayooear/notion-chat-langchain](https://github.com/mayooear/notion-chat-langchain)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
