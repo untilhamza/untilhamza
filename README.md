@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mistralai/mistral-src](https://github.com/mistralai/mistral-src)<br>
-2. ⭐ Starred [cpacker/MemGPT](https://github.com/cpacker/MemGPT)<br>
-3. 🔱 Forked [untilhamza/iA-Fonts](https://github.com/untilhamza/iA-Fonts) from [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts)<br>
-4. ⭐ Starred [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts)<br>
-5. ⭐ Starred [mayooear/langchain-supabase-website-chatbot](https://github.com/mayooear/langchain-supabase-website-chatbot)<br>
+1. ⭐ Starred [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)<br>
+2. ⭐ Starred [mistralai/mistral-src](https://github.com/mistralai/mistral-src)<br>
+3. ⭐ Starred [cpacker/MemGPT](https://github.com/cpacker/MemGPT)<br>
+4. 🔱 Forked [untilhamza/iA-Fonts](https://github.com/untilhamza/iA-Fonts) from [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts)<br>
+5. ⭐ Starred [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
