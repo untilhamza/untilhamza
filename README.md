@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-2. 🎉 Merged PR [#71](https://github.com/untilhamza/Booking-Web-App/pull/71) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-3. 💪 Opened PR [#71](https://github.com/untilhamza/Booking-Web-App/pull/71) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-4. ⬆️ Pushed 1 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-5. ⭐ Starred [ncbi-nlp/BioSentVec](https://github.com/ncbi-nlp/BioSentVec)<br>
+1. ⭐ Starred [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader)<br>
+2. ⬆️ Pushed 2 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+3. 🎉 Merged PR [#71](https://github.com/untilhamza/Booking-Web-App/pull/71) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+4. 💪 Opened PR [#71](https://github.com/untilhamza/Booking-Web-App/pull/71) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+5. ⬆️ Pushed 1 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
