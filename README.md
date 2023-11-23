@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DamianValle/SearchEngine](https://github.com/DamianValle/SearchEngine)<br>
-2. ⭐ Starred [DamianValle/shazam-audio-search](https://github.com/DamianValle/shazam-audio-search)<br>
-3. ⭐ Starred [DamianValle/PodcastSearch](https://github.com/DamianValle/PodcastSearch)<br>
-4. ⭐ Starred [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader)<br>
-5. ⬆️ Pushed 2 commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+1. ⭐ Starred [Jason-xy/CyberReader](https://github.com/Jason-xy/CyberReader)<br>
+2. ⭐ Starred [atilatech/atlas-ui](https://github.com/atilatech/atlas-ui)<br>
+3. ⭐ Starred [atilatech/atila-core-service](https://github.com/atilatech/atila-core-service)<br>
+4. ⭐ Starred [DamianValle/SearchEngine](https://github.com/DamianValle/SearchEngine)<br>
+5. ⭐ Starred [DamianValle/shazam-audio-search](https://github.com/DamianValle/shazam-audio-search)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
