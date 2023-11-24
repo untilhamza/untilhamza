@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Jason-xy/CyberReader](https://github.com/Jason-xy/CyberReader)<br>
-2. ⭐ Starred [atilatech/atlas-ui](https://github.com/atilatech/atlas-ui)<br>
-3. ⭐ Starred [atilatech/atila-core-service](https://github.com/atilatech/atila-core-service)<br>
-4. ⭐ Starred [DamianValle/SearchEngine](https://github.com/DamianValle/SearchEngine)<br>
-5. ⭐ Starred [DamianValle/shazam-audio-search](https://github.com/DamianValle/shazam-audio-search)<br>
+1. ⭐ Starred [run-llama/rags](https://github.com/run-llama/rags)<br>
+2. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
+3. ⭐ Starred [Jason-xy/CyberReader](https://github.com/Jason-xy/CyberReader)<br>
+4. ⭐ Starred [atilatech/atlas-ui](https://github.com/atilatech/atlas-ui)<br>
+5. ⭐ Starred [atilatech/atila-core-service](https://github.com/atilatech/atila-core-service)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
