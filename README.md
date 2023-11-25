@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/ladder](https://github.com/untilhamza/ladder) from [everywall/ladder](https://github.com/everywall/ladder)<br>
-2. ⭐ Starred [everywall/ladder](https://github.com/everywall/ladder)<br>
-3. ⭐ Starred [howdagee/auto-copy-highlighted](https://github.com/howdagee/auto-copy-highlighted)<br>
-4. ⭐ Starred [MrEdwards007/WhisperTaskAcceleration](https://github.com/MrEdwards007/WhisperTaskAcceleration)<br>
-5. 🔱 Forked [untilhamza/use-whisper](https://github.com/untilhamza/use-whisper) from [chengsokdara/use-whisper](https://github.com/chengsokdara/use-whisper)<br>
+1. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
+2. 🔱 Forked [untilhamza/ladder](https://github.com/untilhamza/ladder) from [everywall/ladder](https://github.com/everywall/ladder)<br>
+3. ⭐ Starred [everywall/ladder](https://github.com/everywall/ladder)<br>
+4. ⭐ Starred [howdagee/auto-copy-highlighted](https://github.com/howdagee/auto-copy-highlighted)<br>
+5. ⭐ Starred [MrEdwards007/WhisperTaskAcceleration](https://github.com/MrEdwards007/WhisperTaskAcceleration)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
