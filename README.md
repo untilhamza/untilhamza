@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MrEdwards007/WhisperTaskAcceleration](https://github.com/MrEdwards007/WhisperTaskAcceleration)<br>
-2. 🔱 Forked [untilhamza/use-whisper](https://github.com/untilhamza/use-whisper) from [chengsokdara/use-whisper](https://github.com/chengsokdara/use-whisper)<br>
-3. ⭐ Starred [chengsokdara/use-whisper](https://github.com/chengsokdara/use-whisper)<br>
-4. ⭐ Starred [run-llama/rags](https://github.com/run-llama/rags)<br>
-5. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
+1. ⭐ Starred [howdagee/auto-copy-highlighted](https://github.com/howdagee/auto-copy-highlighted)<br>
+2. ⭐ Starred [MrEdwards007/WhisperTaskAcceleration](https://github.com/MrEdwards007/WhisperTaskAcceleration)<br>
+3. 🔱 Forked [untilhamza/use-whisper](https://github.com/untilhamza/use-whisper) from [chengsokdara/use-whisper](https://github.com/chengsokdara/use-whisper)<br>
+4. ⭐ Starred [chengsokdara/use-whisper](https://github.com/chengsokdara/use-whisper)<br>
+5. ⭐ Starred [run-llama/rags](https://github.com/run-llama/rags)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
