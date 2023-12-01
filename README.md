@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [elanrosen/NLP-humor-detection](https://github.com/elanrosen/NLP-humor-detection)<br>
-2. ⭐ Starred [huggingface/transformers](https://github.com/huggingface/transformers)<br>
-3. 🔱 Forked [untilhamza/semantic-split](https://github.com/untilhamza/semantic-split) from [agamm/semantic-split](https://github.com/agamm/semantic-split)<br>
-4. ⭐ Starred [agamm/semantic-split](https://github.com/agamm/semantic-split)<br>
-5. ⭐ Starred [langchain-ai/twitter-finetune](https://github.com/langchain-ai/twitter-finetune)<br>
+1. ⭐ Starred [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)<br>
+2. ⭐ Starred [elanrosen/NLP-humor-detection](https://github.com/elanrosen/NLP-humor-detection)<br>
+3. ⭐ Starred [huggingface/transformers](https://github.com/huggingface/transformers)<br>
+4. 🔱 Forked [untilhamza/semantic-split](https://github.com/untilhamza/semantic-split) from [agamm/semantic-split](https://github.com/agamm/semantic-split)<br>
+5. ⭐ Starred [agamm/semantic-split](https://github.com/agamm/semantic-split)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
