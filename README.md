@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/linkedin-application-bot](https://github.com/untilhamza/linkedin-application-bot) from [cohenaj194/linkedin-application-bot](https://github.com/cohenaj194/linkedin-application-bot)<br>
-2. ⭐ Starred [cohenaj194/linkedin-application-bot](https://github.com/cohenaj194/linkedin-application-bot)<br>
-3. ⭐ Starred [imfunniee/yt-upload](https://github.com/imfunniee/yt-upload)<br>
-4. ⭐ Starred [alshedivat/al-folio](https://github.com/alshedivat/al-folio)<br>
-5. ⭐ Starred [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio)<br>
+1. ⬆️ Pushed 1 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+3. ⬆️ Pushed 2 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+4. 🔱 Forked [untilhamza/linkedin-application-bot](https://github.com/untilhamza/linkedin-application-bot) from [cohenaj194/linkedin-application-bot](https://github.com/cohenaj194/linkedin-application-bot)<br>
+5. ⭐ Starred [cohenaj194/linkedin-application-bot](https://github.com/cohenaj194/linkedin-application-bot)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
