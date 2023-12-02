@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [codex-team/editor.js](https://github.com/codex-team/editor.js)<br>
-2. ⭐ Starred [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)<br>
-3. ⭐ Starred [elanrosen/NLP-humor-detection](https://github.com/elanrosen/NLP-humor-detection)<br>
-4. ⭐ Starred [huggingface/transformers](https://github.com/huggingface/transformers)<br>
-5. 🔱 Forked [untilhamza/semantic-split](https://github.com/untilhamza/semantic-split) from [agamm/semantic-split](https://github.com/agamm/semantic-split)<br>
+1. ⭐ Starred [alshedivat/al-folio](https://github.com/alshedivat/al-folio)<br>
+2. ⭐ Starred [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio)<br>
+3. ⭐ Starred [shellbear/shellbear.me](https://github.com/shellbear/shellbear.me)<br>
+4. ⭐ Starred [mayigrin/mayigrin.github.io](https://github.com/mayigrin/mayigrin.github.io)<br>
+5. ⭐ Starred [codex-team/editor.js](https://github.com/codex-team/editor.js)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
