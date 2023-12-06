@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
-2. ⬆️ Pushed 1 commit(s) to [untilhamza/untilhamza](https://github.com/untilhamza/untilhamza)<br>
-3. ⭐ Starred [hyunwoongko/python-mecab-kor](https://github.com/hyunwoongko/python-mecab-kor)<br>
-4. ⭐ Starred [hyunwoongko/kss](https://github.com/hyunwoongko/kss)<br>
-5. ⬆️ Pushed 1 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+1. ⬆️ Pushed 2 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+3. ⬆️ Pushed 2 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+5. ⬆️ Pushed 2 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
