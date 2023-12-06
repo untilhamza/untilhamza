@@ -9,7 +9,7 @@ Born and raised in Uganda, but I've been living and breathing code ever since I 
 <!-- I'm a self-taught and passionate Ugandan Software engineer based in Seoul. I gradudated **magna cum laude** from Electrical Engineering at [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do). My passion for software far exceeded my love for electrical engineering and I haven't stopped coding since I picked up that C-langauge book. -->
 
 - 🌍  I'm based in Seoul, South Korea
-- 📄 [My Resume](https://untilhamza.github.io/assets/resume/Hamza_Kyamanywa_-_Full_Stack_Software_Engineer.pdf)
+- 📄 [My Resume](https://untilhamza.github.io/assets/pdf/231202_Kyamanywa-Hamza-stanford-resume-resume.pdf)
 - 🖥️  See my portfolio at [here](http://untilhamza.github.io/)
 - 📫 How to reach me [untilhamza@gmail.com](mailto:untilhamza@gmail.com)
 - 🚀  I'm currently working on [empowering life long learners with @slid_team](http://www.slid.cc)
