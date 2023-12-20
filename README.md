@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)<br>
-2. 🔱 Forked [untilhamza/MemGPT](https://github.com/untilhamza/MemGPT) from [cpacker/MemGPT](https://github.com/cpacker/MemGPT)<br>
-3. ⭐ Starred [codebytere/codebytere.github.io](https://github.com/codebytere/codebytere.github.io)<br>
-4. ⭐ Starred [VikParuchuri/marker](https://github.com/VikParuchuri/marker)<br>
-5. ⬆️ Pushed 2 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+1. ⭐ Starred [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)<br>
+2. ⭐ Starred [actualbudget/actual](https://github.com/actualbudget/actual)<br>
+3. ⭐ Starred [imartinez/privateGPT](https://github.com/imartinez/privateGPT)<br>
+4. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)<br>
+5. 🔱 Forked [untilhamza/MemGPT](https://github.com/untilhamza/MemGPT) from [cpacker/MemGPT](https://github.com/cpacker/MemGPT)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
