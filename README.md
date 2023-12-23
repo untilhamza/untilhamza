@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)<br>
-2. ⭐ Starred [facebook/lexical](https://github.com/facebook/lexical)<br>
-3. ⭐ Starred [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)<br>
-4. ⭐ Starred [actualbudget/actual](https://github.com/actualbudget/actual)<br>
-5. ⭐ Starred [imartinez/privateGPT](https://github.com/imartinez/privateGPT)<br>
+1. ⭐ Starred [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync)<br>
+2. ⭐ Starred [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)<br>
+3. ⭐ Starred [facebook/lexical](https://github.com/facebook/lexical)<br>
+4. ⭐ Starred [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)<br>
+5. ⭐ Starred [actualbudget/actual](https://github.com/actualbudget/actual)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
