@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#15697](https://github.com/langchain-ai/langchain/pull/15697) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
-2. ⬆️ Pushed 5409 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
-3. ⭐ Starred [streetwriters/notesnook](https://github.com/streetwriters/notesnook)<br>
-4. ⭐ Starred [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync)<br>
-5. ⭐ Starred [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)<br>
+1. ⬆️ Pushed 2 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
+2. ⬆️ Pushed 98 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
+3. 💪 Opened PR [#15697](https://github.com/langchain-ai/langchain/pull/15697) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
+4. ⬆️ Pushed 5409 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
+5. ⭐ Starred [streetwriters/notesnook](https://github.com/streetwriters/notesnook)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
