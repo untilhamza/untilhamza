@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
-2. ⬆️ Pushed 98 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
-3. 💪 Opened PR [#15697](https://github.com/langchain-ai/langchain/pull/15697) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
-4. ⬆️ Pushed 5409 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
-5. ⭐ Starred [streetwriters/notesnook](https://github.com/streetwriters/notesnook)<br>
+1. ⬆️ Pushed 1 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
+2. ⬆️ Pushed 1 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
+3. ⬆️ Pushed 1 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
+4. ⬆️ Pushed 2 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
+5. ⬆️ Pushed 1 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
