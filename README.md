@@ -66,9 +66,9 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
-2. ⬆️ Pushed 1 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
-3. ⬆️ Pushed 1 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
+1. 💪 Opened PR [#16003](https://github.com/langchain-ai/langchain/pull/16003) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
+2. 💬 Commented on [#15977](https://github.com/langchain-ai/langchain/pull/15977#issuecomment-1890983812) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
+3. ❌ Closed PR [#15977](https://github.com/langchain-ai/langchain/pull/15977) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
 4. ⬆️ Pushed 1 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
 5. ⬆️ Pushed 1 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
 <!--RECENT_ACTIVITY:end-->
