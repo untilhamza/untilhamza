@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/vscode](https://github.com/untilhamza/vscode) from [microsoft/vscode](https://github.com/microsoft/vscode)<br>
-2. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)<br>
-3. 💪 Opened PR [#4086](https://github.com/reduxjs/redux-toolkit/pull/4086) in [reduxjs/redux-toolkit](https://github.com/reduxjs/redux-toolkit)<br>
-4. 🔱 Forked [untilhamza/redux-toolkit](https://github.com/untilhamza/redux-toolkit) from [reduxjs/redux-toolkit](https://github.com/reduxjs/redux-toolkit)<br>
-5. 💪 Opened PR [#915](https://github.com/vercel/ai/pull/915) in [vercel/ai](https://github.com/vercel/ai)<br>
+1. ⭐ Starred [redux-utilities/redux-promise](https://github.com/redux-utilities/redux-promise)<br>
+2. ⭐ Starred [redux-utilities/flux-standard-action](https://github.com/redux-utilities/flux-standard-action)<br>
+3. 🔱 Forked [untilhamza/vscode](https://github.com/untilhamza/vscode) from [microsoft/vscode](https://github.com/microsoft/vscode)<br>
+4. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)<br>
+5. 💪 Opened PR [#4086](https://github.com/reduxjs/redux-toolkit/pull/4086) in [reduxjs/redux-toolkit](https://github.com/reduxjs/redux-toolkit)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
