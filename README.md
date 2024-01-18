@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [suyalcinkaya/onur.dev](https://github.com/suyalcinkaya/onur.dev)<br>
-2. ⭐ Starred [redux-utilities/redux-promise](https://github.com/redux-utilities/redux-promise)<br>
-3. ⭐ Starred [redux-utilities/flux-standard-action](https://github.com/redux-utilities/flux-standard-action)<br>
-4. 🔱 Forked [untilhamza/vscode](https://github.com/untilhamza/vscode) from [microsoft/vscode](https://github.com/microsoft/vscode)<br>
-5. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)<br>
+1. ⭐ Starred [maybe-finance/maybe](https://github.com/maybe-finance/maybe)<br>
+2. ⭐ Starred [suyalcinkaya/onur.dev](https://github.com/suyalcinkaya/onur.dev)<br>
+3. ⭐ Starred [redux-utilities/redux-promise](https://github.com/redux-utilities/redux-promise)<br>
+4. ⭐ Starred [redux-utilities/flux-standard-action](https://github.com/redux-utilities/flux-standard-action)<br>
+5. 🔱 Forked [untilhamza/vscode](https://github.com/untilhamza/vscode) from [microsoft/vscode](https://github.com/microsoft/vscode)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
