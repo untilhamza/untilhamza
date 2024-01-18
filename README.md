@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [maybe-finance/maybe](https://github.com/maybe-finance/maybe)<br>
-2. ⭐ Starred [suyalcinkaya/onur.dev](https://github.com/suyalcinkaya/onur.dev)<br>
-3. ⭐ Starred [redux-utilities/redux-promise](https://github.com/redux-utilities/redux-promise)<br>
-4. ⭐ Starred [redux-utilities/flux-standard-action](https://github.com/redux-utilities/flux-standard-action)<br>
-5. 🔱 Forked [untilhamza/vscode](https://github.com/untilhamza/vscode) from [microsoft/vscode](https://github.com/microsoft/vscode)<br>
+1. 🔱 Forked [untilhamza/lmnt-node](https://github.com/untilhamza/lmnt-node) from [lmnt-com/lmnt-node](https://github.com/lmnt-com/lmnt-node)<br>
+2. ⭐ Starred [lmnt-com/lmnt-node](https://github.com/lmnt-com/lmnt-node)<br>
+3. 💬 Commented on [#922](https://github.com/vercel/ai/pull/922#issuecomment-1897654645) in [vercel/ai](https://github.com/vercel/ai)<br>
+4. ⬆️ Pushed 79 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
+5. ⭐ Starred [Expensify/App](https://github.com/Expensify/App)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
