@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 80 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
-2. 🔱 Forked [untilhamza/lmnt-node](https://github.com/untilhamza/lmnt-node) from [lmnt-com/lmnt-node](https://github.com/lmnt-com/lmnt-node)<br>
-3. ⭐ Starred [lmnt-com/lmnt-node](https://github.com/lmnt-com/lmnt-node)<br>
-4. 💬 Commented on [#922](https://github.com/vercel/ai/pull/922#issuecomment-1897654645) in [vercel/ai](https://github.com/vercel/ai)<br>
-5. ⬆️ Pushed 79 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
+1. ⬆️ Pushed 3 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
+2. ⬆️ Pushed 80 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
+3. 🔱 Forked [untilhamza/lmnt-node](https://github.com/untilhamza/lmnt-node) from [lmnt-com/lmnt-node](https://github.com/lmnt-com/lmnt-node)<br>
+4. ⭐ Starred [lmnt-com/lmnt-node](https://github.com/lmnt-com/lmnt-node)<br>
+5. 💬 Commented on [#922](https://github.com/vercel/ai/pull/922#issuecomment-1897654645) in [vercel/ai](https://github.com/vercel/ai)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
