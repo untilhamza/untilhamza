@@ -66,11 +66,11 @@ src="https://img.shields.io/github/followers/untilhamza?logo=github&style=for-th
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/PhotoMaker](https://github.com/untilhamza/PhotoMaker) from [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)<br>
-2. ⭐ Starred [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)<br>
-3. ❌ Closed PR [#1731](https://github.com/pytube/pytube/pull/1731) in [pytube/pytube](https://github.com/pytube/pytube)<br>
-4. ⬆️ Pushed 2 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
-5. ⭐ Starred [isyuricunha/top-github-users](https://github.com/isyuricunha/top-github-users)<br>
+1. 💬 Commented on [#16003](https://github.com/langchain-ai/langchain/pull/16003#issuecomment-1899657230) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
+2. ⬆️ Pushed 26 commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
+3. 🔱 Forked [untilhamza/PhotoMaker](https://github.com/untilhamza/PhotoMaker) from [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)<br>
+4. ⭐ Starred [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)<br>
+5. ❌ Closed PR [#1731](https://github.com/pytube/pytube/pull/1731) in [pytube/pytube](https://github.com/pytube/pytube)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
