@@ -83,12 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-
-1. ⭐ Starred [Avaiga/taipy](https://github.com/Avaiga/taipy)<br>
-2. 💪 Opened PR [#932](https://github.com/vercel/ai/pull/932) in [vercel/ai](https://github.com/vercel/ai)<br>
-3. ⬆️ Pushed 2 commit(s) to [untilhamza/ai](https://github.com/untilhamza/ai)<br>
-4. 💬 Commented on [#915](https://github.com/vercel/ai/pull/915#issuecomment-1902192270) in [vercel/ai](https://github.com/vercel/ai)<br>
-5. 💪 Opened PR [#868](https://github.com/cpacker/MemGPT/pull/868) in [cpacker/MemGPT](https://github.com/cpacker/MemGPT)<br>
+1. 💬 Commented on [#868](https://github.com/cpacker/MemGPT/pull/868#issuecomment-1902469282) in [cpacker/MemGPT](https://github.com/cpacker/MemGPT)<br>
+2. 💬 Commented on [#868](https://github.com/cpacker/MemGPT/pull/868#discussion_r1460699670) in [cpacker/MemGPT](https://github.com/cpacker/MemGPT)<br>
+3. ⬆️ Pushed 1 commit(s) to [untilhamza/MemGPT](https://github.com/untilhamza/MemGPT)<br>
+4. ⬆️ Pushed 3 commit(s) to [untilhamza/untilhamza](https://github.com/untilhamza/untilhamza)<br>
+5. 🎉 Merged PR [#5](https://github.com/untilhamza/untilhamza/pull/5) in [untilhamza/untilhamza](https://github.com/untilhamza/untilhamza)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
