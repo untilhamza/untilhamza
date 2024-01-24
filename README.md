@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#73](https://github.com/untilhamza/Booking-Web-App/pull/73#issuecomment-1907405141) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-2. 💬 Commented on [#73](https://github.com/untilhamza/Booking-Web-App/pull/73#issuecomment-1907404598) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-3. ✔️ Closed issue [#72](https://github.com/untilhamza/Booking-Web-App/issues/72) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-4. 🤝 Became collaborator on [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-5. ⭐ Starred [meglerhagen/projectx](https://github.com/meglerhagen/projectx)<br>
+1. 👍 Approved [#73](https://github.com/untilhamza/Booking-Web-App/pull/73#pullrequestreview-1840463746) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+2. 💬 Commented on [#73](https://github.com/untilhamza/Booking-Web-App/pull/73#issuecomment-1907405141) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+3. 💬 Commented on [#73](https://github.com/untilhamza/Booking-Web-App/pull/73#issuecomment-1907404598) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+4. ✔️ Closed issue [#72](https://github.com/untilhamza/Booking-Web-App/issues/72) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+5. 🤝 Became collaborator on [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
