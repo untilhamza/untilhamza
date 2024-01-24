@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [meglerhagen/projectx](https://github.com/meglerhagen/projectx)<br>
-2. ⭐ Starred [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig)<br>
-3. 💬 Commented on [#868](https://github.com/cpacker/MemGPT/pull/868#issuecomment-1902469282) in [cpacker/MemGPT](https://github.com/cpacker/MemGPT)<br>
-4. 💬 Commented on [#868](https://github.com/cpacker/MemGPT/pull/868#discussion_r1460699670) in [cpacker/MemGPT](https://github.com/cpacker/MemGPT)<br>
-5. ⬆️ Pushed 1 commit(s) to [untilhamza/MemGPT](https://github.com/untilhamza/MemGPT)<br>
+1. 💬 Commented on [#73](https://github.com/untilhamza/Booking-Web-App/pull/73#issuecomment-1907405141) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+2. 💬 Commented on [#73](https://github.com/untilhamza/Booking-Web-App/pull/73#issuecomment-1907404598) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+3. ✔️ Closed issue [#72](https://github.com/untilhamza/Booking-Web-App/issues/72) in [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+4. 🤝 Became collaborator on [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+5. ⭐ Starred [meglerhagen/projectx](https://github.com/meglerhagen/projectx)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
