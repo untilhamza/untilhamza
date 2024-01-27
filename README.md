@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#932](https://github.com/vercel/ai/pull/932#issuecomment-1913075447) in [vercel/ai](https://github.com/vercel/ai)<br>
-2. ⬆️ Pushed 3 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
-3. ⬆️ Pushed 1 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
-4. ⬆️ Pushed 1 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
-5. 🔱 Forked [untilhamza/langchain-simple-doc](https://github.com/untilhamza/langchain-simple-doc) from [patmejia/langchain](https://github.com/patmejia/langchain)<br>
+1. 🔱 Forked [untilhamza/gpt4all](https://github.com/untilhamza/gpt4all) from [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)<br>
+2. ⭐ Starred [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)<br>
+3. ⭐ Starred [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile)<br>
+4. 💬 Commented on [#932](https://github.com/vercel/ai/pull/932#issuecomment-1913075447) in [vercel/ai](https://github.com/vercel/ai)<br>
+5. ⬆️ Pushed 3 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
