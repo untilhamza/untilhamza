@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/gpt4all](https://github.com/untilhamza/gpt4all) from [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)<br>
-2. ⭐ Starred [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)<br>
-3. ⭐ Starred [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile)<br>
-4. 💬 Commented on [#932](https://github.com/vercel/ai/pull/932#issuecomment-1913075447) in [vercel/ai](https://github.com/vercel/ai)<br>
-5. ⬆️ Pushed 3 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+1. ⭐ Starred [daveshap/SparsePrimingRepresentations](https://github.com/daveshap/SparsePrimingRepresentations)<br>
+2. 🔱 Forked [untilhamza/gpt4all](https://github.com/untilhamza/gpt4all) from [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)<br>
+3. ⭐ Starred [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)<br>
+4. ⭐ Starred [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile)<br>
+5. 💬 Commented on [#932](https://github.com/vercel/ai/pull/932#issuecomment-1913075447) in [vercel/ai](https://github.com/vercel/ai)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
