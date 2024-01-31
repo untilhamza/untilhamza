@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [daveshap/SparsePrimingRepresentations](https://github.com/daveshap/SparsePrimingRepresentations)<br>
-2. 🔱 Forked [untilhamza/gpt4all](https://github.com/untilhamza/gpt4all) from [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)<br>
-3. ⭐ Starred [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)<br>
-4. ⭐ Starred [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile)<br>
-5. 💬 Commented on [#932](https://github.com/vercel/ai/pull/932#issuecomment-1913075447) in [vercel/ai](https://github.com/vercel/ai)<br>
+1. ⭐ Starred [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton)<br>
+2. ⭐ Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)<br>
+3. ⭐ Starred [daveshap/SparsePrimingRepresentations](https://github.com/daveshap/SparsePrimingRepresentations)<br>
+4. 🔱 Forked [untilhamza/gpt4all](https://github.com/untilhamza/gpt4all) from [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)<br>
+5. ⭐ Starred [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
