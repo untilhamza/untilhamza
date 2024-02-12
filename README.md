@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2158](https://github.com/StanGirard/quivr/pull/2158) in [StanGirard/quivr](https://github.com/StanGirard/quivr)<br>
-2. 🔱 Forked [untilhamza/quivr](https://github.com/untilhamza/quivr) from [StanGirard/quivr](https://github.com/StanGirard/quivr)<br>
-3. ⭐ Starred [StanGirard/quivr](https://github.com/StanGirard/quivr)<br>
-4. ⭐ Starred [supabase-community/supabase-py](https://github.com/supabase-community/supabase-py)<br>
-5. ⬆️ Pushed 1 commit(s) to [untilhamza/fastapi](https://github.com/untilhamza/fastapi)<br>
+1. ⭐ Starred [igrigorik/videospeed](https://github.com/igrigorik/videospeed)<br>
+2. 💪 Opened PR [#2158](https://github.com/StanGirard/quivr/pull/2158) in [StanGirard/quivr](https://github.com/StanGirard/quivr)<br>
+3. 🔱 Forked [untilhamza/quivr](https://github.com/untilhamza/quivr) from [StanGirard/quivr](https://github.com/StanGirard/quivr)<br>
+4. ⭐ Starred [StanGirard/quivr](https://github.com/StanGirard/quivr)<br>
+5. ⭐ Starred [supabase-community/supabase-py](https://github.com/supabase-community/supabase-py)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
