@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mendableai/QA_clustering](https://github.com/mendableai/QA_clustering)<br>
-2. ⭐ Starred [mattzcarey/code-review-gpt](https://github.com/mattzcarey/code-review-gpt)<br>
-3. ⭐ Starred [igrigorik/videospeed](https://github.com/igrigorik/videospeed)<br>
-4. 💪 Opened PR [#2158](https://github.com/StanGirard/quivr/pull/2158) in [StanGirard/quivr](https://github.com/StanGirard/quivr)<br>
-5. 🔱 Forked [untilhamza/quivr](https://github.com/untilhamza/quivr) from [StanGirard/quivr](https://github.com/StanGirard/quivr)<br>
+1. ⭐ Starred [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)<br>
+2. ⭐ Starred [mendableai/QA_clustering](https://github.com/mendableai/QA_clustering)<br>
+3. ⭐ Starred [mattzcarey/code-review-gpt](https://github.com/mattzcarey/code-review-gpt)<br>
+4. ⭐ Starred [igrigorik/videospeed](https://github.com/igrigorik/videospeed)<br>
+5. 💪 Opened PR [#2158](https://github.com/StanGirard/quivr/pull/2158) in [StanGirard/quivr](https://github.com/StanGirard/quivr)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
