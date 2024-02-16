@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)<br>
-2. ⭐ Starred [mendableai/QA_clustering](https://github.com/mendableai/QA_clustering)<br>
-3. ⭐ Starred [mattzcarey/code-review-gpt](https://github.com/mattzcarey/code-review-gpt)<br>
-4. ⭐ Starred [igrigorik/videospeed](https://github.com/igrigorik/videospeed)<br>
-5. 💪 Opened PR [#2158](https://github.com/StanGirard/quivr/pull/2158) in [StanGirard/quivr](https://github.com/StanGirard/quivr)<br>
+1. ⭐ Starred [supabase-community/chatgpt-your-files](https://github.com/supabase-community/chatgpt-your-files)<br>
+2. ⭐ Starred [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)<br>
+3. ⭐ Starred [mendableai/QA_clustering](https://github.com/mendableai/QA_clustering)<br>
+4. ⭐ Starred [mattzcarey/code-review-gpt](https://github.com/mattzcarey/code-review-gpt)<br>
+5. ⭐ Starred [igrigorik/videospeed](https://github.com/igrigorik/videospeed)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
