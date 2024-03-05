@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/llm-markdown](https://github.com/untilhamza/llm-markdown) from [skovy/llm-markdown](https://github.com/skovy/llm-markdown)<br>
-2. ⭐ Starred [skovy/llm-markdown](https://github.com/skovy/llm-markdown)<br>
-3. ⭐ Starred [supabase-community/chatgpt-your-files](https://github.com/supabase-community/chatgpt-your-files)<br>
-4. ⭐ Starred [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)<br>
-5. ⭐ Starred [mendableai/QA_clustering](https://github.com/mendableai/QA_clustering)<br>
+1. ⭐ Starred [jonathangiardino/shopify-app-starter](https://github.com/jonathangiardino/shopify-app-starter)<br>
+2. 🔱 Forked [untilhamza/llm-markdown](https://github.com/untilhamza/llm-markdown) from [skovy/llm-markdown](https://github.com/skovy/llm-markdown)<br>
+3. ⭐ Starred [skovy/llm-markdown](https://github.com/skovy/llm-markdown)<br>
+4. ⭐ Starred [supabase-community/chatgpt-your-files](https://github.com/supabase-community/chatgpt-your-files)<br>
+5. ⭐ Starred [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
