@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
-2. ⭐ Starred [jonathangiardino/shopify-app-starter](https://github.com/jonathangiardino/shopify-app-starter)<br>
-3. 🔱 Forked [untilhamza/llm-markdown](https://github.com/untilhamza/llm-markdown) from [skovy/llm-markdown](https://github.com/skovy/llm-markdown)<br>
-4. ⭐ Starred [skovy/llm-markdown](https://github.com/skovy/llm-markdown)<br>
-5. ⭐ Starred [supabase-community/chatgpt-your-files](https://github.com/supabase-community/chatgpt-your-files)<br>
+1. ⭐ Starred [fostermadeco/audio-to-text-gcloud](https://github.com/fostermadeco/audio-to-text-gcloud)<br>
+2. ⭐ Starred [fostermadeco/voice-search-example-app](https://github.com/fostermadeco/voice-search-example-app)<br>
+3. ⭐ Starred [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
+4. ⭐ Starred [jonathangiardino/shopify-app-starter](https://github.com/jonathangiardino/shopify-app-starter)<br>
+5. 🔱 Forked [untilhamza/llm-markdown](https://github.com/untilhamza/llm-markdown) from [skovy/llm-markdown](https://github.com/skovy/llm-markdown)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
