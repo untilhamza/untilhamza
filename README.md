@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)<br>
-2. ⭐ Starred [daytonaio/daytona](https://github.com/daytonaio/daytona)<br>
-3. ⭐ Starred [fostermadeco/audio-to-text-gcloud](https://github.com/fostermadeco/audio-to-text-gcloud)<br>
-4. ⭐ Starred [fostermadeco/voice-search-example-app](https://github.com/fostermadeco/voice-search-example-app)<br>
-5. ⭐ Starred [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
+1. ⭐ Starred [reactwg/react-native-new-architecture](https://github.com/reactwg/react-native-new-architecture)<br>
+2. ⭐ Starred [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)<br>
+3. ⭐ Starred [daytonaio/daytona](https://github.com/daytonaio/daytona)<br>
+4. ⭐ Starred [fostermadeco/audio-to-text-gcloud](https://github.com/fostermadeco/audio-to-text-gcloud)<br>
+5. ⭐ Starred [fostermadeco/voice-search-example-app](https://github.com/fostermadeco/voice-search-example-app)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
