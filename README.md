@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [timb-103/saas-starter-stack](https://github.com/timb-103/saas-starter-stack)<br>
-2. ⭐ Starred [openai/grok](https://github.com/openai/grok)<br>
-3. ⭐ Starred [otalk/hark](https://github.com/otalk/hark)<br>
-4. ⭐ Starred [Mithronn/react-native-real-time-audio-stream](https://github.com/Mithronn/react-native-real-time-audio-stream)<br>
-5. ⭐ Starred [shaojiankui/SpeakHere](https://github.com/shaojiankui/SpeakHere)<br>
+1. ⭐ Starred [watson/awesome-computer-history](https://github.com/watson/awesome-computer-history)<br>
+2. ⭐ Starred [timb-103/saas-starter-stack](https://github.com/timb-103/saas-starter-stack)<br>
+3. ⭐ Starred [openai/grok](https://github.com/openai/grok)<br>
+4. ⭐ Starred [otalk/hark](https://github.com/otalk/hark)<br>
+5. ⭐ Starred [Mithronn/react-native-real-time-audio-stream](https://github.com/Mithronn/react-native-real-time-audio-stream)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
