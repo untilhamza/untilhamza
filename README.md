@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jsierles/react-native-audio](https://github.com/jsierles/react-native-audio)<br>
-2. ⭐ Starred [react-native-audio-toolkit/react-native-audio-toolkit](https://github.com/react-native-audio-toolkit/react-native-audio-toolkit)<br>
-3. ⭐ Starred [indiecastfm/react-native-audio-streamer](https://github.com/indiecastfm/react-native-audio-streamer)<br>
-4. ⭐ Starred [avishayil/react-native-user-avatar](https://github.com/avishayil/react-native-user-avatar)<br>
-5. ⭐ Starred [zmxv/react-native-sound-demo](https://github.com/zmxv/react-native-sound-demo)<br>
+1. ⭐ Starred [realtime-framework/RCTRealtimeMessagingIOS](https://github.com/realtime-framework/RCTRealtimeMessagingIOS)<br>
+2. ⭐ Starred [jsierles/react-native-audio](https://github.com/jsierles/react-native-audio)<br>
+3. ⭐ Starred [react-native-audio-toolkit/react-native-audio-toolkit](https://github.com/react-native-audio-toolkit/react-native-audio-toolkit)<br>
+4. ⭐ Starred [indiecastfm/react-native-audio-streamer](https://github.com/indiecastfm/react-native-audio-streamer)<br>
+5. ⭐ Starred [avishayil/react-native-user-avatar](https://github.com/avishayil/react-native-user-avatar)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
