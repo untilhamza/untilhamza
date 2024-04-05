@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v4.1.2](https://github.com/Slid-Team/slid-desktop-builds/releases/tag/v4.0.2) in [Slid-Team/slid-desktop-builds](https://github.com/Slid-Team/slid-desktop-builds)<br>
-2. ✌️ Released [v4.0.2](https://github.com/Slid-Team/slid-desktop-builds/releases/tag/v4.0.2) in [Slid-Team/slid-desktop-builds](https://github.com/Slid-Team/slid-desktop-builds)<br>
-3. ⭐ Starred [codingki/react-native-expo-template](https://github.com/codingki/react-native-expo-template)<br>
-4. ⭐ Starred [wxik/react-native-rich-editor](https://github.com/wxik/react-native-rich-editor)<br>
-5. ⭐ Starred [realtime-framework/RCTRealtimeMessagingIOS](https://github.com/realtime-framework/RCTRealtimeMessagingIOS)<br>
+1. ✌️ Released [v4.1.2](https://github.com/Slid-Team/slid-desktop-builds-v2/releases/tag/v4.1.2) in [Slid-Team/slid-desktop-builds-v2](https://github.com/Slid-Team/slid-desktop-builds-v2)<br>
+2. ✌️ Released [v4.1.2](https://github.com/Slid-Team/slid-desktop-builds/releases/tag/v4.0.2) in [Slid-Team/slid-desktop-builds](https://github.com/Slid-Team/slid-desktop-builds)<br>
+3. ✌️ Released [v4.0.2](https://github.com/Slid-Team/slid-desktop-builds/releases/tag/v4.0.2) in [Slid-Team/slid-desktop-builds](https://github.com/Slid-Team/slid-desktop-builds)<br>
+4. ⭐ Starred [codingki/react-native-expo-template](https://github.com/codingki/react-native-expo-template)<br>
+5. ⭐ Starred [wxik/react-native-rich-editor](https://github.com/wxik/react-native-rich-editor)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
