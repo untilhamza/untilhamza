@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [betomoedano/Talk-GPT-App](https://github.com/betomoedano/Talk-GPT-App)<br>
-2. ⭐ Starred [betomoedano/ChatApp](https://github.com/betomoedano/ChatApp)<br>
-3. ⭐ Starred [ravnhq/react-native-midnight](https://github.com/ravnhq/react-native-midnight)<br>
-4. ⭐ Starred [mshumer/ai-researcher](https://github.com/mshumer/ai-researcher)<br>
-5. ✌️ Released [v4.1.2](https://github.com/Slid-Team/slid-desktop-builds-v2/releases/tag/v4.1.2) in [Slid-Team/slid-desktop-builds-v2](https://github.com/Slid-Team/slid-desktop-builds-v2)<br>
+1. ⭐ Starred [callstack/react-native-paper](https://github.com/callstack/react-native-paper)<br>
+2. ⭐ Starred [betomoedano/Talk-GPT-App](https://github.com/betomoedano/Talk-GPT-App)<br>
+3. ⭐ Starred [betomoedano/ChatApp](https://github.com/betomoedano/ChatApp)<br>
+4. ⭐ Starred [ravnhq/react-native-midnight](https://github.com/ravnhq/react-native-midnight)<br>
+5. ⭐ Starred [mshumer/ai-researcher](https://github.com/mshumer/ai-researcher)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
