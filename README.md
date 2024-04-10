@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [callstack/react-native-paper](https://github.com/callstack/react-native-paper)<br>
-2. ⭐ Starred [betomoedano/Talk-GPT-App](https://github.com/betomoedano/Talk-GPT-App)<br>
-3. ⭐ Starred [betomoedano/ChatApp](https://github.com/betomoedano/ChatApp)<br>
-4. ⭐ Starred [ravnhq/react-native-midnight](https://github.com/ravnhq/react-native-midnight)<br>
-5. ⭐ Starred [mshumer/ai-researcher](https://github.com/mshumer/ai-researcher)<br>
+1. ⭐ Starred [frederic11/Zoomapto](https://github.com/frederic11/Zoomapto)<br>
+2. ⭐ Starred [jvidalv/astrale](https://github.com/jvidalv/astrale)<br>
+3. ⭐ Starred [callstack/react-native-paper](https://github.com/callstack/react-native-paper)<br>
+4. ⭐ Starred [betomoedano/Talk-GPT-App](https://github.com/betomoedano/Talk-GPT-App)<br>
+5. ⭐ Starred [betomoedano/ChatApp](https://github.com/betomoedano/ChatApp)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
