@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [swyxio/openlangmem](https://github.com/swyxio/openlangmem)<br>
-2. ⭐ Starred [huchenxucs/ChatDB](https://github.com/huchenxucs/ChatDB)<br>
-3. ⭐ Starred [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List)<br>
-4. ⭐ Starred [CapSoftware/Cap](https://github.com/CapSoftware/Cap)<br>
-5. ⬆️ Pushed 178 commit(s) to [untilhamza/MemGPT](https://github.com/untilhamza/MemGPT)<br>
+1. 🔱 Forked [untilhamza/rocketnotes](https://github.com/untilhamza/rocketnotes) from [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes)<br>
+2. ⭐ Starred [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes)<br>
+3. ⭐ Starred [swyxio/openlangmem](https://github.com/swyxio/openlangmem)<br>
+4. ⭐ Starred [huchenxucs/ChatDB](https://github.com/huchenxucs/ChatDB)<br>
+5. ⭐ Starred [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
