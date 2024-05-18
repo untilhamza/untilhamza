@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1368](https://github.com/cpacker/MemGPT/pull/1368) in [cpacker/MemGPT](https://github.com/cpacker/MemGPT)<br>
-2. 🔱 Forked [untilhamza/rocketnotes](https://github.com/untilhamza/rocketnotes) from [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes)<br>
-3. ⭐ Starred [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes)<br>
-4. ⭐ Starred [swyxio/openlangmem](https://github.com/swyxio/openlangmem)<br>
-5. ⭐ Starred [huchenxucs/ChatDB](https://github.com/huchenxucs/ChatDB)<br>
+1. ⭐ Starred [transistorsoft/react-native-background-geolocation](https://github.com/transistorsoft/react-native-background-geolocation)<br>
+2. 💪 Opened PR [#1368](https://github.com/cpacker/MemGPT/pull/1368) in [cpacker/MemGPT](https://github.com/cpacker/MemGPT)<br>
+3. 🔱 Forked [untilhamza/rocketnotes](https://github.com/untilhamza/rocketnotes) from [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes)<br>
+4. ⭐ Starred [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes)<br>
+5. ⭐ Starred [swyxio/openlangmem](https://github.com/swyxio/openlangmem)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
