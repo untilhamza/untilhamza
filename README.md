@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AdamColton/trustGraph](https://github.com/AdamColton/trustGraph)<br>
-2. ⭐ Starred [transistorsoft/react-native-background-geolocation](https://github.com/transistorsoft/react-native-background-geolocation)<br>
-3. 💪 Opened PR [#1368](https://github.com/cpacker/MemGPT/pull/1368) in [cpacker/MemGPT](https://github.com/cpacker/MemGPT)<br>
-4. 🔱 Forked [untilhamza/rocketnotes](https://github.com/untilhamza/rocketnotes) from [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes)<br>
-5. ⭐ Starred [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes)<br>
+1. ⭐ Starred [Dhruv-2003/RepuationSystemMRU](https://github.com/Dhruv-2003/RepuationSystemMRU)<br>
+2. ⭐ Starred [privacy-scaling-explorations/zk-eigentrust](https://github.com/privacy-scaling-explorations/zk-eigentrust)<br>
+3. ⭐ Starred [AdamColton/trustGraph](https://github.com/AdamColton/trustGraph)<br>
+4. ⭐ Starred [transistorsoft/react-native-background-geolocation](https://github.com/transistorsoft/react-native-background-geolocation)<br>
+5. 💪 Opened PR [#1368](https://github.com/cpacker/MemGPT/pull/1368) in [cpacker/MemGPT](https://github.com/cpacker/MemGPT)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
