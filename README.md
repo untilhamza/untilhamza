@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DAMO-NLP-SG/contrastive-cot](https://github.com/DAMO-NLP-SG/contrastive-cot)<br>
-2. ⭐ Starred [altbert/Whatsapp_speech_to_text](https://github.com/altbert/Whatsapp_speech_to_text)<br>
-3. ⭐ Starred [Hidekih/editorjs-viewer-native](https://github.com/Hidekih/editorjs-viewer-native)<br>
-4. ⭐ Starred [Dhruv-2003/RepuationSystemMRU](https://github.com/Dhruv-2003/RepuationSystemMRU)<br>
-5. ⭐ Starred [privacy-scaling-explorations/zk-eigentrust](https://github.com/privacy-scaling-explorations/zk-eigentrust)<br>
+1. ⭐ Starred [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot)<br>
+2. ⭐ Starred [DAMO-NLP-SG/contrastive-cot](https://github.com/DAMO-NLP-SG/contrastive-cot)<br>
+3. ⭐ Starred [altbert/Whatsapp_speech_to_text](https://github.com/altbert/Whatsapp_speech_to_text)<br>
+4. ⭐ Starred [Hidekih/editorjs-viewer-native](https://github.com/Hidekih/editorjs-viewer-native)<br>
+5. ⭐ Starred [Dhruv-2003/RepuationSystemMRU](https://github.com/Dhruv-2003/RepuationSystemMRU)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
