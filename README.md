@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rehypejs/rehype](https://github.com/rehypejs/rehype)<br>
-2. ⭐ Starred [remarkjs/remark](https://github.com/remarkjs/remark)<br>
-3. ⭐ Starred [stejul/editorjs-markdown-parser](https://github.com/stejul/editorjs-markdown-parser)<br>
-4. ⭐ Starred [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown)<br>
-5. ⭐ Starred [steven-tey/novel](https://github.com/steven-tey/novel)<br>
+1. ⭐ Starred [developersdigest/ai-devices](https://github.com/developersdigest/ai-devices)<br>
+2. ⭐ Starred [rehypejs/rehype](https://github.com/rehypejs/rehype)<br>
+3. ⭐ Starred [remarkjs/remark](https://github.com/remarkjs/remark)<br>
+4. ⭐ Starred [stejul/editorjs-markdown-parser](https://github.com/stejul/editorjs-markdown-parser)<br>
+5. ⭐ Starred [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
