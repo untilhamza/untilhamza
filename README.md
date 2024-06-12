@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [markedjs/marked](https://github.com/markedjs/marked)<br>
-2. ⭐ Starred [google-research-datasets/conceptual-captions](https://github.com/google-research-datasets/conceptual-captions)<br>
-3. ⭐ Starred [developersdigest/ai-devices](https://github.com/developersdigest/ai-devices)<br>
-4. ⭐ Starred [rehypejs/rehype](https://github.com/rehypejs/rehype)<br>
-5. ⭐ Starred [remarkjs/remark](https://github.com/remarkjs/remark)<br>
+1. ⭐ Starred [getpelican/pelican](https://github.com/getpelican/pelican)<br>
+2. ⭐ Starred [markedjs/marked](https://github.com/markedjs/marked)<br>
+3. ⭐ Starred [google-research-datasets/conceptual-captions](https://github.com/google-research-datasets/conceptual-captions)<br>
+4. ⭐ Starred [developersdigest/ai-devices](https://github.com/developersdigest/ai-devices)<br>
+5. ⭐ Starred [rehypejs/rehype](https://github.com/rehypejs/rehype)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
