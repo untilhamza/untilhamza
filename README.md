@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [veryacademy/YT_FastAPI_Beginner_Fast-Track](https://github.com/veryacademy/YT_FastAPI_Beginner_Fast-Track)<br>
-2. ⭐ Starred [jvp-design/fastapi-tutorial](https://github.com/jvp-design/fastapi-tutorial)<br>
-3. ⭐ Starred [getpelican/pelican](https://github.com/getpelican/pelican)<br>
-4. ⭐ Starred [markedjs/marked](https://github.com/markedjs/marked)<br>
-5. ⭐ Starred [google-research-datasets/conceptual-captions](https://github.com/google-research-datasets/conceptual-captions)<br>
+1. ⬆️ Pushed 1 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+2. ⬆️ Pushed 2 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+3. ⭐ Starred [veryacademy/YT_FastAPI_Beginner_Fast-Track](https://github.com/veryacademy/YT_FastAPI_Beginner_Fast-Track)<br>
+4. ⭐ Starred [jvp-design/fastapi-tutorial](https://github.com/jvp-design/fastapi-tutorial)<br>
+5. ⭐ Starred [getpelican/pelican](https://github.com/getpelican/pelican)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
