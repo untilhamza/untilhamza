@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [untilhamza/untilhamza](https://github.com/untilhamza/untilhamza)<br>
-2. 🎉 Merged PR [#6](https://github.com/untilhamza/untilhamza/pull/6) in [untilhamza/untilhamza](https://github.com/untilhamza/untilhamza)<br>
-3. 💪 Opened PR [#6](https://github.com/untilhamza/untilhamza/pull/6) in [untilhamza/untilhamza](https://github.com/untilhamza/untilhamza)<br>
-4. ⬆️ Pushed 1 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
-5. ⬆️ Pushed 2 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+1. ⬆️ Pushed 1 commit(s) to [untilhamza/fastapi](https://github.com/untilhamza/fastapi)<br>
+2. ⬆️ Pushed 598 commit(s) to [untilhamza/fastapi](https://github.com/untilhamza/fastapi)<br>
+3. ⬆️ Pushed 2 commit(s) to [untilhamza/untilhamza](https://github.com/untilhamza/untilhamza)<br>
+4. 🎉 Merged PR [#6](https://github.com/untilhamza/untilhamza/pull/6) in [untilhamza/untilhamza](https://github.com/untilhamza/untilhamza)<br>
+5. 💪 Opened PR [#6](https://github.com/untilhamza/untilhamza/pull/6) in [untilhamza/untilhamza](https://github.com/untilhamza/untilhamza)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
