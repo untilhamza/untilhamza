@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [untilhamza/groqnotes](https://github.com/untilhamza/groqnotes)<br>
-2. 🔱 Forked [untilhamza/groqnotes](https://github.com/untilhamza/groqnotes) from [Bklieger/groqnotes](https://github.com/Bklieger/groqnotes)<br>
-3. ⭐ Starred [Bklieger/groqnotes](https://github.com/Bklieger/groqnotes)<br>
-4. ⬆️ Pushed 1 commit(s) to [untilhamza/fastapi](https://github.com/untilhamza/fastapi)<br>
-5. ⬆️ Pushed 598 commit(s) to [untilhamza/fastapi](https://github.com/untilhamza/fastapi)<br>
+1. ⬆️ Pushed 2 commit(s) to [untilhamza/groqnotes](https://github.com/untilhamza/groqnotes)<br>
+2. ⬆️ Pushed 3 commit(s) to [untilhamza/groqnotes](https://github.com/untilhamza/groqnotes)<br>
+3. 💪 Opened PR [#1](https://github.com/Bklieger/groqnotes/pull/1) in [Bklieger/groqnotes](https://github.com/Bklieger/groqnotes)<br>
+4. ⭐ Starred [untilhamza/groqnotes](https://github.com/untilhamza/groqnotes)<br>
+5. 🔱 Forked [untilhamza/groqnotes](https://github.com/untilhamza/groqnotes) from [Bklieger/groqnotes](https://github.com/Bklieger/groqnotes)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
