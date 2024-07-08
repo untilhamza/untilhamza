@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zoom/videosdk-ui-toolkit-react-sample](https://github.com/zoom/videosdk-ui-toolkit-react-sample)<br>
-2. ⭐ Starred [zoom/videosdk-web-sample](https://github.com/zoom/videosdk-web-sample)<br>
-3. ⬆️ Pushed 30 commit(s) to [untilhamza/groqnotes](https://github.com/untilhamza/groqnotes)<br>
-4. 🔱 Forked [untilhamza/RAGatouille](https://github.com/untilhamza/RAGatouille) from [hwchase17/RAGatouille](https://github.com/hwchase17/RAGatouille)<br>
-5. ⭐ Starred [hwchase17/RAGatouille](https://github.com/hwchase17/RAGatouille)<br>
+1. ⭐ Starred [zoom/meetingsdk-auth-endpoint-sample](https://github.com/zoom/meetingsdk-auth-endpoint-sample)<br>
+2. ⭐ Starred [zoom/meetingsdk-react-sample](https://github.com/zoom/meetingsdk-react-sample)<br>
+3. ⭐ Starred [zoom/videosdk-ui-toolkit-react-sample](https://github.com/zoom/videosdk-ui-toolkit-react-sample)<br>
+4. ⭐ Starred [zoom/videosdk-web-sample](https://github.com/zoom/videosdk-web-sample)<br>
+5. ⬆️ Pushed 30 commit(s) to [untilhamza/groqnotes](https://github.com/untilhamza/groqnotes)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
