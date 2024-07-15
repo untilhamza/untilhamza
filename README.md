@@ -85,9 +85,9 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 <!--RECENT_ACTIVITY:start-->
 1. 🤝 Became collaborator on [Slid-Team/langfuse](https://github.com/Slid-Team/langfuse)<br>
 2. 🤝 Became collaborator on [Slid-Team/langfuse](https://github.com/Slid-Team/langfuse)<br>
-3. ⭐ Starred [zoom/meetingbot-web-sample](https://github.com/zoom/meetingbot-web-sample)<br>
-4. ⭐ Starred [zoom/zoomapps-texteditor-vuejs](https://github.com/zoom/zoomapps-texteditor-vuejs)<br>
-5. ⭐ Starred [zoom/meetingsdk-auth-endpoint-sample](https://github.com/zoom/meetingsdk-auth-endpoint-sample)<br>
+3. 🤝 Became collaborator on [Slid-Team/langfuse](https://github.com/Slid-Team/langfuse)<br>
+4. ⭐ Starred [zoom/meetingbot-web-sample](https://github.com/zoom/meetingbot-web-sample)<br>
+5. ⭐ Starred [zoom/zoomapps-texteditor-vuejs](https://github.com/zoom/zoomapps-texteditor-vuejs)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
