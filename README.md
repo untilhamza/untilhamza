@@ -83,9 +83,9 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yosriady/awesome-api-devtools](https://github.com/yosriady/awesome-api-devtools)<br>
-2. ⭐ Starred [karpathy/LLM101n](https://github.com/karpathy/LLM101n)<br>
-3. 🤝 Became collaborator on [Slid-Team/langfuse](https://github.com/Slid-Team/langfuse)<br>
+1. ⭐ Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)<br>
+2. ⭐ Starred [yosriady/awesome-api-devtools](https://github.com/yosriady/awesome-api-devtools)<br>
+3. ⭐ Starred [karpathy/LLM101n](https://github.com/karpathy/LLM101n)<br>
 4. 🤝 Became collaborator on [Slid-Team/langfuse](https://github.com/Slid-Team/langfuse)<br>
 5. 🤝 Became collaborator on [Slid-Team/langfuse](https://github.com/Slid-Team/langfuse)<br>
    <!--RECENT_ACTIVITY:end-->
