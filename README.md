@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)<br>
-2. ⭐ Starred [yosriady/awesome-api-devtools](https://github.com/yosriady/awesome-api-devtools)<br>
-3. ⭐ Starred [karpathy/LLM101n](https://github.com/karpathy/LLM101n)<br>
-4. 🤝 Became collaborator on [Slid-Team/langfuse](https://github.com/Slid-Team/langfuse)<br>
-5. 🤝 Became collaborator on [Slid-Team/langfuse](https://github.com/Slid-Team/langfuse)<br>
+1. 🔱 Forked [untilhamza/full-stack-fastapi-template](https://github.com/untilhamza/full-stack-fastapi-template) from [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template)<br>
+2. ⭐ Starred [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template)<br>
+3. ⭐ Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)<br>
+4. ⭐ Starred [yosriady/awesome-api-devtools](https://github.com/yosriady/awesome-api-devtools)<br>
+5. ⭐ Starred [karpathy/LLM101n](https://github.com/karpathy/LLM101n)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
