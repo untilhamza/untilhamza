@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/mem0](https://github.com/untilhamza/mem0) from [mem0ai/mem0](https://github.com/mem0ai/mem0)<br>
-2. 🔱 Forked [untilhamza/rtvi-web-demo](https://github.com/untilhamza/rtvi-web-demo) from [rtvi-ai/rtvi-web-demo](https://github.com/rtvi-ai/rtvi-web-demo)<br>
-3. 🔱 Forked [untilhamza/pipecat](https://github.com/untilhamza/pipecat) from [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)<br>
-4. ⭐ Starred [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)<br>
-5. ⭐ Starred [rtvi-ai/rtvi-web-demo](https://github.com/rtvi-ai/rtvi-web-demo)<br>
+1. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)<br>
+2. 🔱 Forked [untilhamza/mem0](https://github.com/untilhamza/mem0) from [mem0ai/mem0](https://github.com/mem0ai/mem0)<br>
+3. 🔱 Forked [untilhamza/rtvi-web-demo](https://github.com/untilhamza/rtvi-web-demo) from [rtvi-ai/rtvi-web-demo](https://github.com/rtvi-ai/rtvi-web-demo)<br>
+4. 🔱 Forked [untilhamza/pipecat](https://github.com/untilhamza/pipecat) from [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)<br>
+5. ⭐ Starred [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
