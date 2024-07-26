@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vnurhaqiqi/fastapi-sqlmodel-postgresql](https://github.com/vnurhaqiqi/fastapi-sqlmodel-postgresql)<br>
-2. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)<br>
-3. 🔱 Forked [untilhamza/mem0](https://github.com/untilhamza/mem0) from [mem0ai/mem0](https://github.com/mem0ai/mem0)<br>
-4. 🔱 Forked [untilhamza/rtvi-web-demo](https://github.com/untilhamza/rtvi-web-demo) from [rtvi-ai/rtvi-web-demo](https://github.com/rtvi-ai/rtvi-web-demo)<br>
-5. 🔱 Forked [untilhamza/pipecat](https://github.com/untilhamza/pipecat) from [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)<br>
+1. 👍 Approved [#3](https://github.com/thorwebdev/transformers.js/pull/3#pullrequestreview-2201602776) in [thorwebdev/transformers.js](https://github.com/thorwebdev/transformers.js)<br>
+2. ⭐ Starred [vnurhaqiqi/fastapi-sqlmodel-postgresql](https://github.com/vnurhaqiqi/fastapi-sqlmodel-postgresql)<br>
+3. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)<br>
+4. 🔱 Forked [untilhamza/mem0](https://github.com/untilhamza/mem0) from [mem0ai/mem0](https://github.com/mem0ai/mem0)<br>
+5. 🔱 Forked [untilhamza/rtvi-web-demo](https://github.com/untilhamza/rtvi-web-demo) from [rtvi-ai/rtvi-web-demo](https://github.com/rtvi-ai/rtvi-web-demo)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
