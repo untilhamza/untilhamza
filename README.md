@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [supermemoryai/opensearch-ai](https://github.com/supermemoryai/opensearch-ai)<br>
-2. ⭐ Starred [jmaupetit/md2pdf](https://github.com/jmaupetit/md2pdf)<br>
-3. 👍 Approved [#3](https://github.com/thorwebdev/transformers.js/pull/3#pullrequestreview-2201602776) in [thorwebdev/transformers.js](https://github.com/thorwebdev/transformers.js)<br>
-4. ⭐ Starred [vnurhaqiqi/fastapi-sqlmodel-postgresql](https://github.com/vnurhaqiqi/fastapi-sqlmodel-postgresql)<br>
-5. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)<br>
+1. ⭐ Starred [getsentry/sentry](https://github.com/getsentry/sentry)<br>
+2. ⭐ Starred [supermemoryai/opensearch-ai](https://github.com/supermemoryai/opensearch-ai)<br>
+3. ⭐ Starred [jmaupetit/md2pdf](https://github.com/jmaupetit/md2pdf)<br>
+4. 👍 Approved [#3](https://github.com/thorwebdev/transformers.js/pull/3#pullrequestreview-2201602776) in [thorwebdev/transformers.js](https://github.com/thorwebdev/transformers.js)<br>
+5. ⭐ Starred [vnurhaqiqi/fastapi-sqlmodel-postgresql](https://github.com/vnurhaqiqi/fastapi-sqlmodel-postgresql)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
