@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jmaupetit/md2pdf](https://github.com/jmaupetit/md2pdf)<br>
-2. 👍 Approved [#3](https://github.com/thorwebdev/transformers.js/pull/3#pullrequestreview-2201602776) in [thorwebdev/transformers.js](https://github.com/thorwebdev/transformers.js)<br>
-3. ⭐ Starred [vnurhaqiqi/fastapi-sqlmodel-postgresql](https://github.com/vnurhaqiqi/fastapi-sqlmodel-postgresql)<br>
-4. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)<br>
-5. 🔱 Forked [untilhamza/mem0](https://github.com/untilhamza/mem0) from [mem0ai/mem0](https://github.com/mem0ai/mem0)<br>
+1. ⭐ Starred [supermemoryai/opensearch-ai](https://github.com/supermemoryai/opensearch-ai)<br>
+2. ⭐ Starred [jmaupetit/md2pdf](https://github.com/jmaupetit/md2pdf)<br>
+3. 👍 Approved [#3](https://github.com/thorwebdev/transformers.js/pull/3#pullrequestreview-2201602776) in [thorwebdev/transformers.js](https://github.com/thorwebdev/transformers.js)<br>
+4. ⭐ Starred [vnurhaqiqi/fastapi-sqlmodel-postgresql](https://github.com/vnurhaqiqi/fastapi-sqlmodel-postgresql)<br>
+5. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
