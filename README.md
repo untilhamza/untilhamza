@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ComposioHQ/composio](https://github.com/ComposioHQ/composio)<br>
-2. ⭐ Starred [untilhamza/mem0](https://github.com/untilhamza/mem0)<br>
-3. ⭐ Starred [getsentry/sentry](https://github.com/getsentry/sentry)<br>
-4. ⭐ Starred [supermemoryai/opensearch-ai](https://github.com/supermemoryai/opensearch-ai)<br>
-5. ⭐ Starred [jmaupetit/md2pdf](https://github.com/jmaupetit/md2pdf)<br>
+1. ⭐ Starred [supabase-community/postgres-new](https://github.com/supabase-community/postgres-new)<br>
+2. ⭐ Starred [ComposioHQ/composio](https://github.com/ComposioHQ/composio)<br>
+3. ⭐ Starred [untilhamza/mem0](https://github.com/untilhamza/mem0)<br>
+4. ⭐ Starred [getsentry/sentry](https://github.com/getsentry/sentry)<br>
+5. ⭐ Starred [supermemoryai/opensearch-ai](https://github.com/supermemoryai/opensearch-ai)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
