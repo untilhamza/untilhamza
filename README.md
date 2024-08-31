@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [automerge/automerge-prosemirror](https://github.com/automerge/automerge-prosemirror)<br>
-2. ⭐ Starred [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)<br>
-3. ⭐ Starred [cuda-mode/awesomeMLSys](https://github.com/cuda-mode/awesomeMLSys)<br>
-4. ⭐ Starred [supabase-community/postgres-new](https://github.com/supabase-community/postgres-new)<br>
-5. ⭐ Starred [ComposioHQ/composio](https://github.com/ComposioHQ/composio)<br>
+1. ⭐ Starred [mendableai/firecrawl](https://github.com/mendableai/firecrawl)<br>
+2. ⭐ Starred [livekit/agents](https://github.com/livekit/agents)<br>
+3. ⭐ Starred [automerge/automerge-prosemirror](https://github.com/automerge/automerge-prosemirror)<br>
+4. ⭐ Starred [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)<br>
+5. ⭐ Starred [cuda-mode/awesomeMLSys](https://github.com/cuda-mode/awesomeMLSys)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
