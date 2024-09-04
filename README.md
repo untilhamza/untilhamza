@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [m-bain/whisperX](https://github.com/m-bain/whisperX)<br>
-2. ⭐ Starred [MODSetter/gpt-instagram](https://github.com/MODSetter/gpt-instagram)<br>
-3. ⭐ Starred [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)<br>
-4. ⭐ Starred [mendableai/firecrawl](https://github.com/mendableai/firecrawl)<br>
-5. ⭐ Starred [livekit/agents](https://github.com/livekit/agents)<br>
+1. ⭐ Starred [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)<br>
+2. ⭐ Starred [stanford-oval/storm](https://github.com/stanford-oval/storm)<br>
+3. ⭐ Starred [m-bain/whisperX](https://github.com/m-bain/whisperX)<br>
+4. ⭐ Starred [MODSetter/gpt-instagram](https://github.com/MODSetter/gpt-instagram)<br>
+5. ⭐ Starred [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
