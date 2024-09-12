@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)<br>
-2. ⭐ Starred [starpig1129/ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-MulitAgent)<br>
-3. ⭐ Starred [RasaHQ/semantic-map-embedding](https://github.com/RasaHQ/semantic-map-embedding)<br>
-4. ⭐ Starred [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)<br>
-5. ⭐ Starred [stanford-oval/storm](https://github.com/stanford-oval/storm)<br>
+1. ⭐ Starred [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X)<br>
+2. ⭐ Starred [lperezmo/real-time-translator](https://github.com/lperezmo/real-time-translator)<br>
+3. ⭐ Starred [kensonhui/Realtime-Speech-to-Speech-Translation](https://github.com/kensonhui/Realtime-Speech-to-Speech-Translation)<br>
+4. ⭐ Starred [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)<br>
+5. ⭐ Starred [starpig1129/ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-MulitAgent)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
