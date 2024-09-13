@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X)<br>
-2. ⭐ Starred [lperezmo/real-time-translator](https://github.com/lperezmo/real-time-translator)<br>
-3. ⭐ Starred [kensonhui/Realtime-Speech-to-Speech-Translation](https://github.com/kensonhui/Realtime-Speech-to-Speech-Translation)<br>
-4. ⭐ Starred [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)<br>
-5. ⭐ Starred [starpig1129/ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-MulitAgent)<br>
+1. ⭐ Starred [langchain-ai/langgraph-studio](https://github.com/langchain-ai/langgraph-studio)<br>
+2. ⭐ Starred [langchain-ai/langchain-academy](https://github.com/langchain-ai/langchain-academy)<br>
+3. ⭐ Starred [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X)<br>
+4. ⭐ Starred [lperezmo/real-time-translator](https://github.com/lperezmo/real-time-translator)<br>
+5. ⭐ Starred [kensonhui/Realtime-Speech-to-Speech-Translation](https://github.com/kensonhui/Realtime-Speech-to-Speech-Translation)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
