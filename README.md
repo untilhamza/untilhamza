@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [langchain-ai/langgraph-studio](https://github.com/langchain-ai/langgraph-studio)<br>
-2. ⭐ Starred [langchain-ai/langchain-academy](https://github.com/langchain-ai/langchain-academy)<br>
-3. ⭐ Starred [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X)<br>
-4. ⭐ Starred [lperezmo/real-time-translator](https://github.com/lperezmo/real-time-translator)<br>
-5. ⭐ Starred [kensonhui/Realtime-Speech-to-Speech-Translation](https://github.com/kensonhui/Realtime-Speech-to-Speech-Translation)<br>
+1. ⭐ Starred [ictnlp/LLaMA-Omni](https://github.com/ictnlp/LLaMA-Omni)<br>
+2. ⭐ Starred [langchain-ai/langgraph-studio](https://github.com/langchain-ai/langgraph-studio)<br>
+3. ⭐ Starred [langchain-ai/langchain-academy](https://github.com/langchain-ai/langchain-academy)<br>
+4. ⭐ Starred [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X)<br>
+5. ⭐ Starred [lperezmo/real-time-translator](https://github.com/lperezmo/real-time-translator)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
