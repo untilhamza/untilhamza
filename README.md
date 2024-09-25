@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [konstantinmuenster/lexical-rich-text-react-demo](https://github.com/konstantinmuenster/lexical-rich-text-react-demo)<br>
-2. ⭐ Starred [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter)<br>
-3. 🔱 Forked [untilhamza/chrome-audio-capture](https://github.com/untilhamza/chrome-audio-capture) from [zhw2590582/chrome-audio-capture](https://github.com/zhw2590582/chrome-audio-capture)<br>
-4. ⭐ Starred [zhw2590582/chrome-audio-capture](https://github.com/zhw2590582/chrome-audio-capture)<br>
-5. ⭐ Starred [MadcowD/ell](https://github.com/MadcowD/ell)<br>
+1. ⭐ Starred [huggingface/chat-macOS](https://github.com/huggingface/chat-macOS)<br>
+2. ⭐ Starred [vercel-labs/ai-sdk-preview-internal-knowledge-base](https://github.com/vercel-labs/ai-sdk-preview-internal-knowledge-base)<br>
+3. ⭐ Starred [konstantinmuenster/lexical-rich-text-react-demo](https://github.com/konstantinmuenster/lexical-rich-text-react-demo)<br>
+4. ⭐ Starred [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter)<br>
+5. 🔱 Forked [untilhamza/chrome-audio-capture](https://github.com/untilhamza/chrome-audio-capture) from [zhw2590582/chrome-audio-capture](https://github.com/zhw2590582/chrome-audio-capture)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
