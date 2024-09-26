@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip)<br>
-2. ⭐ Starred [huggingface/chat-macOS](https://github.com/huggingface/chat-macOS)<br>
-3. ⭐ Starred [vercel-labs/ai-sdk-preview-internal-knowledge-base](https://github.com/vercel-labs/ai-sdk-preview-internal-knowledge-base)<br>
-4. ⭐ Starred [konstantinmuenster/lexical-rich-text-react-demo](https://github.com/konstantinmuenster/lexical-rich-text-react-demo)<br>
-5. ⭐ Starred [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter)<br>
+1. 🔱 Forked [untilhamza/lipysync-video-translation-starter](undefined) from [synchronicity-labs/translation-starter](https://github.com/synchronicity-labs/translation-starter)<br>
+2. ⭐ Starred [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip)<br>
+3. ⭐ Starred [huggingface/chat-macOS](https://github.com/huggingface/chat-macOS)<br>
+4. ⭐ Starred [vercel-labs/ai-sdk-preview-internal-knowledge-base](https://github.com/vercel-labs/ai-sdk-preview-internal-knowledge-base)<br>
+5. ⭐ Starred [konstantinmuenster/lexical-rich-text-react-demo](https://github.com/konstantinmuenster/lexical-rich-text-react-demo)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
