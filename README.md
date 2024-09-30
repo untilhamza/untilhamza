@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Atticuszz/fastapi_supabase_template](https://github.com/Atticuszz/fastapi_supabase_template)<br>
-2. 🔱 Forked [untilhamza/lipysync-video-translation-starter](undefined) from [synchronicity-labs/translation-starter](https://github.com/synchronicity-labs/translation-starter)<br>
-3. ⭐ Starred [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip)<br>
-4. ⭐ Starred [huggingface/chat-macOS](https://github.com/huggingface/chat-macOS)<br>
-5. ⭐ Starred [vercel-labs/ai-sdk-preview-internal-knowledge-base](https://github.com/vercel-labs/ai-sdk-preview-internal-knowledge-base)<br>
+1. 🔱 Forked [untilhamza/videospeed](undefined) from [igrigorik/videospeed](https://github.com/igrigorik/videospeed)<br>
+2. ⭐ Starred [Atticuszz/fastapi_supabase_template](https://github.com/Atticuszz/fastapi_supabase_template)<br>
+3. 🔱 Forked [untilhamza/lipysync-video-translation-starter](undefined) from [synchronicity-labs/translation-starter](https://github.com/synchronicity-labs/translation-starter)<br>
+4. ⭐ Starred [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip)<br>
+5. ⭐ Starred [huggingface/chat-macOS](https://github.com/huggingface/chat-macOS)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
