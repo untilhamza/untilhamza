@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [leerob/next-music-player](https://github.com/leerob/next-music-player)<br>
-2. 🔱 Forked [untilhamza/videospeed](undefined) from [igrigorik/videospeed](https://github.com/igrigorik/videospeed)<br>
-3. ⭐ Starred [Atticuszz/fastapi_supabase_template](https://github.com/Atticuszz/fastapi_supabase_template)<br>
-4. 🔱 Forked [untilhamza/lipysync-video-translation-starter](undefined) from [synchronicity-labs/translation-starter](https://github.com/synchronicity-labs/translation-starter)<br>
-5. ⭐ Starred [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip)<br>
+1. ⭐ Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)<br>
+2. ⭐ Starred [leerob/next-music-player](https://github.com/leerob/next-music-player)<br>
+3. 🔱 Forked [untilhamza/videospeed](undefined) from [igrigorik/videospeed](https://github.com/igrigorik/videospeed)<br>
+4. ⭐ Starred [Atticuszz/fastapi_supabase_template](https://github.com/Atticuszz/fastapi_supabase_template)<br>
+5. 🔱 Forked [untilhamza/lipysync-video-translation-starter](undefined) from [synchronicity-labs/translation-starter](https://github.com/synchronicity-labs/translation-starter)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
