@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [HumanAIGC/EMO](https://github.com/HumanAIGC/EMO)<br>
-2. ⭐ Starred [vercel/commerce](https://github.com/vercel/commerce)<br>
-3. ⭐ Starred [GGCodeLatam/next-multitenant-2024](https://github.com/GGCodeLatam/next-multitenant-2024)<br>
-4. ⭐ Starred [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent)<br>
-5. ⭐ Starred [excalidraw/virgil](https://github.com/excalidraw/virgil)<br>
+1. ⭐ Starred [Nutlope/llama-ocr](https://github.com/Nutlope/llama-ocr)<br>
+2. ⭐ Starred [HumanAIGC/EMO](https://github.com/HumanAIGC/EMO)<br>
+3. ⭐ Starred [vercel/commerce](https://github.com/vercel/commerce)<br>
+4. ⭐ Starred [GGCodeLatam/next-multitenant-2024](https://github.com/GGCodeLatam/next-multitenant-2024)<br>
+5. ⭐ Starred [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
