@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Nutlope/llama-ocr](https://github.com/Nutlope/llama-ocr)<br>
-2. ⭐ Starred [HumanAIGC/EMO](https://github.com/HumanAIGC/EMO)<br>
-3. ⭐ Starred [vercel/commerce](https://github.com/vercel/commerce)<br>
-4. ⭐ Starred [GGCodeLatam/next-multitenant-2024](https://github.com/GGCodeLatam/next-multitenant-2024)<br>
-5. ⭐ Starred [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent)<br>
+1. 💬 Commented on [#4](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API/issues/4#issuecomment-2495329033) in [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
+2. ⭐ Starred [Nutlope/llama-ocr](https://github.com/Nutlope/llama-ocr)<br>
+3. ⭐ Starred [HumanAIGC/EMO](https://github.com/HumanAIGC/EMO)<br>
+4. ⭐ Starred [vercel/commerce](https://github.com/vercel/commerce)<br>
+5. ⭐ Starred [GGCodeLatam/next-multitenant-2024](https://github.com/GGCodeLatam/next-multitenant-2024)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
