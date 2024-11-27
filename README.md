@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wangyz1999/syncnet-speaker-diarization](https://github.com/wangyz1999/syncnet-speaker-diarization)<br>
-2. ⭐ Starred [astral-sh/uv](https://github.com/astral-sh/uv)<br>
-3. ⭐ Starred [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive)<br>
-4. 💬 Commented on [#4](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API/issues/4#issuecomment-2495329033) in [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
-5. ⭐ Starred [Nutlope/llama-ocr](https://github.com/Nutlope/llama-ocr)<br>
+1. ⭐ Starred [benfmiller/audalign](https://github.com/benfmiller/audalign)<br>
+2. ⭐ Starred [wangyz1999/syncnet-speaker-diarization](https://github.com/wangyz1999/syncnet-speaker-diarization)<br>
+3. ⭐ Starred [astral-sh/uv](https://github.com/astral-sh/uv)<br>
+4. ⭐ Starred [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive)<br>
+5. 💬 Commented on [#4](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API/issues/4#issuecomment-2495329033) in [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
