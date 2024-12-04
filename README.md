@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bluesky-social/pds](https://github.com/bluesky-social/pds)<br>
-2. ⭐ Starred [benfmiller/audalign](https://github.com/benfmiller/audalign)<br>
-3. ⭐ Starred [wangyz1999/syncnet-speaker-diarization](https://github.com/wangyz1999/syncnet-speaker-diarization)<br>
-4. ⭐ Starred [astral-sh/uv](https://github.com/astral-sh/uv)<br>
-5. ⭐ Starred [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive)<br>
+1. ⭐ Starred [yazinsai/srt-ai](https://github.com/yazinsai/srt-ai)<br>
+2. ⭐ Starred [bluesky-social/pds](https://github.com/bluesky-social/pds)<br>
+3. ⭐ Starred [benfmiller/audalign](https://github.com/benfmiller/audalign)<br>
+4. ⭐ Starred [wangyz1999/syncnet-speaker-diarization](https://github.com/wangyz1999/syncnet-speaker-diarization)<br>
+5. ⭐ Starred [astral-sh/uv](https://github.com/astral-sh/uv)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
