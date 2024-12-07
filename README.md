@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gabrielpetersson/fast-grid](https://github.com/gabrielpetersson/fast-grid)<br>
-2. ⭐ Starred [yazinsai/srt-ai](https://github.com/yazinsai/srt-ai)<br>
-3. ⭐ Starred [bluesky-social/pds](https://github.com/bluesky-social/pds)<br>
-4. ⭐ Starred [benfmiller/audalign](https://github.com/benfmiller/audalign)<br>
-5. ⭐ Starred [wangyz1999/syncnet-speaker-diarization](https://github.com/wangyz1999/syncnet-speaker-diarization)<br>
+1. ⭐ Starred [langchain-ai/company-researcher](https://github.com/langchain-ai/company-researcher)<br>
+2. ⭐ Starred [gabrielpetersson/fast-grid](https://github.com/gabrielpetersson/fast-grid)<br>
+3. ⭐ Starred [yazinsai/srt-ai](https://github.com/yazinsai/srt-ai)<br>
+4. ⭐ Starred [bluesky-social/pds](https://github.com/bluesky-social/pds)<br>
+5. ⭐ Starred [benfmiller/audalign](https://github.com/benfmiller/audalign)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
