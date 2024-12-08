@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#6919](https://github.com/facebook/lexical/pull/6919) in [facebook/lexical](https://github.com/facebook/lexical)<br>
-2. 🔱 Forked [untilhamza/lexical](https://github.com/untilhamza/lexical) from [facebook/lexical](https://github.com/facebook/lexical)<br>
-3. ⭐ Starred [langchain-ai/company-researcher](https://github.com/langchain-ai/company-researcher)<br>
-4. ⭐ Starred [gabrielpetersson/fast-grid](https://github.com/gabrielpetersson/fast-grid)<br>
-5. ⭐ Starred [yazinsai/srt-ai](https://github.com/yazinsai/srt-ai)<br>
+1. 💬 Commented on [#6919](https://github.com/facebook/lexical/pull/6919#issuecomment-2526305846) in [facebook/lexical](https://github.com/facebook/lexical)<br>
+2. 💪 Opened PR [#6919](https://github.com/facebook/lexical/pull/6919) in [facebook/lexical](https://github.com/facebook/lexical)<br>
+3. 🔱 Forked [untilhamza/lexical](https://github.com/untilhamza/lexical) from [facebook/lexical](https://github.com/facebook/lexical)<br>
+4. ⭐ Starred [langchain-ai/company-researcher](https://github.com/langchain-ai/company-researcher)<br>
+5. ⭐ Starred [gabrielpetersson/fast-grid](https://github.com/gabrielpetersson/fast-grid)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
