@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#6919](https://github.com/facebook/lexical/pull/6919#issuecomment-2526587727) in [facebook/lexical](https://github.com/facebook/lexical)<br>
-2. ❌ Closed PR [#6919](https://github.com/facebook/lexical/pull/6919) in [facebook/lexical](https://github.com/facebook/lexical)<br>
-3. 💬 Commented on [#6919](https://github.com/facebook/lexical/pull/6919#issuecomment-2526305846) in [facebook/lexical](https://github.com/facebook/lexical)<br>
-4. 💪 Opened PR [#6919](https://github.com/facebook/lexical/pull/6919) in [facebook/lexical](https://github.com/facebook/lexical)<br>
-5. 🔱 Forked [untilhamza/lexical](https://github.com/untilhamza/lexical) from [facebook/lexical](https://github.com/facebook/lexical)<br>
+1. ⭐ Starred [MaxStrange/AudioSegment](https://github.com/MaxStrange/AudioSegment)<br>
+2. ⭐ Starred [jiaaro/pydub](https://github.com/jiaaro/pydub)<br>
+3. 💬 Commented on [#6919](https://github.com/facebook/lexical/pull/6919#issuecomment-2526587727) in [facebook/lexical](https://github.com/facebook/lexical)<br>
+4. ❌ Closed PR [#6919](https://github.com/facebook/lexical/pull/6919) in [facebook/lexical](https://github.com/facebook/lexical)<br>
+5. 💬 Commented on [#6919](https://github.com/facebook/lexical/pull/6919#issuecomment-2526305846) in [facebook/lexical](https://github.com/facebook/lexical)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
