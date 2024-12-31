@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)<br>
-2. ⭐ Starred [MaxStrange/AudioSegment](https://github.com/MaxStrange/AudioSegment)<br>
-3. ⭐ Starred [jiaaro/pydub](https://github.com/jiaaro/pydub)<br>
-4. 💬 Commented on [#6919](https://github.com/facebook/lexical/pull/6919#issuecomment-2526587727) in [facebook/lexical](https://github.com/facebook/lexical)<br>
-5. ❌ Closed PR [#6919](https://github.com/facebook/lexical/pull/6919) in [facebook/lexical](https://github.com/facebook/lexical)<br>
+1. ⭐ Starred [expo/expo](https://github.com/expo/expo)<br>
+2. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)<br>
+3. ⭐ Starred [MaxStrange/AudioSegment](https://github.com/MaxStrange/AudioSegment)<br>
+4. ⭐ Starred [jiaaro/pydub](https://github.com/jiaaro/pydub)<br>
+5. 💬 Commented on [#6919](https://github.com/facebook/lexical/pull/6919#issuecomment-2526587727) in [facebook/lexical](https://github.com/facebook/lexical)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
