@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/khoj](https://github.com/untilhamza/khoj) from [khoj-ai/khoj](https://github.com/khoj-ai/khoj)<br>
-2. ⭐ Starred [khoj-ai/khoj](https://github.com/khoj-ai/khoj)<br>
-3. ⭐ Starred [vercel-labs/book-inventory](https://github.com/vercel-labs/book-inventory)<br>
-4. ⭐ Starred [expo/expo](https://github.com/expo/expo)<br>
-5. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)<br>
+1. ⭐ Starred [MuhammadAhsaanAbbasi/generative-ai](https://github.com/MuhammadAhsaanAbbasi/generative-ai)<br>
+2. 🔱 Forked [untilhamza/khoj](https://github.com/untilhamza/khoj) from [khoj-ai/khoj](https://github.com/khoj-ai/khoj)<br>
+3. ⭐ Starred [khoj-ai/khoj](https://github.com/khoj-ai/khoj)<br>
+4. ⭐ Starred [vercel-labs/book-inventory](https://github.com/vercel-labs/book-inventory)<br>
+5. ⭐ Starred [expo/expo](https://github.com/expo/expo)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
