@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [campsite/campsite](https://github.com/campsite/campsite)<br>
-2. ⭐ Starred [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit)<br>
-3. ⭐ Starred [MuhammadAhsaanAbbasi/generative-ai](https://github.com/MuhammadAhsaanAbbasi/generative-ai)<br>
-4. 🔱 Forked [untilhamza/khoj](https://github.com/untilhamza/khoj) from [khoj-ai/khoj](https://github.com/khoj-ai/khoj)<br>
-5. ⭐ Starred [khoj-ai/khoj](https://github.com/khoj-ai/khoj)<br>
+1. ⭐ Starred [th-ch/youtube-music](https://github.com/th-ch/youtube-music)<br>
+2. ⭐ Starred [campsite/campsite](https://github.com/campsite/campsite)<br>
+3. ⭐ Starred [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit)<br>
+4. ⭐ Starred [MuhammadAhsaanAbbasi/generative-ai](https://github.com/MuhammadAhsaanAbbasi/generative-ai)<br>
+5. 🔱 Forked [untilhamza/khoj](https://github.com/untilhamza/khoj) from [khoj-ai/khoj](https://github.com/khoj-ai/khoj)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
