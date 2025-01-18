@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)<br>
-2. ⭐ Starred [codestoryai/aide](https://github.com/codestoryai/aide)<br>
-3. ⭐ Starred [th-ch/youtube-music](https://github.com/th-ch/youtube-music)<br>
-4. ⭐ Starred [campsite/campsite](https://github.com/campsite/campsite)<br>
-5. ⭐ Starred [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit)<br>
+1. ⭐ Starred [raunofreiberg/vesper](https://github.com/raunofreiberg/vesper)<br>
+2. ⭐ Starred [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)<br>
+3. ⭐ Starred [codestoryai/aide](https://github.com/codestoryai/aide)<br>
+4. ⭐ Starred [th-ch/youtube-music](https://github.com/th-ch/youtube-music)<br>
+5. ⭐ Starred [campsite/campsite](https://github.com/campsite/campsite)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
