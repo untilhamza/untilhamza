@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/next-minimal-store](https://github.com/untilhamza/next-minimal-store) from [leerob/next-minimal-store](https://github.com/leerob/next-minimal-store)<br>
-2. ⭐ Starred [leerob/next-email-client](https://github.com/leerob/next-email-client)<br>
-3. ⭐ Starred [leerob/next-minimal-store](https://github.com/leerob/next-minimal-store)<br>
-4. ⭐ Starred [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)<br>
-5. ⭐ Starred [raunofreiberg/vesper](https://github.com/raunofreiberg/vesper)<br>
+1. ⭐ Starred [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)<br>
+2. 🔱 Forked [untilhamza/next-minimal-store](https://github.com/untilhamza/next-minimal-store) from [leerob/next-minimal-store](https://github.com/leerob/next-minimal-store)<br>
+3. ⭐ Starred [leerob/next-email-client](https://github.com/leerob/next-email-client)<br>
+4. ⭐ Starred [leerob/next-minimal-store](https://github.com/leerob/next-minimal-store)<br>
+5. ⭐ Starred [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
