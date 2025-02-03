@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/Next-notion-lexical-editor](https://github.com/untilhamza/Next-notion-lexical-editor) from [mohe22/Next-lexical-editor](https://github.com/mohe22/Next-lexical-editor)<br>
-2. ⭐ Starred [mohe22/Next-lexical-editor](https://github.com/mohe22/Next-lexical-editor)<br>
-3. ⭐ Starred [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)<br>
-4. 🔱 Forked [untilhamza/next-minimal-store](https://github.com/untilhamza/next-minimal-store) from [leerob/next-minimal-store](https://github.com/leerob/next-minimal-store)<br>
-5. ⭐ Starred [leerob/next-email-client](https://github.com/leerob/next-email-client)<br>
+1. ⭐ Starred [needle-ai/needle-mcp](https://github.com/needle-ai/needle-mcp)<br>
+2. 🔱 Forked [untilhamza/servers](https://github.com/untilhamza/servers) from [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)<br>
+3. ⭐ Starred [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)<br>
+4. 🔱 Forked [untilhamza/Next-notion-lexical-editor](https://github.com/untilhamza/Next-notion-lexical-editor) from [mohe22/Next-lexical-editor](https://github.com/mohe22/Next-lexical-editor)<br>
+5. ⭐ Starred [mohe22/Next-lexical-editor](https://github.com/mohe22/Next-lexical-editor)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
