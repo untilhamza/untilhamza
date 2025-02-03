@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [needle-ai/needle-mcp](https://github.com/needle-ai/needle-mcp)<br>
-2. 🔱 Forked [untilhamza/servers](https://github.com/untilhamza/servers) from [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)<br>
-3. ⭐ Starred [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)<br>
-4. 🔱 Forked [untilhamza/Next-notion-lexical-editor](https://github.com/untilhamza/Next-notion-lexical-editor) from [mohe22/Next-lexical-editor](https://github.com/mohe22/Next-lexical-editor)<br>
-5. ⭐ Starred [mohe22/Next-lexical-editor](https://github.com/mohe22/Next-lexical-editor)<br>
+1. ⭐ Starred [oumi-ai/oumi](https://github.com/oumi-ai/oumi)<br>
+2. ⭐ Starred [editor-js/marker](https://github.com/editor-js/marker)<br>
+3. ⭐ Starred [oumi-ai/oumi](https://github.com/oumi-ai/oumi)<br>
+4. ⭐ Starred [needle-ai/needle-mcp](https://github.com/needle-ai/needle-mcp)<br>
+5. 🔱 Forked [untilhamza/servers](https://github.com/untilhamza/servers) from [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
