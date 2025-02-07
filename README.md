@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mdsrqbl/omnihuman](https://github.com/mdsrqbl/omnihuman)<br>
-2. ⭐ Starred [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-3. 🔱 Forked [untilhamza/rag-chat-component](https://github.com/untilhamza/rag-chat-component) from [upstash/rag-chat-component](https://github.com/upstash/rag-chat-component)<br>
-4. ⭐ Starred [upstash/rag-chat-component](https://github.com/upstash/rag-chat-component)<br>
-5. ⭐ Starred [Ucas-HaoranWei/GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)<br>
+1. ⭐ Starred [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor)<br>
+2. ⭐ Starred [mdsrqbl/omnihuman](https://github.com/mdsrqbl/omnihuman)<br>
+3. ⭐ Starred [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+4. 🔱 Forked [untilhamza/rag-chat-component](https://github.com/untilhamza/rag-chat-component) from [upstash/rag-chat-component](https://github.com/upstash/rag-chat-component)<br>
+5. ⭐ Starred [upstash/rag-chat-component](https://github.com/upstash/rag-chat-component)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
