@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [stevenwaterman/narration.studio](https://github.com/stevenwaterman/narration.studio)<br>
-2. ⭐ Starred [MarsX-dev/seobot-nextjs-blog](https://github.com/MarsX-dev/seobot-nextjs-blog)<br>
-3. ⭐ Starred [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor)<br>
-4. ⭐ Starred [mdsrqbl/omnihuman](https://github.com/mdsrqbl/omnihuman)<br>
-5. ⭐ Starred [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+1. ⭐ Starred [corbanbrook/dsp.js](https://github.com/corbanbrook/dsp.js)<br>
+2. ⭐ Starred [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js)<br>
+3. 🔱 Forked [untilhamza/AudioMass](https://github.com/untilhamza/AudioMass) from [pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass)<br>
+4. ⭐ Starred [pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass)<br>
+5. ⭐ Starred [stevenwaterman/narration.studio](https://github.com/stevenwaterman/narration.studio)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
