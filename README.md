@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/deep-research](https://github.com/untilhamza/deep-research) from [dzhng/deep-research](https://github.com/dzhng/deep-research)<br>
-2. ⭐ Starred [dzhng/deep-research](https://github.com/dzhng/deep-research)<br>
-3. ⭐ Starred [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes)<br>
-4. 🔱 Forked [untilhamza/ffmpeg.wasm](https://github.com/untilhamza/ffmpeg.wasm) from [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)<br>
-5. ⭐ Starred [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)<br>
+1. ⭐ Starred [langchain-ai/long_term_memory_course](https://github.com/langchain-ai/long_term_memory_course)<br>
+2. 🔱 Forked [untilhamza/deep-research](https://github.com/untilhamza/deep-research) from [dzhng/deep-research](https://github.com/dzhng/deep-research)<br>
+3. ⭐ Starred [dzhng/deep-research](https://github.com/dzhng/deep-research)<br>
+4. ⭐ Starred [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes)<br>
+5. 🔱 Forked [untilhamza/ffmpeg.wasm](https://github.com/untilhamza/ffmpeg.wasm) from [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
