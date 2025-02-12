@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/edgestore](https://github.com/untilhamza/edgestore) from [edgestorejs/edgestore](https://github.com/edgestorejs/edgestore)<br>
-2. ⭐ Starred [edgestorejs/edgestore](https://github.com/edgestorejs/edgestore)<br>
-3. ⭐ Starred [langchain-ai/long_term_memory_course](https://github.com/langchain-ai/long_term_memory_course)<br>
-4. 🔱 Forked [untilhamza/deep-research](https://github.com/untilhamza/deep-research) from [dzhng/deep-research](https://github.com/dzhng/deep-research)<br>
-5. ⭐ Starred [dzhng/deep-research](https://github.com/dzhng/deep-research)<br>
+1. ⭐ Starred [rupomsoft/Next-File](https://github.com/rupomsoft/Next-File)<br>
+2. 🔱 Forked [untilhamza/edgestore](https://github.com/untilhamza/edgestore) from [edgestorejs/edgestore](https://github.com/edgestorejs/edgestore)<br>
+3. ⭐ Starred [edgestorejs/edgestore](https://github.com/edgestorejs/edgestore)<br>
+4. ⭐ Starred [langchain-ai/long_term_memory_course](https://github.com/langchain-ai/long_term_memory_course)<br>
+5. 🔱 Forked [untilhamza/deep-research](https://github.com/untilhamza/deep-research) from [dzhng/deep-research](https://github.com/dzhng/deep-research)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
