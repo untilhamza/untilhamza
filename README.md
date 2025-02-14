@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/obsidian-clipper](https://github.com/untilhamza/obsidian-clipper) from [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper)<br>
-2. ⭐ Starred [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper)<br>
-3. ⭐ Starred [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)<br>
-4. ⭐ Starred [rupomsoft/Next-File](https://github.com/rupomsoft/Next-File)<br>
-5. 🔱 Forked [untilhamza/edgestore](https://github.com/untilhamza/edgestore) from [edgestorejs/edgestore](https://github.com/edgestorejs/edgestore)<br>
+1. ⭐ Starred [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer)<br>
+2. 🔱 Forked [untilhamza/obsidian-clipper](https://github.com/untilhamza/obsidian-clipper) from [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper)<br>
+3. ⭐ Starred [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper)<br>
+4. ⭐ Starred [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)<br>
+5. ⭐ Starred [rupomsoft/Next-File](https://github.com/rupomsoft/Next-File)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
