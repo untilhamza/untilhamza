@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [growthbook/growthbook](https://github.com/growthbook/growthbook)<br>
-2. ⭐ Starred [xRyul/obsidian-image-converter](https://github.com/xRyul/obsidian-image-converter)<br>
-3. ⭐ Starred [musug/obsidian-paste-png-to-jpeg](https://github.com/musug/obsidian-paste-png-to-jpeg)<br>
-4. ⭐ Starred [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer)<br>
-5. 🔱 Forked [untilhamza/obsidian-clipper](https://github.com/untilhamza/obsidian-clipper) from [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper)<br>
+1. 🔱 Forked [untilhamza/web-clipper-for-anywhere](https://github.com/untilhamza/web-clipper-for-anywhere) from [webclipper/web-clipper](https://github.com/webclipper/web-clipper)<br>
+2. ⭐ Starred [webclipper/web-clipper](https://github.com/webclipper/web-clipper)<br>
+3. ⭐ Starred [growthbook/growthbook](https://github.com/growthbook/growthbook)<br>
+4. ⭐ Starred [xRyul/obsidian-image-converter](https://github.com/xRyul/obsidian-image-converter)<br>
+5. ⭐ Starred [musug/obsidian-paste-png-to-jpeg](https://github.com/musug/obsidian-paste-png-to-jpeg)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
