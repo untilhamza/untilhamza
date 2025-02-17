@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/web-clipper-for-anywhere](https://github.com/untilhamza/web-clipper-for-anywhere) from [webclipper/web-clipper](https://github.com/webclipper/web-clipper)<br>
-2. ⭐ Starred [webclipper/web-clipper](https://github.com/webclipper/web-clipper)<br>
-3. ⭐ Starred [growthbook/growthbook](https://github.com/growthbook/growthbook)<br>
-4. ⭐ Starred [xRyul/obsidian-image-converter](https://github.com/xRyul/obsidian-image-converter)<br>
-5. ⭐ Starred [musug/obsidian-paste-png-to-jpeg](https://github.com/musug/obsidian-paste-png-to-jpeg)<br>
+1. 🔱 Forked [untilhamza/text-editor-with-local-file-support](https://github.com/untilhamza/text-editor-with-local-file-support) from [GoogleChromeLabs/text-editor](https://github.com/GoogleChromeLabs/text-editor)<br>
+2. ⭐ Starred [GoogleChromeLabs/text-editor](https://github.com/GoogleChromeLabs/text-editor)<br>
+3. 🔱 Forked [untilhamza/web-clipper-for-anywhere](https://github.com/untilhamza/web-clipper-for-anywhere) from [webclipper/web-clipper](https://github.com/webclipper/web-clipper)<br>
+4. ⭐ Starred [webclipper/web-clipper](https://github.com/webclipper/web-clipper)<br>
+5. ⭐ Starred [growthbook/growthbook](https://github.com/growthbook/growthbook)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
