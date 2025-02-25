@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [docmost/docmost](https://github.com/docmost/docmost)<br>
-2. ⭐ Starred [zamalali/InboxHero](https://github.com/zamalali/InboxHero)<br>
-3. ⬆️ Pushed 2 commit(s) to [untilhamza/videospeed](https://github.com/untilhamza/videospeed)<br>
-4. 🔱 Forked [untilhamza/text-editor-with-local-file-support](https://github.com/untilhamza/text-editor-with-local-file-support) from [GoogleChromeLabs/text-editor](https://github.com/GoogleChromeLabs/text-editor)<br>
-5. ⭐ Starred [GoogleChromeLabs/text-editor](https://github.com/GoogleChromeLabs/text-editor)<br>
+1. 🔱 Forked [untilhamza/nextfaster](https://github.com/untilhamza/nextfaster) from [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster)<br>
+2. ⭐ Starred [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster)<br>
+3. ⭐ Starred [docmost/docmost](https://github.com/docmost/docmost)<br>
+4. ⭐ Starred [zamalali/InboxHero](https://github.com/zamalali/InboxHero)<br>
+5. ⬆️ Pushed 2 commit(s) to [untilhamza/videospeed](https://github.com/untilhamza/videospeed)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
