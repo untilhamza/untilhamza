@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/nextfaster](https://github.com/untilhamza/nextfaster) from [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster)<br>
-2. ⭐ Starred [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster)<br>
-3. ⭐ Starred [docmost/docmost](https://github.com/docmost/docmost)<br>
-4. ⭐ Starred [zamalali/InboxHero](https://github.com/zamalali/InboxHero)<br>
-5. ⬆️ Pushed 2 commit(s) to [untilhamza/videospeed](https://github.com/untilhamza/videospeed)<br>
+1. ⭐ Starred [Yuan-ManX/audio-development-tools](https://github.com/Yuan-ManX/audio-development-tools)<br>
+2. 🔱 Forked [untilhamza/wavesurfer.js](https://github.com/untilhamza/wavesurfer.js) from [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js)<br>
+3. 🔱 Forked [untilhamza/nextfaster](https://github.com/untilhamza/nextfaster) from [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster)<br>
+4. ⭐ Starred [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster)<br>
+5. ⭐ Starred [docmost/docmost](https://github.com/docmost/docmost)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
