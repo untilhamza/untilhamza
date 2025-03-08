@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [leerob/site](https://github.com/leerob/site)<br>
-2. ⭐ Starred [pkalogiros/LZFjs](https://github.com/pkalogiros/LZFjs)<br>
-3. ⭐ Starred [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)<br>
-4. ⭐ Starred [ahilss/wavacity](https://github.com/ahilss/wavacity)<br>
-5. ⭐ Starred [Yuan-ManX/audio-development-tools](https://github.com/Yuan-ManX/audio-development-tools)<br>
+1. ⭐ Starred [detain/svg-logos](https://github.com/detain/svg-logos)<br>
+2. ⭐ Starred [leerob/site](https://github.com/leerob/site)<br>
+3. ⭐ Starred [pkalogiros/LZFjs](https://github.com/pkalogiros/LZFjs)<br>
+4. ⭐ Starred [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)<br>
+5. ⭐ Starred [ahilss/wavacity](https://github.com/ahilss/wavacity)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
