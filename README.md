@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cyberofficial/Synthalingua](https://github.com/cyberofficial/Synthalingua)<br>
-2. ⭐ Starred [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser)<br>
-3. ⭐ Starred [RobotecAI/rai](https://github.com/RobotecAI/rai)<br>
-4. ⭐ Starred [detain/svg-logos](https://github.com/detain/svg-logos)<br>
-5. ⭐ Starred [leerob/site](https://github.com/leerob/site)<br>
+1. 💪 Opened PR [#3896](https://github.com/langchain-ai/langgraph/pull/3896) in [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)<br>
+2. ⬆️ Pushed 1 commit(s) to [untilhamza/langgraph](https://github.com/untilhamza/langgraph)<br>
+3. 🔱 Forked [untilhamza/langgraph](https://github.com/untilhamza/langgraph) from [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)<br>
+4. ⭐ Starred [cyberofficial/Synthalingua](https://github.com/cyberofficial/Synthalingua)<br>
+5. ⭐ Starred [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
