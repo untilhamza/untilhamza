@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [untilhamza/nextjs-notion-like-ai-editor](https://github.com/untilhamza/nextjs-notion-like-ai-editor)<br>
-2. ⬆️ Pushed 4 commit(s) to [untilhamza/Next-notion-lexical-editor](https://github.com/untilhamza/Next-notion-lexical-editor)<br>
-3. ⭐ Starred [canopyai/Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS)<br>
-4. ⬆️ Pushed 3 commit(s) to [untilhamza/langgraph](https://github.com/untilhamza/langgraph)<br>
-5. 💪 Opened PR [#3902](https://github.com/langchain-ai/langgraph/pull/3902) in [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)<br>
+1. ⭐ Starred [GoogleChrome/web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension)<br>
+2. 📔 Created new repository [untilhamza/nextjs-notion-like-ai-editor](https://github.com/untilhamza/nextjs-notion-like-ai-editor)<br>
+3. ⬆️ Pushed 4 commit(s) to [untilhamza/Next-notion-lexical-editor](https://github.com/untilhamza/Next-notion-lexical-editor)<br>
+4. ⭐ Starred [canopyai/Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS)<br>
+5. ⬆️ Pushed 3 commit(s) to [untilhamza/langgraph](https://github.com/untilhamza/langgraph)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
