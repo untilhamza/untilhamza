@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server)<br>
-2. ⭐ Starred [GoogleChrome/web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension)<br>
-3. 📔 Created new repository [untilhamza/nextjs-notion-like-ai-editor](https://github.com/untilhamza/nextjs-notion-like-ai-editor)<br>
-4. ⬆️ Pushed 4 commit(s) to [untilhamza/Next-notion-lexical-editor](https://github.com/untilhamza/Next-notion-lexical-editor)<br>
-5. ⭐ Starred [canopyai/Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS)<br>
+1. ⭐ Starred [coleam00/Archon](https://github.com/coleam00/Archon)<br>
+2. ⭐ Starred [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server)<br>
+3. ⭐ Starred [GoogleChrome/web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension)<br>
+4. 📔 Created new repository [untilhamza/nextjs-notion-like-ai-editor](https://github.com/untilhamza/nextjs-notion-like-ai-editor)<br>
+5. ⬆️ Pushed 4 commit(s) to [untilhamza/Next-notion-lexical-editor](https://github.com/untilhamza/Next-notion-lexical-editor)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
