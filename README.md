@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [potpie-ai/potpie](https://github.com/potpie-ai/potpie)<br>
-2. ⭐ Starred [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)<br>
-3. ⭐ Starred [langchain-ai/langgraph-supervisor-py](https://github.com/langchain-ai/langgraph-supervisor-py)<br>
-4. ⭐ Starred [coleam00/Archon](https://github.com/coleam00/Archon)<br>
-5. ⭐ Starred [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server)<br>
+1. ⭐ Starred [ahmedelq/NattyNote](https://github.com/ahmedelq/NattyNote)<br>
+2. ⭐ Starred [potpie-ai/potpie](https://github.com/potpie-ai/potpie)<br>
+3. ⭐ Starred [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)<br>
+4. ⭐ Starred [langchain-ai/langgraph-supervisor-py](https://github.com/langchain-ai/langgraph-supervisor-py)<br>
+5. ⭐ Starred [coleam00/Archon](https://github.com/coleam00/Archon)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
