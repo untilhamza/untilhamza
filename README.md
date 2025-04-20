@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/NattyNote](https://github.com/untilhamza/NattyNote) from [ahmedelq/NattyNote](https://github.com/ahmedelq/NattyNote)<br>
-2. ⭐ Starred [simstudioai/sim](https://github.com/simstudioai/sim)<br>
-3. ⭐ Starred [ahmedelq/NattyNote](https://github.com/ahmedelq/NattyNote)<br>
-4. ⭐ Starred [potpie-ai/potpie](https://github.com/potpie-ai/potpie)<br>
-5. ⭐ Starred [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)<br>
+1. ⭐ Starred [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI)<br>
+2. 🔱 Forked [untilhamza/NattyNote](https://github.com/untilhamza/NattyNote) from [ahmedelq/NattyNote](https://github.com/ahmedelq/NattyNote)<br>
+3. ⭐ Starred [simstudioai/sim](https://github.com/simstudioai/sim)<br>
+4. ⭐ Starred [ahmedelq/NattyNote](https://github.com/ahmedelq/NattyNote)<br>
+5. ⭐ Starred [potpie-ai/potpie](https://github.com/potpie-ai/potpie)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
