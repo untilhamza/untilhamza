@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [agno-agi/agno](https://github.com/agno-agi/agno)<br>
-2. ⭐ Starred [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI)<br>
-3. 🔱 Forked [untilhamza/NattyNote](https://github.com/untilhamza/NattyNote) from [ahmedelq/NattyNote](https://github.com/ahmedelq/NattyNote)<br>
-4. ⭐ Starred [simstudioai/sim](https://github.com/simstudioai/sim)<br>
-5. ⭐ Starred [ahmedelq/NattyNote](https://github.com/ahmedelq/NattyNote)<br>
+1. 🔱 Forked [untilhamza/filepizza](https://github.com/untilhamza/filepizza) from [kern/filepizza](https://github.com/kern/filepizza)<br>
+2. ⭐ Starred [kern/filepizza](https://github.com/kern/filepizza)<br>
+3. ⭐ Starred [agno-agi/agno](https://github.com/agno-agi/agno)<br>
+4. ⭐ Starred [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI)<br>
+5. 🔱 Forked [untilhamza/NattyNote](https://github.com/untilhamza/NattyNote) from [ahmedelq/NattyNote](https://github.com/ahmedelq/NattyNote)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
