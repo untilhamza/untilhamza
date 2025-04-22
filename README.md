@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Ornithopter-pilot/interview-coder-withoupaywall-opensource](https://github.com/Ornithopter-pilot/interview-coder-withoupaywall-opensource)<br>
-2. 🔱 Forked [untilhamza/filepizza](https://github.com/untilhamza/filepizza) from [kern/filepizza](https://github.com/kern/filepizza)<br>
-3. ⭐ Starred [kern/filepizza](https://github.com/kern/filepizza)<br>
-4. ⭐ Starred [agno-agi/agno](https://github.com/agno-agi/agno)<br>
-5. ⭐ Starred [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI)<br>
+1. ⭐ Starred [chatboxai/chatbox](https://github.com/chatboxai/chatbox)<br>
+2. ⭐ Starred [Ornithopter-pilot/interview-coder-withoupaywall-opensource](https://github.com/Ornithopter-pilot/interview-coder-withoupaywall-opensource)<br>
+3. 🔱 Forked [untilhamza/filepizza](https://github.com/untilhamza/filepizza) from [kern/filepizza](https://github.com/kern/filepizza)<br>
+4. ⭐ Starred [kern/filepizza](https://github.com/kern/filepizza)<br>
+5. ⭐ Starred [agno-agi/agno](https://github.com/agno-agi/agno)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
