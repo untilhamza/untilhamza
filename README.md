@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#2937](https://github.com/agno-agi/agno/issues/2937) in [agno-agi/agno](https://github.com/agno-agi/agno)<br>
-2. ⭐ Starred [nari-labs/dia](https://github.com/nari-labs/dia)<br>
-3. ⭐ Starred [chatboxai/chatbox](https://github.com/chatboxai/chatbox)<br>
-4. ⭐ Starred [Ornithopter-pilot/interview-coder-withoupaywall-opensource](https://github.com/Ornithopter-pilot/interview-coder-withoupaywall-opensource)<br>
-5. 🔱 Forked [untilhamza/filepizza](https://github.com/untilhamza/filepizza) from [kern/filepizza](https://github.com/kern/filepizza)<br>
+1. ⭐ Starred [zaidmukaddam/scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat)<br>
+2. ❗️ Opened issue [#2937](https://github.com/agno-agi/agno/issues/2937) in [agno-agi/agno](https://github.com/agno-agi/agno)<br>
+3. ⭐ Starred [nari-labs/dia](https://github.com/nari-labs/dia)<br>
+4. ⭐ Starred [chatboxai/chatbox](https://github.com/chatboxai/chatbox)<br>
+5. ⭐ Starred [Ornithopter-pilot/interview-coder-withoupaywall-opensource](https://github.com/Ornithopter-pilot/interview-coder-withoupaywall-opensource)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
