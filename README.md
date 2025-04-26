@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wxt-dev/wxt](https://github.com/wxt-dev/wxt)<br>
-2. ⭐ Starred [zaidmukaddam/scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat)<br>
-3. ❗️ Opened issue [#2937](https://github.com/agno-agi/agno/issues/2937) in [agno-agi/agno](https://github.com/agno-agi/agno)<br>
-4. ⭐ Starred [nari-labs/dia](https://github.com/nari-labs/dia)<br>
-5. ⭐ Starred [chatboxai/chatbox](https://github.com/chatboxai/chatbox)<br>
+1. 💬 Commented on [#2980](https://github.com/agno-agi/agno/pull/2980#issuecomment-2832050541) in [agno-agi/agno](https://github.com/agno-agi/agno)<br>
+2. 💬 Commented on [#2937](https://github.com/agno-agi/agno/issues/2937#issuecomment-2832043781) in [agno-agi/agno](https://github.com/agno-agi/agno)<br>
+3. ⭐ Starred [wxt-dev/wxt](https://github.com/wxt-dev/wxt)<br>
+4. ⭐ Starred [zaidmukaddam/scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat)<br>
+5. ❗️ Opened issue [#2937](https://github.com/agno-agi/agno/issues/2937) in [agno-agi/agno](https://github.com/agno-agi/agno)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
