@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py)<br>
-2. ⭐ Starred [ibttf/interview-coder](https://github.com/ibttf/interview-coder)<br>
-3. 💬 Commented on [#2980](https://github.com/agno-agi/agno/pull/2980#issuecomment-2832050541) in [agno-agi/agno](https://github.com/agno-agi/agno)<br>
-4. 💬 Commented on [#2937](https://github.com/agno-agi/agno/issues/2937#issuecomment-2832043781) in [agno-agi/agno](https://github.com/agno-agi/agno)<br>
-5. ⭐ Starred [wxt-dev/wxt](https://github.com/wxt-dev/wxt)<br>
+1. ⭐ Starred [rzane/docker2exe](https://github.com/rzane/docker2exe)<br>
+2. ⭐ Starred [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py)<br>
+3. ⭐ Starred [ibttf/interview-coder](https://github.com/ibttf/interview-coder)<br>
+4. 💬 Commented on [#2980](https://github.com/agno-agi/agno/pull/2980#issuecomment-2832050541) in [agno-agi/agno](https://github.com/agno-agi/agno)<br>
+5. 💬 Commented on [#2937](https://github.com/agno-agi/agno/issues/2937#issuecomment-2832043781) in [agno-agi/agno](https://github.com/agno-agi/agno)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
