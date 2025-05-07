@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)<br>
-2. ⭐ Starred [rzane/docker2exe](https://github.com/rzane/docker2exe)<br>
-3. ⭐ Starred [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py)<br>
-4. ⭐ Starred [ibttf/interview-coder](https://github.com/ibttf/interview-coder)<br>
-5. 💬 Commented on [#2980](https://github.com/agno-agi/agno/pull/2980#issuecomment-2832050541) in [agno-agi/agno](https://github.com/agno-agi/agno)<br>
+1. ⭐ Starred [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
+2. ⭐ Starred [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)<br>
+3. ⭐ Starred [rzane/docker2exe](https://github.com/rzane/docker2exe)<br>
+4. ⭐ Starred [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py)<br>
+5. ⭐ Starred [ibttf/interview-coder](https://github.com/ibttf/interview-coder)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
