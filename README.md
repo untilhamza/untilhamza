@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/vexa](https://github.com/untilhamza/vexa) from [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
-2. ⭐ Starred [Vexa-ai/vexa_example_client](https://github.com/Vexa-ai/vexa_example_client)<br>
-3. ⭐ Starred [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
-4. ⭐ Starred [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)<br>
-5. ⭐ Starred [rzane/docker2exe](https://github.com/rzane/docker2exe)<br>
+1. 🔱 Forked [untilhamza/vexa_example_client](https://github.com/untilhamza/vexa_example_client) from [Vexa-ai/vexa_example_client](https://github.com/Vexa-ai/vexa_example_client)<br>
+2. 🔱 Forked [untilhamza/vexa](https://github.com/untilhamza/vexa) from [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
+3. ⭐ Starred [Vexa-ai/vexa_example_client](https://github.com/Vexa-ai/vexa_example_client)<br>
+4. ⭐ Starred [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
+5. ⭐ Starred [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
