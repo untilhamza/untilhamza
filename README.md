@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [markmap/markmap](https://github.com/markmap/markmap)<br>
-2. 🔱 Forked [untilhamza/vexa_example_client](https://github.com/untilhamza/vexa_example_client) from [Vexa-ai/vexa_example_client](https://github.com/Vexa-ai/vexa_example_client)<br>
-3. 🔱 Forked [untilhamza/vexa](https://github.com/untilhamza/vexa) from [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
-4. ⭐ Starred [Vexa-ai/vexa_example_client](https://github.com/Vexa-ai/vexa_example_client)<br>
-5. ⭐ Starred [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
+1. ⭐ Starred [business-science/awesome-generative-ai-data-scientist](https://github.com/business-science/awesome-generative-ai-data-scientist)<br>
+2. ⭐ Starred [markmap/markmap](https://github.com/markmap/markmap)<br>
+3. 🔱 Forked [untilhamza/vexa_example_client](https://github.com/untilhamza/vexa_example_client) from [Vexa-ai/vexa_example_client](https://github.com/Vexa-ai/vexa_example_client)<br>
+4. 🔱 Forked [untilhamza/vexa](https://github.com/untilhamza/vexa) from [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
+5. ⭐ Starred [Vexa-ai/vexa_example_client](https://github.com/Vexa-ai/vexa_example_client)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
