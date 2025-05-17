@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Vexa-ai/vexa-chrome-extension](https://github.com/Vexa-ai/vexa-chrome-extension)<br>
-2. ⭐ Starred [juanmc2005/diart](https://github.com/juanmc2005/diart)<br>
-3. ⭐ Starred [meetingbot/meetingbot](https://github.com/meetingbot/meetingbot)<br>
-4. ⬆️ Pushed 2 commit(s) to [untilhamza/langgraph](https://github.com/untilhamza/langgraph)<br>
-5. 💪 Opened PR [#4650](https://github.com/langchain-ai/langgraph/pull/4650) in [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)<br>
+1. ⭐ Starred [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper)<br>
+2. 💪 Opened PR [#13](https://github.com/Vexa-ai/vexa/pull/13) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
+3. ⭐ Starred [Vexa-ai/vexa-chrome-extension](https://github.com/Vexa-ai/vexa-chrome-extension)<br>
+4. ⭐ Starred [juanmc2005/diart](https://github.com/juanmc2005/diart)<br>
+5. ⭐ Starred [meetingbot/meetingbot](https://github.com/meetingbot/meetingbot)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
