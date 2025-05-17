@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [meetingbot/meetingbot](https://github.com/meetingbot/meetingbot)<br>
-2. ⬆️ Pushed 2 commit(s) to [untilhamza/langgraph](https://github.com/untilhamza/langgraph)<br>
-3. 💪 Opened PR [#4650](https://github.com/langchain-ai/langgraph/pull/4650) in [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)<br>
-4. 🔱 Forked [untilhamza/pearai-submodule](https://github.com/untilhamza/pearai-submodule) from [trypear/pearai-submodule](https://github.com/trypear/pearai-submodule)<br>
-5. ⭐ Starred [business-science/awesome-generative-ai-data-scientist](https://github.com/business-science/awesome-generative-ai-data-scientist)<br>
+1. ⭐ Starred [juanmc2005/diart](https://github.com/juanmc2005/diart)<br>
+2. ⭐ Starred [meetingbot/meetingbot](https://github.com/meetingbot/meetingbot)<br>
+3. ⬆️ Pushed 2 commit(s) to [untilhamza/langgraph](https://github.com/untilhamza/langgraph)<br>
+4. 💪 Opened PR [#4650](https://github.com/langchain-ai/langgraph/pull/4650) in [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)<br>
+5. 🔱 Forked [untilhamza/pearai-submodule](https://github.com/untilhamza/pearai-submodule) from [trypear/pearai-submodule](https://github.com/trypear/pearai-submodule)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
