@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas)<br>
-2. 💪 Opened PR [#14](https://github.com/Vexa-ai/vexa/pull/14) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
-3. ⭐ Starred [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper)<br>
-4. 💪 Opened PR [#13](https://github.com/Vexa-ai/vexa/pull/13) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
-5. ⭐ Starred [Vexa-ai/vexa-chrome-extension](https://github.com/Vexa-ai/vexa-chrome-extension)<br>
+1. ⭐ Starred [microvoid/notion-ai-anywhere](https://github.com/microvoid/notion-ai-anywhere)<br>
+2. ⭐ Starred [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas)<br>
+3. 💪 Opened PR [#14](https://github.com/Vexa-ai/vexa/pull/14) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
+4. ⭐ Starred [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper)<br>
+5. 💪 Opened PR [#13](https://github.com/Vexa-ai/vexa/pull/13) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
