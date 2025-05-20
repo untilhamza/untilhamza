@@ -85,9 +85,9 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 8 commit(s) to [untilhamza/vexa](https://github.com/untilhamza/vexa)<br>
 2. ⬆️ Pushed 8 commit(s) to [untilhamza/vexa](https://github.com/untilhamza/vexa)<br>
-3. ⬆️ Pushed 1 commit(s) to [untilhamza/vexa](https://github.com/untilhamza/vexa)<br>
-4. ⬆️ Pushed 5 commit(s) to [untilhamza/vexa](https://github.com/untilhamza/vexa)<br>
-5. ⬆️ Pushed 1 commit(s) to [untilhamza/vexa](https://github.com/untilhamza/vexa)<br>
+3. ⬆️ Pushed 8 commit(s) to [untilhamza/vexa](https://github.com/untilhamza/vexa)<br>
+4. ⬆️ Pushed 1 commit(s) to [untilhamza/vexa](https://github.com/untilhamza/vexa)<br>
+5. ⬆️ Pushed 5 commit(s) to [untilhamza/vexa](https://github.com/untilhamza/vexa)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
