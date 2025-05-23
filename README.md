@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [therizhao/side-notion](https://github.com/therizhao/side-notion)<br>
-2. ⭐ Starred [vincent-herlemont/save-to-notion](https://github.com/vincent-herlemont/save-to-notion)<br>
-3. ⭐ Starred [Vexa-ai/vexa-transcription-service](https://github.com/Vexa-ai/vexa-transcription-service)<br>
-4. 💪 Opened PR [#20](https://github.com/Vexa-ai/vexa/pull/20) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
-5. ⭐ Starred [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)<br>
+1. 💪 Opened PR [#28](https://github.com/Vexa-ai/vexa/pull/28) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
+2. ⭐ Starred [therizhao/side-notion](https://github.com/therizhao/side-notion)<br>
+3. ⭐ Starred [vincent-herlemont/save-to-notion](https://github.com/vincent-herlemont/save-to-notion)<br>
+4. ⭐ Starred [Vexa-ai/vexa-transcription-service](https://github.com/Vexa-ai/vexa-transcription-service)<br>
+5. 💪 Opened PR [#20](https://github.com/Vexa-ai/vexa/pull/20) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
