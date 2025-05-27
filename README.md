@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)<br>
-2. ⬆️ Pushed 1 commit(s) to [untilhamza/vexa](https://github.com/untilhamza/vexa)<br>
-3. 💪 Opened PR [#28](https://github.com/Vexa-ai/vexa/pull/28) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
-4. ⭐ Starred [therizhao/side-notion](https://github.com/therizhao/side-notion)<br>
-5. ⭐ Starred [vincent-herlemont/save-to-notion](https://github.com/vincent-herlemont/save-to-notion)<br>
+1. ⬆️ Pushed 55 commit(s) to [untilhamza/vexa](https://github.com/untilhamza/vexa)<br>
+2. ⭐ Starred [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)<br>
+3. ⬆️ Pushed 1 commit(s) to [untilhamza/vexa](https://github.com/untilhamza/vexa)<br>
+4. 💪 Opened PR [#28](https://github.com/Vexa-ai/vexa/pull/28) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
+5. ⭐ Starred [therizhao/side-notion](https://github.com/therizhao/side-notion)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
