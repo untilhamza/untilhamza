@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#31](https://github.com/Vexa-ai/vexa/pull/31) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
-2. ⬆️ Pushed 29 commit(s) to [untilhamza/vexa](https://github.com/untilhamza/vexa)<br>
-3. ⬆️ Pushed 55 commit(s) to [untilhamza/vexa](https://github.com/untilhamza/vexa)<br>
-4. ⭐ Starred [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)<br>
-5. ⬆️ Pushed 1 commit(s) to [untilhamza/vexa](https://github.com/untilhamza/vexa)<br>
+1. 💬 Commented on [#2937](https://github.com/agno-agi/agno/issues/2937#issuecomment-2914539753) in [agno-agi/agno](https://github.com/agno-agi/agno)<br>
+2. 💪 Opened PR [#31](https://github.com/Vexa-ai/vexa/pull/31) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
+3. ⬆️ Pushed 29 commit(s) to [untilhamza/vexa](https://github.com/untilhamza/vexa)<br>
+4. ⬆️ Pushed 55 commit(s) to [untilhamza/vexa](https://github.com/untilhamza/vexa)<br>
+5. ⭐ Starred [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
