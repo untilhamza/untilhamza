@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#32](https://github.com/Vexa-ai/vexa/pull/32) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
-2. ⭐ Starred [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie)<br>
-3. 💬 Commented on [#2937](https://github.com/agno-agi/agno/issues/2937#issuecomment-2914539753) in [agno-agi/agno](https://github.com/agno-agi/agno)<br>
-4. 💪 Opened PR [#31](https://github.com/Vexa-ai/vexa/pull/31) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
-5. ⬆️ Pushed 29 commit(s) to [untilhamza/vexa](https://github.com/untilhamza/vexa)<br>
+1. ⭐ Starred [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)<br>
+2. 💪 Opened PR [#32](https://github.com/Vexa-ai/vexa/pull/32) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
+3. ⭐ Starred [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie)<br>
+4. 💬 Commented on [#2937](https://github.com/agno-agi/agno/issues/2937#issuecomment-2914539753) in [agno-agi/agno](https://github.com/agno-agi/agno)<br>
+5. 💪 Opened PR [#31](https://github.com/Vexa-ai/vexa/pull/31) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
