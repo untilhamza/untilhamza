@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [untilhamza/vexa](https://github.com/untilhamza/vexa)<br>
-2. 💪 Opened PR [#37](https://github.com/Vexa-ai/vexa/pull/37) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
-3. ⬆️ Pushed 14 commit(s) to [untilhamza/vexa](https://github.com/untilhamza/vexa)<br>
-4. ⭐ Starred [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)<br>
-5. 💪 Opened PR [#32](https://github.com/Vexa-ai/vexa/pull/32) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
+1. ⭐ Starred [attendee-labs/attendee](https://github.com/attendee-labs/attendee)<br>
+2. ⬆️ Pushed 1 commit(s) to [untilhamza/vexa](https://github.com/untilhamza/vexa)<br>
+3. 💪 Opened PR [#37](https://github.com/Vexa-ai/vexa/pull/37) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
+4. ⬆️ Pushed 14 commit(s) to [untilhamza/vexa](https://github.com/untilhamza/vexa)<br>
+5. ⭐ Starred [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
