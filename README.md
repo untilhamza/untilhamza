@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#28](https://github.com/Vexa-ai/vexa/pull/28) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
-2. ❌ Closed PR [#27](https://github.com/Vexa-ai/vexa/pull/27) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
-3. ❌ Closed PR [#31](https://github.com/Vexa-ai/vexa/pull/31) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
-4. ❌ Closed PR [#32](https://github.com/Vexa-ai/vexa/pull/32) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
-5. ⭐ Starred [attendee-labs/attendee](https://github.com/attendee-labs/attendee)<br>
+1. ⭐ Starred [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)<br>
+2. ❌ Closed PR [#28](https://github.com/Vexa-ai/vexa/pull/28) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
+3. ❌ Closed PR [#27](https://github.com/Vexa-ai/vexa/pull/27) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
+4. ❌ Closed PR [#31](https://github.com/Vexa-ai/vexa/pull/31) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
+5. ❌ Closed PR [#32](https://github.com/Vexa-ai/vexa/pull/32) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
