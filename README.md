@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dsymbol/yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui)<br>
-2. ⭐ Starred [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)<br>
-3. ❌ Closed PR [#28](https://github.com/Vexa-ai/vexa/pull/28) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
-4. ❌ Closed PR [#27](https://github.com/Vexa-ai/vexa/pull/27) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
-5. ❌ Closed PR [#31](https://github.com/Vexa-ai/vexa/pull/31) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
+1. ⭐ Starred [fastrepl/homebrew-hyprnote](https://github.com/fastrepl/homebrew-hyprnote)<br>
+2. ⭐ Starred [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)<br>
+3. ⭐ Starred [dsymbol/yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui)<br>
+4. ⭐ Starred [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)<br>
+5. ❌ Closed PR [#28](https://github.com/Vexa-ai/vexa/pull/28) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
