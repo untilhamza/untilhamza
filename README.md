@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fastrepl/homebrew-hyprnote](https://github.com/fastrepl/homebrew-hyprnote)<br>
-2. ⭐ Starred [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)<br>
-3. ⭐ Starred [dsymbol/yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui)<br>
-4. ⭐ Starred [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)<br>
-5. ❌ Closed PR [#28](https://github.com/Vexa-ai/vexa/pull/28) in [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)<br>
+1. 🔱 Forked [untilhamza/voice-pro](https://github.com/untilhamza/voice-pro) from [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro)<br>
+2. ⭐ Starred [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro)<br>
+3. ⭐ Starred [fastrepl/homebrew-hyprnote](https://github.com/fastrepl/homebrew-hyprnote)<br>
+4. ⭐ Starred [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)<br>
+5. ⭐ Starred [dsymbol/yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
