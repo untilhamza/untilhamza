@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/voice-pro](https://github.com/untilhamza/voice-pro) from [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro)<br>
-2. ⭐ Starred [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro)<br>
-3. ⭐ Starred [fastrepl/homebrew-hyprnote](https://github.com/fastrepl/homebrew-hyprnote)<br>
-4. ⭐ Starred [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)<br>
-5. ⭐ Starred [dsymbol/yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui)<br>
+1. ⭐ Starred [chatdoc-com/OCRFlux](https://github.com/chatdoc-com/OCRFlux)<br>
+2. 🔱 Forked [untilhamza/voice-pro](https://github.com/untilhamza/voice-pro) from [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro)<br>
+3. ⭐ Starred [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro)<br>
+4. ⭐ Starred [fastrepl/homebrew-hyprnote](https://github.com/fastrepl/homebrew-hyprnote)<br>
+5. ⭐ Starred [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
