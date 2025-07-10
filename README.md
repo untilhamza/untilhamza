@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/MoneyPrinterV2](https://github.com/untilhamza/MoneyPrinterV2) from [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)<br>
-2. ⭐ Starred [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)<br>
-3. ⭐ Starred [DraconDev/SamAI](https://github.com/DraconDev/SamAI)<br>
-4. ⭐ Starred [chatdoc-com/OCRFlux](https://github.com/chatdoc-com/OCRFlux)<br>
-5. 🔱 Forked [untilhamza/voice-pro](https://github.com/untilhamza/voice-pro) from [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro)<br>
+1. ⭐ Starred [kaytat/exiftool-scripts-for-takeout](https://github.com/kaytat/exiftool-scripts-for-takeout)<br>
+2. 🔱 Forked [untilhamza/MoneyPrinterV2](https://github.com/untilhamza/MoneyPrinterV2) from [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)<br>
+3. ⭐ Starred [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)<br>
+4. ⭐ Starred [DraconDev/SamAI](https://github.com/DraconDev/SamAI)<br>
+5. ⭐ Starred [chatdoc-com/OCRFlux](https://github.com/chatdoc-com/OCRFlux)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
