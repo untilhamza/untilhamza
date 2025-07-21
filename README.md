@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)<br>
-2. ⭐ Starred [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)<br>
-3. ⭐ Starred [kaytat/exiftool-scripts-for-takeout](https://github.com/kaytat/exiftool-scripts-for-takeout)<br>
-4. 🔱 Forked [untilhamza/MoneyPrinterV2](https://github.com/untilhamza/MoneyPrinterV2) from [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)<br>
-5. ⭐ Starred [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)<br>
+1. ⭐ Starred [rajdesai17/Echo-HackJMI2025](https://github.com/rajdesai17/Echo-HackJMI2025)<br>
+2. ⭐ Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)<br>
+3. ⭐ Starred [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)<br>
+4. ⭐ Starred [kaytat/exiftool-scripts-for-takeout](https://github.com/kaytat/exiftool-scripts-for-takeout)<br>
+5. 🔱 Forked [untilhamza/MoneyPrinterV2](https://github.com/untilhamza/MoneyPrinterV2) from [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
