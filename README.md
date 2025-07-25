@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [oraios/serena](https://github.com/oraios/serena)<br>
-2. ⭐ Starred [rajdesai17/Echo-HackJMI2025](https://github.com/rajdesai17/Echo-HackJMI2025)<br>
-3. ⭐ Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)<br>
-4. ⭐ Starred [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)<br>
-5. ⭐ Starred [kaytat/exiftool-scripts-for-takeout](https://github.com/kaytat/exiftool-scripts-for-takeout)<br>
+1. ⭐ Starred [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)<br>
+2. ⭐ Starred [oraios/serena](https://github.com/oraios/serena)<br>
+3. ⭐ Starred [rajdesai17/Echo-HackJMI2025](https://github.com/rajdesai17/Echo-HackJMI2025)<br>
+4. ⭐ Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)<br>
+5. ⭐ Starred [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
