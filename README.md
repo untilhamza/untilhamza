@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
-2. ⭐ Starred [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)<br>
-3. ⭐ Starred [oraios/serena](https://github.com/oraios/serena)<br>
-4. ⭐ Starred [rajdesai17/Echo-HackJMI2025](https://github.com/rajdesai17/Echo-HackJMI2025)<br>
-5. ⭐ Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)<br>
+1. 🔱 Forked [untilhamza/awesome-llm-apps](https://github.com/untilhamza/awesome-llm-apps) from [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)<br>
+2. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
+3. ⭐ Starred [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)<br>
+4. ⭐ Starred [oraios/serena](https://github.com/oraios/serena)<br>
+5. ⭐ Starred [rajdesai17/Echo-HackJMI2025](https://github.com/rajdesai17/Echo-HackJMI2025)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
