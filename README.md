@@ -83,11 +83,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [refinedev/refine](https://github.com/refinedev/refine)<br>
-2. 🔱 Forked [untilhamza/awesome-llm-apps](https://github.com/untilhamza/awesome-llm-apps) from [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)<br>
-3. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
-4. ⭐ Starred [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)<br>
-5. ⭐ Starred [oraios/serena](https://github.com/oraios/serena)<br>
+1. ⬆️ Pushed 5 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+2. 🎉 Merged PR [#1](https://github.com/untilhamza/untilhamza.github.io/pull/1) in [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+5. 💪 Opened PR [#1](https://github.com/untilhamza/untilhamza.github.io/pull/1) in [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
