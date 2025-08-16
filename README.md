@@ -83,10 +83,10 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
-2. ⬆️ Pushed 5 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
-3. 🎉 Merged PR [#1](https://github.com/untilhamza/untilhamza.github.io/pull/1) in [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
-4. ⬆️ Pushed 1 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+1. ⭐ Starred [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
+2. ⬆️ Pushed 1 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+3. ⬆️ Pushed 5 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+4. 🎉 Merged PR [#1](https://github.com/untilhamza/untilhamza.github.io/pull/1) in [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
 5. ⬆️ Pushed 1 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
