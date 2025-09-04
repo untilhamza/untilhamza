@@ -85,9 +85,6 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [kagehq/port-kill](https://github.com/kagehq/port-kill)<br>
 2. ⭐ Starred [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
-3. ⬆️ Pushed 1 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
-4. ⬆️ Pushed 5 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
-5. 🎉 Merged PR [#1](https://github.com/untilhamza/untilhamza.github.io/pull/1) in [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
