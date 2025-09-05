@@ -9,6 +9,7 @@
 - 🇺🇬 Born and raised in Uganda
 - :mortar_board: Electrical Engineering major at [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) (2019 - 2023, Graduated **magna cum laude**)
 - :computer: Software Engineer at [Bebridge](https://www.slid.cc) (2021 - 2025)
+- :rocket: Working on [HoverNotes](https://hovernotes.io) (2025 - present)
 - :kr: I'm currently based in Seoul, South Korea
 - :scroll: Check out [My Resume](https://untilhamza.github.io/assets/pdf/240619_Kyamanywa-Hamza-NVIDIA-resume.pdf)
 - 🖥️  Checkout my [personal site](http://untilhamza.github.io/)
