@@ -84,9 +84,10 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples)<br>
-2. ⭐ Starred [kagehq/port-kill](https://github.com/kagehq/port-kill)<br>
-3. ⭐ Starred [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
+1. ⭐ Starred [JamesBrill/react-speech-recognition](https://github.com/JamesBrill/react-speech-recognition)<br>
+2. ⭐ Starred [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples)<br>
+3. ⭐ Starred [kagehq/port-kill](https://github.com/kagehq/port-kill)<br>
+4. ⭐ Starred [untilhamza/Real-time-transcription-with-Google-speech-to-text-API](https://github.com/untilhamza/Real-time-transcription-with-Google-speech-to-text-API)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
