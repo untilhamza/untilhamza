@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [chibat/chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter)<br>
-2. ⭐ Starred [coddingtonbear/obsidian-web](https://github.com/coddingtonbear/obsidian-web)<br>
-3. 💬 Commented on [#7888](https://github.com/facebook/lexical/pull/7888#issuecomment-3348199556) in [facebook/lexical](https://github.com/facebook/lexical)<br>
-4. ❌ Closed PR [#7888](undefined) in [facebook/lexical](https://github.com/facebook/lexical)<br>
-5. 💬 Commented on [#7888](https://github.com/facebook/lexical/pull/7888#issuecomment-3348134182) in [facebook/lexical](https://github.com/facebook/lexical)<br>
+1. 💬 Commented on [#7888](https://github.com/facebook/lexical/pull/7888#issuecomment-3348199556) in [facebook/lexical](https://github.com/facebook/lexical)<br>
+2. ❌ Closed PR [#7888](https://github.com/facebook/lexical/pull/7888) in [facebook/lexical](https://github.com/facebook/lexical)<br>
+3. 💬 Commented on [#7888](https://github.com/facebook/lexical/pull/7888#issuecomment-3348134182) in [facebook/lexical](https://github.com/facebook/lexical)<br>
+4. 💪 Opened PR [#7888](https://github.com/facebook/lexical/pull/7888) in [facebook/lexical](https://github.com/facebook/lexical)<br>
+5. ⬆️ Pushed 1 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
