@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#7888](https://github.com/facebook/lexical/pull/7888#issuecomment-3348134182) in [facebook/lexical](https://github.com/facebook/lexical)<br>
-2. 💪 Opened PR [#7888](https://github.com/facebook/lexical/pull/7888) in [facebook/lexical](https://github.com/facebook/lexical)<br>
-3. ⬆️ Pushed 1 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
-4. ⭐ Starred [JamesBrill/react-speech-recognition](https://github.com/JamesBrill/react-speech-recognition)<br>
-5. ⭐ Starred [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples)<br>
+1. 💬 Commented on [#7888](https://github.com/facebook/lexical/pull/7888#issuecomment-3348199556) in [facebook/lexical](https://github.com/facebook/lexical)<br>
+2. ❌ Closed PR [#7888](https://github.com/facebook/lexical/pull/7888) in [facebook/lexical](https://github.com/facebook/lexical)<br>
+3. 💬 Commented on [#7888](https://github.com/facebook/lexical/pull/7888#issuecomment-3348134182) in [facebook/lexical](https://github.com/facebook/lexical)<br>
+4. 💪 Opened PR [#7888](https://github.com/facebook/lexical/pull/7888) in [facebook/lexical](https://github.com/facebook/lexical)<br>
+5. ⬆️ Pushed 1 commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
