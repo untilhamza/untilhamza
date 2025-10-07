@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/restic](https://github.com/untilhamza/restic) from [restic/restic](https://github.com/restic/restic)<br>
-2. ⭐ Starred [restic/restic](https://github.com/restic/restic)<br>
-3. ⭐ Starred [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)<br>
-4. 💬 Commented on [#7888](https://github.com/facebook/lexical/pull/7888#issuecomment-3348199556) in [facebook/lexical](https://github.com/facebook/lexical)<br>
-5. ❌ Closed PR [#7888](https://github.com/facebook/lexical/pull/7888) in [facebook/lexical](https://github.com/facebook/lexical)<br>
+1. ⭐ Starred [diegoeis/obsidianotion](https://github.com/diegoeis/obsidianotion)<br>
+2. 🔱 Forked [untilhamza/restic](https://github.com/untilhamza/restic) from [restic/restic](https://github.com/restic/restic)<br>
+3. ⭐ Starred [restic/restic](https://github.com/restic/restic)<br>
+4. ⭐ Starred [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)<br>
+5. 💬 Commented on [#7888](https://github.com/facebook/lexical/pull/7888#issuecomment-3348199556) in [facebook/lexical](https://github.com/facebook/lexical)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
