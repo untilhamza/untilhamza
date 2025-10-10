@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi)<br>
-2. ⭐ Starred [PKM-er/obsidian-editing-toolbar](https://github.com/PKM-er/obsidian-editing-toolbar)<br>
-3. ⭐ Starred [Make-md/makemd](https://github.com/Make-md/makemd)<br>
-4. ⭐ Starred [diegoeis/obsidianotion](https://github.com/diegoeis/obsidianotion)<br>
-5. 🔱 Forked [untilhamza/restic](https://github.com/untilhamza/restic) from [restic/restic](https://github.com/restic/restic)<br>
+1. ⭐ Starred [vran-dev/obsidian-contribution-graph](https://github.com/vran-dev/obsidian-contribution-graph)<br>
+2. ⭐ Starred [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi)<br>
+3. ⭐ Starred [PKM-er/obsidian-editing-toolbar](https://github.com/PKM-er/obsidian-editing-toolbar)<br>
+4. ⭐ Starred [Make-md/makemd](https://github.com/Make-md/makemd)<br>
+5. ⭐ Starred [diegoeis/obsidianotion](https://github.com/diegoeis/obsidianotion)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
