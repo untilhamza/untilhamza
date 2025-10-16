@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Sync-in/server](https://github.com/Sync-in/server)<br>
-2. ⭐ Starred [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo)<br>
-3. ⭐ Starred [vran-dev/obsidian-contribution-graph](https://github.com/vran-dev/obsidian-contribution-graph)<br>
-4. ⭐ Starred [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi)<br>
-5. ⭐ Starred [PKM-er/obsidian-editing-toolbar](https://github.com/PKM-er/obsidian-editing-toolbar)<br>
+1. ⭐ Starred [LoredCast/filewizard](https://github.com/LoredCast/filewizard)<br>
+2. ⭐ Starred [Sync-in/server](https://github.com/Sync-in/server)<br>
+3. ⭐ Starred [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo)<br>
+4. ⭐ Starred [vran-dev/obsidian-contribution-graph](https://github.com/vran-dev/obsidian-contribution-graph)<br>
+5. ⭐ Starred [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
