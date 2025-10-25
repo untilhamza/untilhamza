@@ -88,7 +88,7 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 2. ⬆️ Pushed undefined commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
 3. ⬆️ Pushed undefined commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
 4. ⬆️ Pushed undefined commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
-5. ⭐ Starred [ALegendsTale/omnisearch-companion](https://github.com/ALegendsTale/omnisearch-companion)<br>
+5. ⬆️ Pushed undefined commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
