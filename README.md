@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [untilhamza/alexandrie](https://github.com/untilhamza/alexandrie)<br>
-2. 🔱 Forked [untilhamza/alexandrie](https://github.com/untilhamza/alexandrie) from [untilhamza/alexandrie](https://github.com/untilhamza/alexandrie)<br>
-3. ⭐ Starred [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie)<br>
-4. 🔱 Forked [untilhamza/ai-engineering-hub](https://github.com/untilhamza/ai-engineering-hub) from [untilhamza/ai-engineering-hub](https://github.com/untilhamza/ai-engineering-hub)<br>
-5. ⭐ Starred [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)<br>
+1. ⭐ Starred [xKarinSan/video-notes](https://github.com/xKarinSan/video-notes)<br>
+2. ⭐ Starred [untilhamza/alexandrie](https://github.com/untilhamza/alexandrie)<br>
+3. 🔱 Forked [untilhamza/alexandrie](https://github.com/untilhamza/alexandrie) from [untilhamza/alexandrie](https://github.com/untilhamza/alexandrie)<br>
+4. ⭐ Starred [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie)<br>
+5. 🔱 Forked [untilhamza/ai-engineering-hub](https://github.com/untilhamza/ai-engineering-hub) from [untilhamza/ai-engineering-hub](https://github.com/untilhamza/ai-engineering-hub)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
