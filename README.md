@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gignupg/Movie-Subtitles](https://github.com/gignupg/Movie-Subtitles)<br>
-2. ⬆️ Pushed undefined commit(s) to [untilhamza/videospeed](https://github.com/untilhamza/videospeed)<br>
-3. 🔱 Forked [untilhamza/stage](https://github.com/untilhamza/stage) from [untilhamza/stage](https://github.com/untilhamza/stage)<br>
-4. ⭐ Starred [KartikLabhshetwar/stage](https://github.com/KartikLabhshetwar/stage)<br>
-5. ⭐ Starred [juanmackie/ccswap](https://github.com/juanmackie/ccswap)<br>
+1. ⭐ Starred [KartikLabhshetwar/foliox](https://github.com/KartikLabhshetwar/foliox)<br>
+2. ⭐ Starred [gignupg/Movie-Subtitles](https://github.com/gignupg/Movie-Subtitles)<br>
+3. ⬆️ Pushed undefined commit(s) to [untilhamza/videospeed](https://github.com/untilhamza/videospeed)<br>
+4. 🔱 Forked [untilhamza/stage](https://github.com/untilhamza/stage) from [untilhamza/stage](https://github.com/untilhamza/stage)<br>
+5. ⭐ Starred [KartikLabhshetwar/stage](https://github.com/KartikLabhshetwar/stage)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
