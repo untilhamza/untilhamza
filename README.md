@@ -88,7 +88,6 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 2. ⭐ Starred [KartikLabhshetwar/foliox](https://github.com/KartikLabhshetwar/foliox)<br>
 3. ⭐ Starred [gignupg/Movie-Subtitles](https://github.com/gignupg/Movie-Subtitles)<br>
 4. ⬆️ Pushed undefined commit(s) to [untilhamza/videospeed](https://github.com/untilhamza/videospeed)<br>
-5. 🔱 Forked [untilhamza/stage](https://github.com/untilhamza/stage) from [KartikLabhshetwar/stage](https://github.com/KartikLabhshetwar/stage)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
