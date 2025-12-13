@@ -84,8 +84,9 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard)<br>
-2. ⭐ Starred [KartikLabhshetwar/foliox](https://github.com/KartikLabhshetwar/foliox)<br>
+1. ⭐ Starred [makefinks/manim-generator](https://github.com/makefinks/manim-generator)<br>
+2. ⭐ Starred [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard)<br>
+3. ⭐ Starred [KartikLabhshetwar/foliox](https://github.com/KartikLabhshetwar/foliox)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
