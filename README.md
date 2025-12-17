@@ -84,10 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [firecrawl/ai-ready-website](https://github.com/firecrawl/ai-ready-website)<br>
-2. ⭐ Starred [makefinks/manim-generator](https://github.com/makefinks/manim-generator)<br>
-3. ⭐ Starred [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard)<br>
-4. ⭐ Starred [KartikLabhshetwar/foliox](https://github.com/KartikLabhshetwar/foliox)<br>
+1. ⭐ Starred [google/mcp](https://github.com/google/mcp)<br>
+2. ⭐ Starred [firecrawl/ai-ready-website](https://github.com/firecrawl/ai-ready-website)<br>
+3. ⭐ Starred [makefinks/manim-generator](https://github.com/makefinks/manim-generator)<br>
+4. ⭐ Starred [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard)<br>
+5. ⭐ Starred [KartikLabhshetwar/foliox](https://github.com/KartikLabhshetwar/foliox)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
