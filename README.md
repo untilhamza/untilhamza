@@ -88,7 +88,6 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 2. ⭐ Starred [google/mcp](https://github.com/google/mcp)<br>
 3. ⭐ Starred [firecrawl/ai-ready-website](https://github.com/firecrawl/ai-ready-website)<br>
 4. ⭐ Starred [makefinks/manim-generator](https://github.com/makefinks/manim-generator)<br>
-5. ⭐ Starred [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
