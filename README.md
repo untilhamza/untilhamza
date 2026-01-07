@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/BiliNote](https://github.com/untilhamza/BiliNote) from [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)<br>
-2. ⭐ Starred [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)<br>
-3. ⭐ Starred [google/A2UI](https://github.com/google/A2UI)<br>
-4. ⭐ Starred [google/mcp](https://github.com/google/mcp)<br>
-5. ⭐ Starred [firecrawl/ai-ready-website](https://github.com/firecrawl/ai-ready-website)<br>
+1. ⭐ Starred [memvid/memvid](https://github.com/memvid/memvid)<br>
+2. 🔱 Forked [untilhamza/BiliNote](https://github.com/untilhamza/BiliNote) from [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)<br>
+3. ⭐ Starred [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)<br>
+4. ⭐ Starred [google/A2UI](https://github.com/google/A2UI)<br>
+5. ⭐ Starred [google/mcp](https://github.com/google/mcp)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
