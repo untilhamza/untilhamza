@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [memvid/memvid](https://github.com/memvid/memvid)<br>
-2. 🔱 Forked [untilhamza/BiliNote](https://github.com/untilhamza/BiliNote) from [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)<br>
-3. ⭐ Starred [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)<br>
-4. ⭐ Starred [google/A2UI](https://github.com/google/A2UI)<br>
-5. ⭐ Starred [google/mcp](https://github.com/google/mcp)<br>
+1. 🔱 Forked [untilhamza/tinymem](https://github.com/untilhamza/tinymem) from [advpropsys/tinymem](https://github.com/advpropsys/tinymem)<br>
+2. ⭐ Starred [advpropsys/tinymem](https://github.com/advpropsys/tinymem)<br>
+3. ⭐ Starred [memvid/memvid](https://github.com/memvid/memvid)<br>
+4. 🔱 Forked [untilhamza/BiliNote](https://github.com/untilhamza/BiliNote) from [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)<br>
+5. ⭐ Starred [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
