@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/tinymem](https://github.com/untilhamza/tinymem) from [advpropsys/tinymem](https://github.com/advpropsys/tinymem)<br>
-2. ⭐ Starred [advpropsys/tinymem](https://github.com/advpropsys/tinymem)<br>
-3. ⭐ Starred [memvid/memvid](https://github.com/memvid/memvid)<br>
-4. 🔱 Forked [untilhamza/BiliNote](https://github.com/untilhamza/BiliNote) from [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)<br>
-5. ⭐ Starred [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)<br>
+1. ⭐ Starred [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)<br>
+2. 🔱 Forked [untilhamza/tinymem](https://github.com/untilhamza/tinymem) from [advpropsys/tinymem](https://github.com/advpropsys/tinymem)<br>
+3. ⭐ Starred [advpropsys/tinymem](https://github.com/advpropsys/tinymem)<br>
+4. ⭐ Starred [memvid/memvid](https://github.com/memvid/memvid)<br>
+5. 🔱 Forked [untilhamza/BiliNote](https://github.com/untilhamza/BiliNote) from [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
