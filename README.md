@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [asker-kurtelli/scroll](https://github.com/asker-kurtelli/scroll)<br>
-2. 🔱 Forked [untilhamza/vision-agents](https://github.com/untilhamza/vision-agents) from [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents)<br>
-3. ⭐ Starred [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents)<br>
-4. 🔱 Forked [untilhamza/eigent](https://github.com/untilhamza/eigent) from [eigent-ai/eigent](https://github.com/eigent-ai/eigent)<br>
-5. ⭐ Starred [eigent-ai/eigent](https://github.com/eigent-ai/eigent)<br>
+1. 🔱 Forked [untilhamza/pagelm](https://github.com/untilhamza/pagelm) from [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM)<br>
+2. ⭐ Starred [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM)<br>
+3. ⭐ Starred [asker-kurtelli/scroll](https://github.com/asker-kurtelli/scroll)<br>
+4. 🔱 Forked [untilhamza/vision-agents](https://github.com/untilhamza/vision-agents) from [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents)<br>
+5. ⭐ Starred [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
