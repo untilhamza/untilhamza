@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rahulnyk/graph_maker](https://github.com/rahulnyk/graph_maker)<br>
-2. 🔱 Forked [untilhamza/pagelm](https://github.com/untilhamza/pagelm) from [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM)<br>
-3. ⭐ Starred [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM)<br>
-4. ⭐ Starred [asker-kurtelli/scroll](https://github.com/asker-kurtelli/scroll)<br>
-5. 🔱 Forked [untilhamza/vision-agents](https://github.com/untilhamza/vision-agents) from [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents)<br>
+1. 🔱 Forked [untilhamza/graph_maker](https://github.com/untilhamza/graph_maker) from [rahulnyk/graph_maker](https://github.com/rahulnyk/graph_maker)<br>
+2. ⭐ Starred [rahulnyk/graph_maker](https://github.com/rahulnyk/graph_maker)<br>
+3. 🔱 Forked [untilhamza/pagelm](https://github.com/untilhamza/pagelm) from [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM)<br>
+4. ⭐ Starred [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM)<br>
+5. ⭐ Starred [asker-kurtelli/scroll](https://github.com/asker-kurtelli/scroll)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
