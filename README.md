@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks)<br>
-2. 🔱 Forked [untilhamza/graph_maker](https://github.com/untilhamza/graph_maker) from [rahulnyk/graph_maker](https://github.com/rahulnyk/graph_maker)<br>
-3. ⭐ Starred [rahulnyk/graph_maker](https://github.com/rahulnyk/graph_maker)<br>
-4. 🔱 Forked [untilhamza/pagelm](https://github.com/untilhamza/pagelm) from [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM)<br>
-5. ⭐ Starred [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM)<br>
+1. ⭐ Starred [derek-larson14/obsidian-claude-anywhere](https://github.com/derek-larson14/obsidian-claude-anywhere)<br>
+2. ⭐ Starred [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks)<br>
+3. 🔱 Forked [untilhamza/graph_maker](https://github.com/untilhamza/graph_maker) from [rahulnyk/graph_maker](https://github.com/rahulnyk/graph_maker)<br>
+4. ⭐ Starred [rahulnyk/graph_maker](https://github.com/rahulnyk/graph_maker)<br>
+5. 🔱 Forked [untilhamza/pagelm](https://github.com/untilhamza/pagelm) from [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
