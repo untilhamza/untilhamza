@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rokpiy/auto-commenter](https://github.com/rokpiy/auto-commenter)<br>
-2. ⭐ Starred [derek-larson14/obsidian-claude-anywhere](https://github.com/derek-larson14/obsidian-claude-anywhere)<br>
-3. ⭐ Starred [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks)<br>
-4. 🔱 Forked [untilhamza/graph_maker](https://github.com/untilhamza/graph_maker) from [rahulnyk/graph_maker](https://github.com/rahulnyk/graph_maker)<br>
-5. ⭐ Starred [rahulnyk/graph_maker](https://github.com/rahulnyk/graph_maker)<br>
+1. 🔱 Forked [untilhamza/minute](https://github.com/untilhamza/minute) from [roblibob/minute](https://github.com/roblibob/minute)<br>
+2. ⭐ Starred [roblibob/minute](https://github.com/roblibob/minute)<br>
+3. ⭐ Starred [rokpiy/auto-commenter](https://github.com/rokpiy/auto-commenter)<br>
+4. ⭐ Starred [derek-larson14/obsidian-claude-anywhere](https://github.com/derek-larson14/obsidian-claude-anywhere)<br>
+5. ⭐ Starred [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
