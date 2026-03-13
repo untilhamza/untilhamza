@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)<br>
-2. 💬 Commented on [#66](https://github.com/OpenRouterTeam/python-sdk/pull/66#issuecomment-3997176687) in [OpenRouterTeam/python-sdk](https://github.com/OpenRouterTeam/python-sdk)<br>
-3. 💪 Opened PR [#66](undefined) in [OpenRouterTeam/python-sdk](https://github.com/OpenRouterTeam/python-sdk)<br>
-4. 🔱 Forked [untilhamza/python-sdk](https://github.com/untilhamza/python-sdk) from [OpenRouterTeam/python-sdk](https://github.com/OpenRouterTeam/python-sdk)<br>
-5. ❗️ Opened issue [#65](https://github.com/OpenRouterTeam/python-sdk/issues/65) in [OpenRouterTeam/python-sdk](https://github.com/OpenRouterTeam/python-sdk)<br>
+1. ⭐ Starred [vercel-labs/workflow-cancellable-export](https://github.com/vercel-labs/workflow-cancellable-export)<br>
+2. ⭐ Starred [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)<br>
+3. 💬 Commented on [#66](https://github.com/OpenRouterTeam/python-sdk/pull/66#issuecomment-3997176687) in [OpenRouterTeam/python-sdk](https://github.com/OpenRouterTeam/python-sdk)<br>
+4. 💪 Opened PR [#66](undefined) in [OpenRouterTeam/python-sdk](https://github.com/OpenRouterTeam/python-sdk)<br>
+5. 🔱 Forked [untilhamza/python-sdk](https://github.com/untilhamza/python-sdk) from [OpenRouterTeam/python-sdk](https://github.com/OpenRouterTeam/python-sdk)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
