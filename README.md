@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/chat](https://github.com/untilhamza/chat) from [vercel/chat](https://github.com/vercel/chat)<br>
-2. ⭐ Starred [vercel/chat](https://github.com/vercel/chat)<br>
-3. ⬆️ Pushed undefined commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-4. ⭐ Starred [vercel-labs/workflow-cancellable-export](https://github.com/vercel-labs/workflow-cancellable-export)<br>
-5. ⭐ Starred [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)<br>
+1. 💬 Commented on [#65](https://github.com/OpenRouterTeam/python-sdk/issues/65#issuecomment-4107787249) in [OpenRouterTeam/python-sdk](https://github.com/OpenRouterTeam/python-sdk)<br>
+2. 💬 Commented on [#70](https://github.com/OpenRouterTeam/python-sdk/pull/70#issuecomment-4107786165) in [OpenRouterTeam/python-sdk](https://github.com/OpenRouterTeam/python-sdk)<br>
+3. 🔱 Forked [untilhamza/chat](https://github.com/untilhamza/chat) from [vercel/chat](https://github.com/vercel/chat)<br>
+4. ⭐ Starred [vercel/chat](https://github.com/vercel/chat)<br>
+5. ⬆️ Pushed undefined commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
