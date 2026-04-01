@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/image-reader-extension](https://github.com/untilhamza/image-reader-extension) from [brian-girko/image-reader](https://github.com/brian-girko/image-reader)<br>
-2. ⭐ Starred [brian-girko/image-reader](https://github.com/brian-girko/image-reader)<br>
-3. 🔱 Forked [untilhamza/mediapipe](https://github.com/untilhamza/mediapipe) from [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe)<br>
-4. ⭐ Starred [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe)<br>
-5. 💬 Commented on [#65](https://github.com/OpenRouterTeam/python-sdk/issues/65#issuecomment-4107787249) in [OpenRouterTeam/python-sdk](https://github.com/OpenRouterTeam/python-sdk)<br>
+1. 🔱 Forked [untilhamza/claw-code](https://github.com/untilhamza/claw-code) from [instructkr/claw-code](https://github.com/instructkr/claw-code)<br>
+2. ⭐ Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)<br>
+3. 🔱 Forked [untilhamza/image-reader-extension](https://github.com/untilhamza/image-reader-extension) from [brian-girko/image-reader](https://github.com/brian-girko/image-reader)<br>
+4. ⭐ Starred [brian-girko/image-reader](https://github.com/brian-girko/image-reader)<br>
+5. 🔱 Forked [untilhamza/mediapipe](https://github.com/untilhamza/mediapipe) from [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
