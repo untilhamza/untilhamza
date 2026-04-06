@@ -84,7 +84,7 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [raulduk3/half-time](https://github.com/raulduk3/half-time)<br>
+1. ⭐ Starred [raulduk3/half-time-draw-predictor](https://github.com/raulduk3/half-time-draw-predictor)<br>
 2. 🔱 Forked [untilhamza/claw-code](https://github.com/untilhamza/claw-code) from [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
 3. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
 4. 🔱 Forked [untilhamza/image-reader-extension](https://github.com/untilhamza/image-reader-extension) from [brian-girko/image-reader](https://github.com/brian-girko/image-reader)<br>
