@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [raulduk3/half-time-draw-predictor](https://github.com/raulduk3/half-time-draw-predictor)<br>
-2. 🔱 Forked [untilhamza/claw-code](https://github.com/untilhamza/claw-code) from [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
-3. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
-4. 🔱 Forked [untilhamza/image-reader-extension](https://github.com/untilhamza/image-reader-extension) from [brian-girko/image-reader](https://github.com/brian-girko/image-reader)<br>
-5. ⭐ Starred [brian-girko/image-reader](https://github.com/brian-girko/image-reader)<br>
+1. 💬 Commented on [#36581](https://github.com/langchain-ai/langchain/issues/36581#issuecomment-4198374947) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
+2. 💪 Opened PR [#36582](undefined) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
+3. ❗️ Opened issue [#36581](https://github.com/langchain-ai/langchain/issues/36581) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
+4. ⬆️ Pushed undefined commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
+5. 💬 Commented on [#36579](https://github.com/langchain-ai/langchain/issues/36579#issuecomment-4198299334) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
