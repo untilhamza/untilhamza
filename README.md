@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
-2. 🔱 Forked [untilhamza/hermes-agent](https://github.com/untilhamza/hermes-agent) from [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-3. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-4. ⭐ Starred [farzaa/clicky](https://github.com/farzaa/clicky)<br>
-5. ⬆️ Pushed undefined commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
+1. ⭐ Starred [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service)<br>
+2. ⬆️ Pushed undefined commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
+3. 🔱 Forked [untilhamza/hermes-agent](https://github.com/untilhamza/hermes-agent) from [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
+4. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
+5. ⭐ Starred [farzaa/clicky](https://github.com/farzaa/clicky)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
