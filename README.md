@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
-2. 💬 Commented on [#36581](https://github.com/langchain-ai/langchain/issues/36581#issuecomment-4198374947) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
-3. 💪 Opened PR [#36582](undefined) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
-4. ❗️ Opened issue [#36581](https://github.com/langchain-ai/langchain/issues/36581) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
-5. ⬆️ Pushed undefined commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
+1. ⭐ Starred [farzaa/clicky](https://github.com/farzaa/clicky)<br>
+2. ⬆️ Pushed undefined commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
+3. 💬 Commented on [#36581](https://github.com/langchain-ai/langchain/issues/36581#issuecomment-4198374947) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
+4. 💪 Opened PR [#36582](undefined) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
+5. ❗️ Opened issue [#36581](https://github.com/langchain-ai/langchain/issues/36581) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
