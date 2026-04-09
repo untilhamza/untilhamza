@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)<br>
-2. ⭐ Starred [Tshetrim/Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/Tshetrim/Image-To-Text-OCR-extension-for-ChatGPT)<br>
-3. ⭐ Starred [scribeocr/scribeocr](https://github.com/scribeocr/scribeocr)<br>
-4. ⭐ Starred [naptha/tesseract.js](https://github.com/naptha/tesseract.js)<br>
-5. ⭐ Starred [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service)<br>
+1. 🔱 Forked [untilhamza/open-multi-agent](https://github.com/untilhamza/open-multi-agent) from [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent)<br>
+2. ⭐ Starred [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent)<br>
+3. ⭐ Starred [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)<br>
+4. ⭐ Starred [Tshetrim/Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/Tshetrim/Image-To-Text-OCR-extension-for-ChatGPT)<br>
+5. ⭐ Starred [scribeocr/scribeocr](https://github.com/scribeocr/scribeocr)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
