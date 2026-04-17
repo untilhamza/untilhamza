@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/mediapipe-samples](https://github.com/untilhamza/mediapipe-samples) from [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples)<br>
-2. ⭐ Starred [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples)<br>
-3. ⭐ Starred [BasedHardware/omi](https://github.com/BasedHardware/omi)<br>
-4. ⬆️ Pushed undefined commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
-5. ⬆️ Pushed undefined commit(s) to [untilhamza/pdf.js](https://github.com/untilhamza/pdf.js)<br>
+1. ⭐ Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br>
+2. 🔱 Forked [untilhamza/mediapipe-samples](https://github.com/untilhamza/mediapipe-samples) from [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples)<br>
+3. ⭐ Starred [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples)<br>
+4. ⭐ Starred [BasedHardware/omi](https://github.com/BasedHardware/omi)<br>
+5. ⬆️ Pushed undefined commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
