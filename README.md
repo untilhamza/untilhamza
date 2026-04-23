@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PostHog/ai-plugin](https://github.com/PostHog/ai-plugin)<br>
-2. ⭐ Starred [QwenLM/Qwen3.6](https://github.com/QwenLM/Qwen3.6)<br>
-3. ⭐ Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br>
-4. 🔱 Forked [untilhamza/mediapipe-samples](https://github.com/untilhamza/mediapipe-samples) from [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples)<br>
-5. ⭐ Starred [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples)<br>
+1. ⭐ Starred [fastrepl/philo](https://github.com/fastrepl/philo)<br>
+2. ⭐ Starred [PostHog/ai-plugin](https://github.com/PostHog/ai-plugin)<br>
+3. ⭐ Starred [QwenLM/Qwen3.6](https://github.com/QwenLM/Qwen3.6)<br>
+4. ⭐ Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br>
+5. 🔱 Forked [untilhamza/mediapipe-samples](https://github.com/untilhamza/mediapipe-samples) from [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
