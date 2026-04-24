@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
-2. 🔱 Forked [untilhamza/openclicky](https://github.com/untilhamza/openclicky) from [jasonkneen/openclicky](https://github.com/jasonkneen/openclicky)<br>
-3. ⭐ Starred [fastrepl/philo](https://github.com/fastrepl/philo)<br>
-4. ⭐ Starred [PostHog/ai-plugin](https://github.com/PostHog/ai-plugin)<br>
-5. ⭐ Starred [QwenLM/Qwen3.6](https://github.com/QwenLM/Qwen3.6)<br>
+1. ⭐ Starred [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)<br>
+2. ⬆️ Pushed undefined commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
+3. 🔱 Forked [untilhamza/openclicky](https://github.com/untilhamza/openclicky) from [jasonkneen/openclicky](https://github.com/jasonkneen/openclicky)<br>
+4. ⭐ Starred [fastrepl/philo](https://github.com/fastrepl/philo)<br>
+5. ⭐ Starred [PostHog/ai-plugin](https://github.com/PostHog/ai-plugin)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
