@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/Grimore-MD](https://github.com/untilhamza/Grimore-MD) from [kahz12/Grimore-MD](https://github.com/kahz12/Grimore-MD)<br>
-2. ⭐ Starred [kahz12/Grimore-MD](https://github.com/kahz12/Grimore-MD)<br>
-3. 🔱 Forked [untilhamza/clicky](https://github.com/untilhamza/clicky) from [farzaa/clicky](https://github.com/farzaa/clicky)<br>
-4. ⭐ Starred [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)<br>
-5. ⬆️ Pushed undefined commit(s) to [untilhamza/langchain](https://github.com/untilhamza/langchain)<br>
+1. ⭐ Starred [folubebe/gemini_realtime_speech_to_text](https://github.com/folubebe/gemini_realtime_speech_to_text)<br>
+2. 🔱 Forked [untilhamza/Grimore-MD](https://github.com/untilhamza/Grimore-MD) from [kahz12/Grimore-MD](https://github.com/kahz12/Grimore-MD)<br>
+3. ⭐ Starred [kahz12/Grimore-MD](https://github.com/kahz12/Grimore-MD)<br>
+4. 🔱 Forked [untilhamza/clicky](https://github.com/untilhamza/clicky) from [farzaa/clicky](https://github.com/farzaa/clicky)<br>
+5. ⭐ Starred [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
