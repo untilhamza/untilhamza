@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#66](https://github.com/OpenRouterTeam/python-sdk/pull/66#issuecomment-4461643426) in [OpenRouterTeam/python-sdk](https://github.com/OpenRouterTeam/python-sdk)<br>
-2. ⭐ Starred [folubebe/gemini_realtime_speech_to_text](https://github.com/folubebe/gemini_realtime_speech_to_text)<br>
-3. 🔱 Forked [untilhamza/Grimore-MD](https://github.com/untilhamza/Grimore-MD) from [kahz12/Grimore-MD](https://github.com/kahz12/Grimore-MD)<br>
-4. ⭐ Starred [kahz12/Grimore-MD](https://github.com/kahz12/Grimore-MD)<br>
-5. 🔱 Forked [untilhamza/clicky](https://github.com/untilhamza/clicky) from [farzaa/clicky](https://github.com/farzaa/clicky)<br>
+1. ⭐ Starred [moorcheh-ai/memanto](https://github.com/moorcheh-ai/memanto)<br>
+2. 💬 Commented on [#66](https://github.com/OpenRouterTeam/python-sdk/pull/66#issuecomment-4461643426) in [OpenRouterTeam/python-sdk](https://github.com/OpenRouterTeam/python-sdk)<br>
+3. ⭐ Starred [folubebe/gemini_realtime_speech_to_text](https://github.com/folubebe/gemini_realtime_speech_to_text)<br>
+4. 🔱 Forked [untilhamza/Grimore-MD](https://github.com/untilhamza/Grimore-MD) from [kahz12/Grimore-MD](https://github.com/kahz12/Grimore-MD)<br>
+5. ⭐ Starred [kahz12/Grimore-MD](https://github.com/kahz12/Grimore-MD)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
