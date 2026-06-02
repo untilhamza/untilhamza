@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [immrk/supersub-translator-coursera](https://github.com/immrk/supersub-translator-coursera)<br>
-2. 💬 Commented on [#65](https://github.com/OpenRouterTeam/python-sdk/issues/65#issuecomment-4493551982) in [OpenRouterTeam/python-sdk](https://github.com/OpenRouterTeam/python-sdk)<br>
-3. ⬆️ Pushed undefined commit(s) to [untilhamza/python-sdk](https://github.com/untilhamza/python-sdk)<br>
+1. ❌ Closed PR [#66](undefined) in [OpenRouterTeam/python-sdk](https://github.com/OpenRouterTeam/python-sdk)<br>
+2. 💬 Commented on [#205](https://github.com/OpenRouterTeam/python-sdk/pull/205#issuecomment-4598838482) in [OpenRouterTeam/python-sdk](https://github.com/OpenRouterTeam/python-sdk)<br>
+3. 💬 Commented on [#66](https://github.com/OpenRouterTeam/python-sdk/pull/66#issuecomment-4598838493) in [OpenRouterTeam/python-sdk](https://github.com/OpenRouterTeam/python-sdk)<br>
 4. ⬆️ Pushed undefined commit(s) to [untilhamza/python-sdk](https://github.com/untilhamza/python-sdk)<br>
-5. 💬 Commented on [#65](https://github.com/OpenRouterTeam/python-sdk/issues/65#issuecomment-4493503218) in [OpenRouterTeam/python-sdk](https://github.com/OpenRouterTeam/python-sdk)<br>
+5. ⭐ Starred [immrk/supersub-translator-coursera](https://github.com/immrk/supersub-translator-coursera)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
