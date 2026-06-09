@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kellyvv/PhoneClaw](https://github.com/kellyvv/PhoneClaw)<br>
-2. 💬 Commented on [#5](https://github.com/untilhamza/untilhamza.github.io/pull/5#issuecomment-4638328061) in [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
-3. ❌ Closed PR [#5](undefined) in [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
-4. 💪 Opened PR [#5](undefined) in [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
-5. ⬆️ Pushed undefined commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+1. ⬆️ Pushed undefined commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+2. ⬆️ Pushed undefined commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+3. 💪 Opened PR [#6](undefined) in [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+4. ⭐ Starred [kellyvv/PhoneClaw](https://github.com/kellyvv/PhoneClaw)<br>
+5. 💬 Commented on [#5](https://github.com/untilhamza/untilhamza.github.io/pull/5#issuecomment-4638328061) in [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
