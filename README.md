@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [greekr4/viruagent-cli](https://github.com/greekr4/viruagent-cli)<br>
-2. ⭐ Starred [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter)<br>
-3. ⭐ Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)<br>
-4. ⬆️ Pushed undefined commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
-5. ⬆️ Pushed undefined commit(s) to [untilhamza/untilhamza.github.io](https://github.com/untilhamza/untilhamza.github.io)<br>
+1. 🔱 Forked [untilhamza/SlideSmith](https://github.com/untilhamza/SlideSmith) from [athcagithub/SlideSmith](https://github.com/athcagithub/SlideSmith)<br>
+2. ⭐ Starred [athcagithub/SlideSmith](https://github.com/athcagithub/SlideSmith)<br>
+3. ⭐ Starred [greekr4/viruagent-cli](https://github.com/greekr4/viruagent-cli)<br>
+4. ⭐ Starred [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter)<br>
+5. ⭐ Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
