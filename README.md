@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vllm-project/recipes](https://github.com/vllm-project/recipes)<br>
-2. 🔱 Forked [untilhamza/recipes](https://github.com/untilhamza/recipes) from [vllm-project/recipes](https://github.com/vllm-project/recipes)<br>
-3. 🔱 Forked [untilhamza/SlideSmith](https://github.com/untilhamza/SlideSmith) from [athcagithub/SlideSmith](https://github.com/athcagithub/SlideSmith)<br>
-4. ⭐ Starred [athcagithub/SlideSmith](https://github.com/athcagithub/SlideSmith)<br>
-5. ⭐ Starred [greekr4/viruagent-cli](https://github.com/greekr4/viruagent-cli)<br>
+1. ⭐ Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)<br>
+2. ⭐ Starred [vllm-project/recipes](https://github.com/vllm-project/recipes)<br>
+3. 🔱 Forked [untilhamza/recipes](https://github.com/untilhamza/recipes) from [vllm-project/recipes](https://github.com/vllm-project/recipes)<br>
+4. 🔱 Forked [untilhamza/SlideSmith](https://github.com/untilhamza/SlideSmith) from [athcagithub/SlideSmith](https://github.com/athcagithub/SlideSmith)<br>
+5. ⭐ Starred [athcagithub/SlideSmith](https://github.com/athcagithub/SlideSmith)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
