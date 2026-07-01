@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable)<br>
-2. ⭐ Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)<br>
-3. ⭐ Starred [vllm-project/recipes](https://github.com/vllm-project/recipes)<br>
-4. 🔱 Forked [untilhamza/recipes](https://github.com/untilhamza/recipes) from [vllm-project/recipes](https://github.com/vllm-project/recipes)<br>
-5. 🔱 Forked [untilhamza/SlideSmith](https://github.com/untilhamza/SlideSmith) from [athcagithub/SlideSmith](https://github.com/athcagithub/SlideSmith)<br>
+1. ⭐ Starred [openai/codex](https://github.com/openai/codex)<br>
+2. ⭐ Starred [ymichael/open-codex](https://github.com/ymichael/open-codex)<br>
+3. ⭐ Starred [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable)<br>
+4. ⭐ Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)<br>
+5. ⭐ Starred [vllm-project/recipes](https://github.com/vllm-project/recipes)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
