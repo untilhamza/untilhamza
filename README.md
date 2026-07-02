@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sanity-labs/sanity-social-proof](https://github.com/sanity-labs/sanity-social-proof)<br>
-2. 🔱 Forked [untilhamza/slides](https://github.com/untilhamza/slides) from [sanity-labs/slides](https://github.com/sanity-labs/slides)<br>
-3. ⭐ Starred [sanity-labs/mcpcli](https://github.com/sanity-labs/mcpcli)<br>
-4. ⭐ Starred [sanity-labs/slides](https://github.com/sanity-labs/slides)<br>
-5. ⭐ Starred [untilhamza/sanity-eve-docs-agent](https://github.com/untilhamza/sanity-eve-docs-agent)<br>
+1. ⭐ Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)<br>
+2. ⭐ Starred [sanity-labs/sanity-social-proof](https://github.com/sanity-labs/sanity-social-proof)<br>
+3. 🔱 Forked [untilhamza/slides](https://github.com/untilhamza/slides) from [sanity-labs/slides](https://github.com/sanity-labs/slides)<br>
+4. ⭐ Starred [sanity-labs/mcpcli](https://github.com/sanity-labs/mcpcli)<br>
+5. ⭐ Starred [sanity-labs/slides](https://github.com/sanity-labs/slides)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
