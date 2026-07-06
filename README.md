@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain)<br>
-2. ⭐ Starred [caura-ai/caura-memclaw](https://github.com/caura-ai/caura-memclaw)<br>
-3. ⭐ Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)<br>
-4. ⭐ Starred [sanity-labs/sanity-social-proof](https://github.com/sanity-labs/sanity-social-proof)<br>
-5. 🔱 Forked [untilhamza/slides](https://github.com/untilhamza/slides) from [sanity-labs/slides](https://github.com/sanity-labs/slides)<br>
+1. 🔱 Forked [untilhamza/cubesandbox](https://github.com/untilhamza/cubesandbox) from [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)<br>
+2. ⭐ Starred [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)<br>
+3. ⭐ Starred [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain)<br>
+4. ⭐ Starred [caura-ai/caura-memclaw](https://github.com/caura-ai/caura-memclaw)<br>
+5. ⭐ Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
