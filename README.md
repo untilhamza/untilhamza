@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/cubesandbox](https://github.com/untilhamza/cubesandbox) from [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)<br>
-2. ⭐ Starred [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)<br>
-3. ⭐ Starred [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain)<br>
-4. ⭐ Starred [caura-ai/caura-memclaw](https://github.com/caura-ai/caura-memclaw)<br>
-5. ⭐ Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)<br>
+1. ⭐ Starred [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)<br>
+2. 🔱 Forked [untilhamza/cubesandbox](https://github.com/untilhamza/cubesandbox) from [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)<br>
+3. ⭐ Starred [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)<br>
+4. ⭐ Starred [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain)<br>
+5. ⭐ Starred [caura-ai/caura-memclaw](https://github.com/caura-ai/caura-memclaw)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
