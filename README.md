@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)<br>
-2. 🔱 Forked [untilhamza/cubesandbox](https://github.com/untilhamza/cubesandbox) from [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)<br>
-3. ⭐ Starred [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)<br>
-4. ⭐ Starred [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain)<br>
-5. ⭐ Starred [caura-ai/caura-memclaw](https://github.com/caura-ai/caura-memclaw)<br>
+1. ⭐ Starred [dyad-sh/dyad](https://github.com/dyad-sh/dyad)<br>
+2. ⭐ Starred [SujalXplores/v0.diy](https://github.com/SujalXplores/v0.diy)<br>
+3. ⭐ Starred [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)<br>
+4. 🔱 Forked [untilhamza/cubesandbox](https://github.com/untilhamza/cubesandbox) from [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)<br>
+5. ⭐ Starred [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
