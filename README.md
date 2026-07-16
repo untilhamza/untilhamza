@@ -86,9 +86,9 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt)<br>
 2. 💬 Commented on [#1350](https://github.com/Domain-Connect/Templates/pull/1350#discussion_r3556705767) in [Domain-Connect/Templates](https://github.com/Domain-Connect/Templates)<br>
-3. ⬆️ Pushed undefined commit(s) to [untilhamza/Templates](https://github.com/untilhamza/Templates)<br>
-4. 💪 Opened PR [#1350](undefined) in [Domain-Connect/Templates](https://github.com/Domain-Connect/Templates)<br>
-5. 🔱 Forked [untilhamza/Templates](https://github.com/untilhamza/Templates) from [Domain-Connect/Templates](https://github.com/Domain-Connect/Templates)<br>
+3. 💪 Opened PR [#1350](undefined) in [Domain-Connect/Templates](https://github.com/Domain-Connect/Templates)<br>
+4. 🔱 Forked [untilhamza/Templates](https://github.com/untilhamza/Templates) from [Domain-Connect/Templates](https://github.com/Domain-Connect/Templates)<br>
+5. 🔱 Forked [untilhamza/dyad](https://github.com/untilhamza/dyad) from [dyad-sh/dyad](https://github.com/dyad-sh/dyad)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
