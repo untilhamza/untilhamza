@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/cluely-fork](https://github.com/untilhamza/cluely-fork) from [Blueturboguy07/cue](https://github.com/Blueturboguy07/cue)<br>
-2. ⭐ Starred [Blueturboguy07/cue](https://github.com/Blueturboguy07/cue)<br>
-3. ⭐ Starred [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt)<br>
-4. 💬 Commented on [#1350](https://github.com/Domain-Connect/Templates/pull/1350#discussion_r3556705767) in [Domain-Connect/Templates](https://github.com/Domain-Connect/Templates)<br>
-5. 💪 Opened PR [#1350](undefined) in [Domain-Connect/Templates](https://github.com/Domain-Connect/Templates)<br>
+1. ⭐ Starred [oblien/openship](https://github.com/oblien/openship)<br>
+2. ⭐ Starred [t94j0/opencode-kimi-subscription](https://github.com/t94j0/opencode-kimi-subscription)<br>
+3. ⭐ Starred [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)<br>
+4. 🔱 Forked [untilhamza/cluely-fork](https://github.com/untilhamza/cluely-fork) from [Blueturboguy07/cue](https://github.com/Blueturboguy07/cue)<br>
+5. ⭐ Starred [Blueturboguy07/cue](https://github.com/Blueturboguy07/cue)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
