@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](undefined) in [t94j0/opencode-kimi-subscription](https://github.com/t94j0/opencode-kimi-subscription)<br>
-2. 🔱 Forked [untilhamza/opencode-kimi-subscription](https://github.com/untilhamza/opencode-kimi-subscription) from [t94j0/opencode-kimi-subscription](https://github.com/t94j0/opencode-kimi-subscription)<br>
-3. ⭐ Starred [untilhamza/browser-control](https://github.com/untilhamza/browser-control)<br>
-4. 🔱 Forked [untilhamza/browser-control](https://github.com/untilhamza/browser-control) from [anomalyco/browser-control](https://github.com/anomalyco/browser-control)<br>
-5. ⭐ Starred [anomalyco/browser-control](https://github.com/anomalyco/browser-control)<br>
+1. ⭐ Starred [scrollmark/socialgpt-mcp](https://github.com/scrollmark/socialgpt-mcp)<br>
+2. ⭐ Starred [SaseQ/discord-mcp](https://github.com/SaseQ/discord-mcp)<br>
+3. 💪 Opened PR [#1](undefined) in [t94j0/opencode-kimi-subscription](https://github.com/t94j0/opencode-kimi-subscription)<br>
+4. 🔱 Forked [untilhamza/opencode-kimi-subscription](https://github.com/untilhamza/opencode-kimi-subscription) from [t94j0/opencode-kimi-subscription](https://github.com/t94j0/opencode-kimi-subscription)<br>
+5. ⭐ Starred [untilhamza/browser-control](https://github.com/untilhamza/browser-control)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
