@@ -86,9 +86,9 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [hoversite/hoverxite](https://github.com/hoversite/hoverxite)<br>
 2. ⬆️ Pushed undefined commit(s) to [hoversite/hoverxite](https://github.com/hoversite/hoverxite)<br>
-3. ⭐ Starred [scrollmark/socialgpt-mcp](https://github.com/scrollmark/socialgpt-mcp)<br>
-4. ⭐ Starred [SaseQ/discord-mcp](https://github.com/SaseQ/discord-mcp)<br>
-5. 💪 Opened PR [#1](undefined) in [t94j0/opencode-kimi-subscription](https://github.com/t94j0/opencode-kimi-subscription)<br>
+3. ⬆️ Pushed undefined commit(s) to [hoversite/hoverxite](https://github.com/hoversite/hoverxite)<br>
+4. ⭐ Starred [scrollmark/socialgpt-mcp](https://github.com/scrollmark/socialgpt-mcp)<br>
+5. ⭐ Starred [SaseQ/discord-mcp](https://github.com/SaseQ/discord-mcp)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
