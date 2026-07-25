@@ -84,10 +84,10 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI)<br>
-2. 🔱 Forked [untilhamza/openworker](https://github.com/untilhamza/openworker) from [andrewyng/openworker](https://github.com/andrewyng/openworker)<br>
-3. ⭐ Starred [andrewyng/openworker](https://github.com/andrewyng/openworker)<br>
-4. ⬆️ Pushed undefined commit(s) to [hoversite/hoverxite](https://github.com/hoversite/hoverxite)<br>
+1. ⭐ Starred [polywock/globalSpeed](https://github.com/polywock/globalSpeed)<br>
+2. ⭐ Starred [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI)<br>
+3. 🔱 Forked [untilhamza/openworker](https://github.com/untilhamza/openworker) from [andrewyng/openworker](https://github.com/andrewyng/openworker)<br>
+4. ⭐ Starred [andrewyng/openworker](https://github.com/andrewyng/openworker)<br>
 5. ⬆️ Pushed undefined commit(s) to [hoversite/hoverxite](https://github.com/hoversite/hoverxite)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
