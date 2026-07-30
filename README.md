@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/camelAI](https://github.com/untilhamza/camelAI) from [qaml-ai/camelAI](https://github.com/qaml-ai/camelAI)<br>
-2. ⭐ Starred [qaml-ai/camelAI](https://github.com/qaml-ai/camelAI)<br>
-3. ⭐ Starred [polywock/globalSpeed](https://github.com/polywock/globalSpeed)<br>
-4. ⭐ Starred [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI)<br>
-5. 🔱 Forked [untilhamza/openworker](https://github.com/untilhamza/openworker) from [andrewyng/openworker](https://github.com/andrewyng/openworker)<br>
+1. ⭐ Starred [digimata/quill](https://github.com/digimata/quill)<br>
+2. 🔱 Forked [untilhamza/camelAI](https://github.com/untilhamza/camelAI) from [qaml-ai/camelAI](https://github.com/qaml-ai/camelAI)<br>
+3. ⭐ Starred [qaml-ai/camelAI](https://github.com/qaml-ai/camelAI)<br>
+4. ⭐ Starred [polywock/globalSpeed](https://github.com/polywock/globalSpeed)<br>
+5. ⭐ Starred [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
