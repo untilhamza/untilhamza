@@ -84,11 +84,6 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Michaelliv/napkin](https://github.com/Michaelliv/napkin)<br>
-2. ⭐ Starred [rivet-dev/flue](https://github.com/rivet-dev/flue)<br>
-3. ⭐ Starred [digimata/quill](https://github.com/digimata/quill)<br>
-4. 🔱 Forked [untilhamza/camelAI](https://github.com/untilhamza/camelAI) from [qaml-ai/camelAI](https://github.com/qaml-ai/camelAI)<br>
-5. ⭐ Starred [qaml-ai/camelAI](https://github.com/qaml-ai/camelAI)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
