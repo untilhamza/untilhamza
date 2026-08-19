@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/qiaomu-blog-opensource](https://github.com/untilhamza/qiaomu-blog-opensource) from [joeseesun/qiaomu-blog-opensource](https://github.com/joeseesun/qiaomu-blog-opensource)<br>
-2. ⭐ Starred [joeseesun/qiaomu-blog-opensource](https://github.com/joeseesun/qiaomu-blog-opensource)<br>
-3. ⭐ Starred [Michaelliv/napkin](https://github.com/Michaelliv/napkin)<br>
-4. ⭐ Starred [rivet-dev/flue](https://github.com/rivet-dev/flue)<br>
-5. ⭐ Starred [digimata/quill](https://github.com/digimata/quill)<br>
+1. ⭐ Starred [joeseesun/qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm)<br>
+2. 🔱 Forked [untilhamza/qiaomu-blog-opensource](https://github.com/untilhamza/qiaomu-blog-opensource) from [joeseesun/qiaomu-blog-opensource](https://github.com/joeseesun/qiaomu-blog-opensource)<br>
+3. ⭐ Starred [joeseesun/qiaomu-blog-opensource](https://github.com/joeseesun/qiaomu-blog-opensource)<br>
+4. ⭐ Starred [Michaelliv/napkin](https://github.com/Michaelliv/napkin)<br>
+5. ⭐ Starred [rivet-dev/flue](https://github.com/rivet-dev/flue)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
