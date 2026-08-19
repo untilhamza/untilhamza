@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [joeseesun/qiaomu-blog-opensource](https://github.com/joeseesun/qiaomu-blog-opensource)<br>
-2. ⭐ Starred [Michaelliv/napkin](https://github.com/Michaelliv/napkin)<br>
-3. ⭐ Starred [rivet-dev/flue](https://github.com/rivet-dev/flue)<br>
-4. ⭐ Starred [digimata/quill](https://github.com/digimata/quill)<br>
-5. 🔱 Forked [untilhamza/camelAI](https://github.com/untilhamza/camelAI) from [qaml-ai/camelAI](https://github.com/qaml-ai/camelAI)<br>
+1. 🔱 Forked [untilhamza/qiaomu-blog-opensource](https://github.com/untilhamza/qiaomu-blog-opensource) from [joeseesun/qiaomu-blog-opensource](https://github.com/joeseesun/qiaomu-blog-opensource)<br>
+2. ⭐ Starred [joeseesun/qiaomu-blog-opensource](https://github.com/joeseesun/qiaomu-blog-opensource)<br>
+3. ⭐ Starred [Michaelliv/napkin](https://github.com/Michaelliv/napkin)<br>
+4. ⭐ Starred [rivet-dev/flue](https://github.com/rivet-dev/flue)<br>
+5. ⭐ Starred [digimata/quill](https://github.com/digimata/quill)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
