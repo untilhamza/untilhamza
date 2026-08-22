@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [codingstark-dev/fx-on-workers](https://github.com/codingstark-dev/fx-on-workers)<br>
-2. ⬆️ Pushed undefined commit(s) to [untilhamza/Templates](https://github.com/untilhamza/Templates)<br>
-3. 💬 Commented on [#1633](https://github.com/Domain-Connect/Templates/pull/1633#issuecomment-5369258616) in [Domain-Connect/Templates](https://github.com/Domain-Connect/Templates)<br>
-4. 💪 Opened PR [#1633](undefined) in [Domain-Connect/Templates](https://github.com/Domain-Connect/Templates)<br>
-5. ⭐ Starred [grumpyp/blogging-with-ai](https://github.com/grumpyp/blogging-with-ai)<br>
+1. ⭐ Starred [google-gemini/gemini-live-translate-livekit](https://github.com/google-gemini/gemini-live-translate-livekit)<br>
+2. ⭐ Starred [ZhengdiYu/SignAvatars](https://github.com/ZhengdiYu/SignAvatars)<br>
+3. ⭐ Starred [DFKI-SignLanguage/MMS-Player](https://github.com/DFKI-SignLanguage/MMS-Player)<br>
+4. ⭐ Starred [codingstark-dev/fx-on-workers](https://github.com/codingstark-dev/fx-on-workers)<br>
+5. ⬆️ Pushed undefined commit(s) to [untilhamza/Templates](https://github.com/untilhamza/Templates)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
