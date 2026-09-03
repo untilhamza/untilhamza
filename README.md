@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
-2. ⭐ Starred [google-gemini/gemini-live-translate-livekit](https://github.com/google-gemini/gemini-live-translate-livekit)<br>
-3. ⭐ Starred [ZhengdiYu/SignAvatars](https://github.com/ZhengdiYu/SignAvatars)<br>
-4. ⭐ Starred [DFKI-SignLanguage/MMS-Player](https://github.com/DFKI-SignLanguage/MMS-Player)<br>
-5. ⭐ Starred [codingstark-dev/fx-on-workers](https://github.com/codingstark-dev/fx-on-workers)<br>
+1. ⬆️ Pushed undefined commit(s) to [HoverNotes/motiblog-claude-plugin](https://github.com/HoverNotes/motiblog-claude-plugin)<br>
+2. ⬆️ Pushed undefined commit(s) to [untilhamza/Booking-Web-App](https://github.com/untilhamza/Booking-Web-App)<br>
+3. ⭐ Starred [google-gemini/gemini-live-translate-livekit](https://github.com/google-gemini/gemini-live-translate-livekit)<br>
+4. ⭐ Starred [ZhengdiYu/SignAvatars](https://github.com/ZhengdiYu/SignAvatars)<br>
+5. ⭐ Starred [DFKI-SignLanguage/MMS-Player](https://github.com/DFKI-SignLanguage/MMS-Player)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
