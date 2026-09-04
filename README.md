@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [HoverNotes/motiblog-claude-plugin](https://github.com/HoverNotes/motiblog-claude-plugin)<br>
+1. ⬆️ Pushed undefined commit(s) to [untilhamza/elkpro-booking-web-app](https://github.com/untilhamza/elkpro-booking-web-app)<br>
 2. ⬆️ Pushed undefined commit(s) to [untilhamza/elkpro-booking-web-app](https://github.com/untilhamza/elkpro-booking-web-app)<br>
-3. ⭐ Starred [google-gemini/gemini-live-translate-livekit](https://github.com/google-gemini/gemini-live-translate-livekit)<br>
-4. ⭐ Starred [ZhengdiYu/SignAvatars](https://github.com/ZhengdiYu/SignAvatars)<br>
-5. ⭐ Starred [DFKI-SignLanguage/MMS-Player](https://github.com/DFKI-SignLanguage/MMS-Player)<br>
+3. ⬆️ Pushed undefined commit(s) to [HoverNotes/motiblog-claude-plugin](https://github.com/HoverNotes/motiblog-claude-plugin)<br>
+4. ⬆️ Pushed undefined commit(s) to [untilhamza/elkpro-booking-web-app](https://github.com/untilhamza/elkpro-booking-web-app)<br>
+5. ⭐ Starred [google-gemini/gemini-live-translate-livekit](https://github.com/google-gemini/gemini-live-translate-livekit)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
