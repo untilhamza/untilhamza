@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/Recordly](https://github.com/untilhamza/Recordly) from [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)<br>
-2. ⭐ Starred [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)<br>
-3. ⭐ Starred [AKCodez/seo-god](https://github.com/AKCodez/seo-god)<br>
-4. ⭐ Starred [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude)<br>
-5. ⭐ Starred [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)<br>
+1. ⭐ Starred [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)<br>
+2. 🔱 Forked [untilhamza/Recordly](https://github.com/untilhamza/Recordly) from [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)<br>
+3. ⭐ Starred [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)<br>
+4. ⭐ Starred [AKCodez/seo-god](https://github.com/AKCodez/seo-god)<br>
+5. ⭐ Starred [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
