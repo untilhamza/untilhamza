@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mmastrac/djev](https://github.com/mmastrac/djev)<br>
-2. ⭐ Starred [hypit-ai/hypit](https://github.com/hypit-ai/hypit)<br>
-3. ⭐ Starred [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)<br>
-4. 🔱 Forked [untilhamza/Recordly](https://github.com/untilhamza/Recordly) from [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)<br>
-5. ⭐ Starred [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)<br>
+1. ⭐ Starred [wmahfoudh/oryx](https://github.com/wmahfoudh/oryx)<br>
+2. ⭐ Starred [mmastrac/djev](https://github.com/mmastrac/djev)<br>
+3. ⭐ Starred [hypit-ai/hypit](https://github.com/hypit-ai/hypit)<br>
+4. ⭐ Starred [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)<br>
+5. 🔱 Forked [untilhamza/Recordly](https://github.com/untilhamza/Recordly) from [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
