@@ -84,11 +84,11 @@ src="https://img.shields.io/badge/-StackOverflow-0891b2?style=for-the-badge&logo
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/SurfSense](https://github.com/untilhamza/SurfSense) from [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)<br>
-2. ⭐ Starred [earendil-works/pi-durable-cloudflare](https://github.com/earendil-works/pi-durable-cloudflare)<br>
-3. ⭐ Starred [databasus/databasus](https://github.com/databasus/databasus)<br>
-4. ⭐ Starred [Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar)<br>
-5. ⭐ Starred [upf-gti/performs](https://github.com/upf-gti/performs)<br>
+1. ⭐ Starred [browser-use/open-duet](https://github.com/browser-use/open-duet)<br>
+2. 🔱 Forked [untilhamza/SurfSense](https://github.com/untilhamza/SurfSense) from [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)<br>
+3. ⭐ Starred [earendil-works/pi-durable-cloudflare](https://github.com/earendil-works/pi-durable-cloudflare)<br>
+4. ⭐ Starred [databasus/databasus](https://github.com/databasus/databasus)<br>
+5. ⭐ Starred [Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar)<br>
    <!--RECENT_ACTIVITY:end-->
    <!--END_SECTION:activity-->
 
