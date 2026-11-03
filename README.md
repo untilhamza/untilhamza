@@ -7,7 +7,7 @@
 ### What I'm building
 
 - 🎬 **[HoverNotes](https://hovernotes.io)**: privacy-first AI notes for online video learners, saved to your own Obsidian vault. Founder; grew it to five-figure MRR within its first year. My full-time focus.
-- 🧭 **[Quest](https://questheaven.com)**: travel planning software that turns safari plans into priced itineraries and client-ready quotes for East African tour operators. Co-founder & CTO.
+- 🧭 **[Quest](https://questbooking.ai)**: building an agentic operating system for tour operators. One agent, Ask Quest, works across their quotes, packages, website and blog, and asks before it acts. Co-founder & CTO.
 - 🕊️ **[JonjaBird](https://jonjabird.com)**: an agentic AI mailroom that helps foreign inmates in Korea stay in touch with their families abroad. Founder.
 - 🇺🇬 **[USKA](https://ugkorea.org)**: president of the Ugandans in South Korea Association.
 
