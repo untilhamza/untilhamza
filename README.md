@@ -20,7 +20,7 @@
 
 ### Tools I reach for
 
-TypeScript · React / Next.js · Python · FastAPI · LangGraph / LangChain · PostgreSQL · Cloudflare · Stripe · browser extensions
+TypeScript · React / Next.js · Python · FastAPI · LangGraph / LangChain · PostgreSQL · Docker · Cloudflare · AWS · Stripe · browser extensions
 
 ### Recent activity
 
