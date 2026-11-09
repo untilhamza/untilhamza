@@ -26,10 +26,10 @@ TypeScript · React / Next.js · Python · FastAPI · LangGraph / LangChain · P
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ChetasLua/moss-keeper](https://github.com/ChetasLua/moss-keeper)<br>
-2. ⭐ Starred [browser-use/open-duet](https://github.com/browser-use/open-duet)<br>
-3. 🔱 Forked [untilhamza/SurfSense](https://github.com/untilhamza/SurfSense) from [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)<br>
-4. ⭐ Starred [earendil-works/pi-durable-cloudflare](https://github.com/earendil-works/pi-durable-cloudflare)<br>
-5. ⭐ Starred [databasus/databasus](https://github.com/databasus/databasus)<br>
+1. 🔱 Forked [untilhamza/sakutto](https://github.com/untilhamza/sakutto) from [jammaru/sakutto](https://github.com/jammaru/sakutto)<br>
+2. ⭐ Starred [jammaru/sakutto](https://github.com/jammaru/sakutto)<br>
+3. ⭐ Starred [ChetasLua/moss-keeper](https://github.com/ChetasLua/moss-keeper)<br>
+4. ⭐ Starred [browser-use/open-duet](https://github.com/browser-use/open-duet)<br>
+5. 🔱 Forked [untilhamza/SurfSense](https://github.com/untilhamza/SurfSense) from [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
