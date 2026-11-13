@@ -26,10 +26,10 @@ TypeScript · React / Next.js · Python · FastAPI · LangGraph / LangChain · P
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [untilhamza/sakutto](https://github.com/untilhamza/sakutto) from [jammaru/sakutto](https://github.com/jammaru/sakutto)<br>
-2. ⭐ Starred [jammaru/sakutto](https://github.com/jammaru/sakutto)<br>
-3. ⭐ Starred [ChetasLua/moss-keeper](https://github.com/ChetasLua/moss-keeper)<br>
-4. ⭐ Starred [browser-use/open-duet](https://github.com/browser-use/open-duet)<br>
-5. 🔱 Forked [untilhamza/SurfSense](https://github.com/untilhamza/SurfSense) from [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)<br>
+1. 🔱 Forked [untilhamza/panel](https://github.com/untilhamza/panel) from [serveroshq/panel](https://github.com/serveroshq/panel)<br>
+2. ⭐ Starred [serveroshq/panel](https://github.com/serveroshq/panel)<br>
+3. 🔱 Forked [untilhamza/sakutto](https://github.com/untilhamza/sakutto) from [jammaru/sakutto](https://github.com/jammaru/sakutto)<br>
+4. ⭐ Starred [jammaru/sakutto](https://github.com/jammaru/sakutto)<br>
+5. ⭐ Starred [ChetasLua/moss-keeper](https://github.com/ChetasLua/moss-keeper)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
