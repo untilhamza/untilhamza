@@ -26,10 +26,10 @@ TypeScript · React / Next.js · Python · FastAPI · LangGraph / LangChain · P
 
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rauchg/winamp-ui-sdk](https://github.com/rauchg/winamp-ui-sdk)<br>
-2. 🔱 Forked [untilhamza/panel](https://github.com/untilhamza/panel) from [serveroshq/panel](https://github.com/serveroshq/panel)<br>
-3. ⭐ Starred [serveroshq/panel](https://github.com/serveroshq/panel)<br>
-4. 🔱 Forked [untilhamza/sakutto](https://github.com/untilhamza/sakutto) from [jammaru/sakutto](https://github.com/jammaru/sakutto)<br>
-5. ⭐ Starred [jammaru/sakutto](https://github.com/jammaru/sakutto)<br>
+1. ⭐ Starred [zhuyansen/awesome-claude-video-skills](https://github.com/zhuyansen/awesome-claude-video-skills)<br>
+2. ⭐ Starred [rauchg/winamp-ui-sdk](https://github.com/rauchg/winamp-ui-sdk)<br>
+3. 🔱 Forked [untilhamza/panel](https://github.com/untilhamza/panel) from [serveroshq/panel](https://github.com/serveroshq/panel)<br>
+4. ⭐ Starred [serveroshq/panel](https://github.com/serveroshq/panel)<br>
+5. 🔱 Forked [untilhamza/sakutto](https://github.com/untilhamza/sakutto) from [jammaru/sakutto](https://github.com/jammaru/sakutto)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
